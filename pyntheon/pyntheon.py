@@ -188,7 +188,7 @@ def unimap(fname, species, ptm=None, mutation=None):
 		elif species in ('zebra', 'zf'):
 			fname2 = "Zebra+finch.gff-PTMs.txt"
 		else:
-			raise ValueError("species name does not exits")#len(sys.argv))
+			raise ValueError("species name does not exits")
 		with  open(fname2,'rU') as pm:
 			for line in pm:
 				line = line.split()
@@ -200,7 +200,7 @@ def unimap(fname, species, ptm=None, mutation=None):
 								with open ('pyntheon-data.txt', 'a') as ac:
 									ac.write("\t".join(line)+'\n')
 						elif mutation:
-							if e[0] == line[0] and e[1] == line[1]:	#gives repeatation
+							if e[0] == line[0] and e[1] == line[1]:
 								with open ('pyntheon-mutation-data.txt', 'a') as ac:
 									ac.write("\t".join(line)+'\n')
 									pass
