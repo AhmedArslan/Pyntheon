@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: Pyntheon
+Version: 0.1
+Summary: An automated method to map proteins variants from a large range of species to protein modifications and functional regions
+Home-page: https://github.com/AhmedArslan/Pyntheon
+Author: Ahmed Arslan
+Author-email: ahmed.arslan@kuleuven.be
+License: MIT
+Description: "The Post-translational Modifications Universal Mapping Tool for popular lab specimens "
+Platform: Mac, Linux, Win
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
