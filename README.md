@@ -16,9 +16,13 @@ sudo python setup.py install
 cd /dir/pyntheon/pyntheon
 
 $pyntheon
+
 fname “/gives/name/of/file/“
+
 species “species-id”
+
 ptm True/False
+
 mutaton False/True
 
 # Usage (source-code)
@@ -26,6 +30,7 @@ mutaton False/True
 cd /dir/pyntheon
 
 $python pyntheon.py -f test1.txt -s hs -p TRUE
+
 $python pyntheon.py -f test1.txt -s hs -m TRUE
 
 # Parameter description
@@ -41,13 +46,13 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 
 # Species ID
 
-Species name 						-species
+Species name 						           -species
 
-Amphimedon queenslandica 				aq
+Amphimedon queenslandica 				   aq
 
-Anolis carolinensis 					ac
+Anolis carolinensis 					       ac
  
-Aplysia californica					acc
+Aplysia californica					        acc
 
 Arabidopsis thaliana 					at
 
