@@ -1,0 +1,28 @@
+A0AAR7	Modified	265	Phosphothreonine
+Q9BBU3	Modified	2	N-acetylthreonine
+Q9BBU3	Modified	2	Phosphothreonine
+Q9BBU1	Modified	3	N-acetylproline
+Q9BBU1	Modified	14	N6%2CN6%2CN6-trimethyllysine
+Q9BBU1	Modified	201	N6-carboxylysine
+Q9BBT0	Modified	2	N-acetylthreonine
+Q9BBT0	Modified	2	Phosphothreonine
+Q9BBT1	Modified	3	N-acetylthreonine
+Q9BBT1	Modified	3	Phosphothreonine
+Q9BBQ7	Modified	3	Phosphothreonine
+I3T2W6	Modified	103	1-thioglycine%3B	alternate
+I3SY17	Modified	285	N6-(pyridoxal	phosphate)lysine
+I3S9H6	Modified	258	N6-(pyridoxal	phosphate)lysine
+I3SD67	Modified	99	1-thioglycine
+Q6AVM3	Modified	263	Phosphothreonine
+O23264	Modified	2	N-acetylalanine
+Q70KF5	Modified	49	N6-(pyridoxal	phosphate)lysine
+I3SQ12	Modified	73	N6-(pyridoxal	phosphate)lysine
+Q684J8	Modified	277	N6-(pyridoxal	phosphate)lysine
+P0DI56	Glycosylation	170	N-linked	(GlcNAc...)
+Q564G7	Glycosylation	230	N-linked	(GlcNAc...)
+Q564G7	Glycosylation	328	N-linked	(GlcNAc...)
+A0AAR7	265	Phosphothreonine	Protein	domain
+Q9BBU1	201	N6-carboxylysine	Magnesium%3B via carbamate group	metal-binding
+Q6AVM3	263	Phosphothreonine	Protein	domain
+Q70KF5	49	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+I3SQ12	73	N6-(pyridoxal	phosphate)lysine	PALP	domain

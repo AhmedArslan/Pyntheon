@@ -1,0 +1,46 @@
+H0ZNR4	Modified	275	N6-(pyridoxal	phosphate)lysine
+H0ZMH3	Modified	87	3-oxoalanine	(Cys)
+B5FXT6	Modified	2	N-acetylserine
+Q91448	Modified	1	N-acetylmethionine
+H0Z3D3	Modified	717	N6-(pyridoxal	phosphate)lysine
+H0ZNC8	Modified	213	N6-(pyridoxal	phosphate)lysine
+H0ZSQ9	Modified	157	(3R)-3-hydroxyasparagine
+H0ZF95	Modified	88	3-oxoalanine	(Cys)
+H0Z7E0	Modified	211	N6-(pyridoxal	phosphate)lysine
+H0ZGK2	Modified	247	N6-(pyridoxal	phosphate)lysine
+H0ZB55	Modified	295	N6-(pyridoxal	phosphate)lysine
+H0ZC61	Modified	303	N6-(pyridoxal	phosphate)lysine
+H0ZGP1	Modified	156	(3R)-3-hydroxyasparagine
+H0ZL35	Modified	804	Phosphotyrosine
+H0ZJ27	Modified	156	N6-(pyridoxal	phosphate)lysine
+Q6UQ70	Modified	121	N6-(pyridoxal	phosphate)lysine
+H0ZCQ1	Modified	404	N6-(pyridoxal	phosphate)lysine
+H0ZSR4	Modified	148	(3R)-3-hydroxyasparagine
+H0Z834	Modified	48	3-oxoalanine	(Cys)
+H0ZC65	Modified	303	N6-(pyridoxal	phosphate)lysine
+H0ZDH5	Modified	280	N6-(pyridoxal	phosphate)lysine
+H0Z1P2	Modified	343	N6-(pyridoxal	phosphate)lysine
+H0YSC7	Modified	302	N6-(pyridoxal	phosphate)lysine
+H0Z022	Modified	297	N6-(pyridoxal	phosphate)lysine
+H0ZSE6	Modified	681	N6-(pyridoxal	phosphate)lysine
+H0Z9Q9	Modified	256	N6-(pyridoxal	phosphate)lysine
+H0Z2K7	Modified	46	N6-(pyridoxal	phosphate)lysine
+H0YZJ6	Modified	313	N6-(pyridoxal	phosphate)lysine
+H0Z3U2	Modified	566	N6-(pyridoxal	phosphate)lysine
+P56971	Glycosylation	79	N-linked	(GlcNAc...)
+P56971	Glycosylation	85	N-linked	(GlcNAc...)
+H0ZGU4	Glycosylation	54	CAR_5005737029
+B5G2S6	Glycosylation	35	N-linked	(GlcNAc...)
+H1A4K4	Cross-link	105	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+H0ZNR4	275	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H0ZMH3	87	3-oxoalanine	(Cys)	Sulfatase	domain
+H0ZSQ9	157	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0ZF95	88	3-oxoalanine	(Cys)	Sulfatase	domain
+H0Z7E0	211	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H0ZGP1	156	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0ZSR4	148	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0Z834	48	3-oxoalanine	(Cys)	Sulfatase	domain
+H0ZDH5	280	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H0Z2K7	46	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+Q9D6Z1	314	Phosphoserine	Nop	domain
+Q6DFW4	351	Phosphoserine	Nop	domain

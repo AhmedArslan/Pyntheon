@@ -1,0 +1,54 @@
+P41592	Modified	315	N6-(retinylidene)lysine
+G1KQZ3	Modified	87	3-oxoalanine	(Cys)
+P41589	Modified	13	Valine	amide
+P41591	Modified	296	N6-(retinylidene)lysine
+P51471	Modified	296	N6-(retinylidene)lysine
+G1KSG0	Modified	94	3-oxoalanine	(Cys)
+G1KBM4	Modified	281	N6-(pyridoxal	phosphate)lysine
+G1KG79	Modified	209	N6-(pyridoxal	phosphate)lysine
+H9GC31	Modified	157	(3R)-3-hydroxyasparagine
+H9GK11	Modified	212	N6-(pyridoxal	phosphate)lysine
+L7MZR9	Modified	153	(3R)-3-hydroxyasparagine
+H9G8M9	Modified	2	N-acetylserine
+G1KI73	Modified	346	N6-(pyridoxal	phosphate)lysine
+G1KCW2	Modified	766	N6-(pyridoxal	phosphate)lysine
+H9GB95	Modified	278	N6-(pyridoxal	phosphate)lysine
+H9GGD9	Modified	101	1-thioglycine
+H9GD21	Modified	283	N6-(pyridoxal	phosphate)lysine
+H9G8W5	Modified	313	N6-(pyridoxal	phosphate)lysine
+H9GKI5	Modified	612	N6-(pyridoxal	phosphate)lysine
+H9GJZ0	Modified	303	N6-(pyridoxal	phosphate)lysine
+H9GCQ9	Modified	166	(3R)-3-hydroxyasparagine
+H9GP29	Modified	221	N6-(pyridoxal	phosphate)lysine
+G1KHN1	Modified	397	N6-(pyridoxal	phosphate)lysine
+G1KG61	Modified	304	N6-(pyridoxal	phosphate)lysine
+G1KPJ7	Modified	573	N6-(pyridoxal	phosphate)lysine
+H9GEV2	Modified	258	N6-(pyridoxal	phosphate)lysine
+H9GNM5	Modified	275	N6-(pyridoxal	phosphate)lysine
+G1KHR5	Modified	303	N6-(pyridoxal	phosphate)lysine
+H9GE94	Modified	294	N6-(pyridoxal	phosphate)lysine
+H9G3C9	Modified	46	N6-(pyridoxal	phosphate)lysine
+H9GJP9	Modified	101	3-oxoalanine	(Cys)
+G1KPV7	Modified	277	N6-(pyridoxal	phosphate)lysine
+G1KBV9	Modified	90	3-oxoalanine	(Cys)
+H9GA02	Modified	604	N6-(pyridoxal	phosphate)lysine
+G1KCD1	Modified	86	1-thioglycine%3B	alternate
+H9GES5	Glycosylation	62	CAR_5005737036
+P41592	Glycosylation	37	N-linked	(GlcNAc...)
+P41591	Glycosylation	2	N-linked	(GlcNAc...)
+P41591	Glycosylation	15	N-linked	(GlcNAc...)
+P51471	Glycosylation	2	N-linked	(GlcNAc...)
+P51471	Glycosylation	15	N-linked	(GlcNAc...)
+P51471	Glycosylation	200	N-linked	(GlcNAc...)
+H9GDE5	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+G1KQZ3	87	3-oxoalanine	(Cys)	Sulfatase	domain
+G1KSG0	94	3-oxoalanine	(Cys)	Sulfatase	domain
+G1KBM4	281	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G1KG79	209	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H9GC31	157	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+L7MZR9	153	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H9GD21	283	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H9GCQ9	166	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H9G3C9	46	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+H9GJP9	101	3-oxoalanine	(Cys)	Sulfatase	domain
+G1KBV9	90	3-oxoalanine	(Cys)	Sulfatase	domain

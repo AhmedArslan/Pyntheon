@@ -1,0 +1,11 @@
+Q9GSA4	Modified	30	Asparagine	amide
+L7QRG0	Modified	270	N6-(pyridoxal	phosphate)lysine
+Q59U10	Modified	191	Phosphothreonine
+Q59U10	Modified	556	Phosphoserine
+P82176	Glycosylation	48	N-linked	(GlcNAc...)
+P82176	Glycosylation	149	N-linked	(GlcNAc...)
+O62605	Glycosylation	37	N-linked	(GlcNAc...)
+O62605	Glycosylation	69	N-linked	(GlcNAc...)
+O76192	Glycosylation	26	N-linked	(GlcNAc...)
+O76192	Glycosylation	146	N-linked	(GlcNAc...)
+Q8ITP4	Glycosylation	114	CAR_5005390031

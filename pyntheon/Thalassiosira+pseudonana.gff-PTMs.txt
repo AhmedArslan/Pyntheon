@@ -1,0 +1,32 @@
+A0T0N6	Modified	205	N6-carboxylysine
+A0T0T1	Modified	15	N-acetylthreonine
+A0T0T1	Modified	15	Phosphothreonine
+B8LCG0	Modified	448	N6-carboxylysine
+B5YLQ7	Modified	291	N6-(pyridoxal	phosphate)lysine
+B8C1A2	Modified	253	N6-(pyridoxal	phosphate)lysine
+B8CCS6	Modified	261	N6-(pyridoxal	phosphate)lysine
+B8C515	Modified	187	N6-(pyridoxal	phosphate)lysine
+B8BQU4	Modified	191	N6-(pyridoxal	phosphate)lysine
+A0T0F8	Modified	37	O-(pantetheine	4'-phosphoryl)serine
+Q9TK52	Modified	205	N6-carboxylysine
+A0T096	Modified	15	N-acetylthreonine
+A0T096	Modified	15	Phosphothreonine
+B8C1E5	Modified	29	N6-(pyridoxal	phosphate)lysine
+B8CFH6	Modified	245	N6-(pyridoxal	phosphate)lysine
+B8BUT1	Modified	53	N6-(pyridoxal	phosphate)lysine
+B8BY53	Modified	247	N6-(pyridoxal	phosphate)lysine
+B8C9L7	Modified	267	N6-(pyridoxal	phosphate)lysine
+B8BX31	Modified	703	N6-(pyridoxal	phosphate)lysine
+B8CG57	Modified	269	N6-(pyridoxal	phosphate)lysine
+B8C339	Modified	287	N6-(pyridoxal	phosphate)lysine
+B8BWK9	Modified	83	N6-(pyridoxal	phosphate)lysine
+B8C857	Modified	226	N6-(pyridoxal	phosphate)lysine
+B8CCE6	Modified	196	N6-(pyridoxal	phosphate)lysine
+A0T0N6	205	N6-carboxylysine	Magnesium%3B via carbamate group	metal-binding
+B8LCG0	448	N6-carboxylysine	Urease	domain
+B8LCG0	448	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+B8LCG0	448	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+Q9TK52	205	N6-carboxylysine	Magnesium%3B via carbamate group	metal-binding
+B8BUT1	53	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+B8BX31	703	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+B8BWK9	83	N6-(pyridoxal	phosphate)lysine	PALP	domain

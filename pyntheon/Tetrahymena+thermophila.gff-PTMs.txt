@@ -1,0 +1,90 @@
+P69150	Modified	5	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P69150	Modified	5	N6%2CN6-dimethyllysine%3B	alternate
+P69150	Modified	5	N6-acetyllysine%3B	alternate
+P69150	Modified	5	N6-methyllysine%3B	alternate
+P69150	Modified	10	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P69150	Modified	10	N6-acetyllysine%3B	alternate
+P69150	Modified	11	Phosphoserine
+P69150	Modified	15	N6-acetyllysine
+P69150	Modified	19	N6-acetyllysine
+P69150	Modified	24	N6-acetyllysine
+P69150	Modified	28	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P69150	Modified	28	N6%2CN6-dimethyllysine%3B	alternate
+P69150	Modified	28	N6-acetyllysine%3B	alternate
+P69150	Modified	28	N6-methyllysine%3B	alternate
+P69150	Modified	37	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P69150	Modified	37	N6%2CN6-dimethyllysine%3B	alternate
+P69150	Modified	37	N6-acetyllysine%3B	alternate
+P69150	Modified	37	N6-methyllysine%3B	alternate
+P69150	Modified	57	N6-acetyllysine%3B	alternate
+P69150	Modified	57	N6-methyllysine%3B	alternate
+P69150	Modified	80	N6-methyllysine
+P35064	Modified	2	N-acetylserine
+P35064	Modified	6	N6-acetyllysine
+P35064	Modified	9	N6-acetyllysine
+P35064	Modified	11	N6-acetyllysine
+P35064	Modified	13	N6-acetyllysine
+P35064	Modified	18	N6-acetyllysine
+P35064	Modified	123	Phosphoserine
+P35064	Modified	125	Phosphoserine
+P35064	Modified	130	Phosphoserine
+P35064	Modified	135	Phosphoserine
+P08992	Modified	5	N6-acetyllysine
+P08992	Modified	8	N6-acetyllysine
+P08992	Modified	11	N6-acetyllysine
+P08992	Modified	14	N6-acetyllysine
+P08992	Modified	17	N6-acetyllysine
+P08992	Modified	22	N6-acetyllysine
+P08993	Modified	2	N%2CN%2CN-trimethylalanine
+P08993	Modified	5	N6-acetyllysine
+P08993	Modified	42	N6-acetyllysine
+P69152	Modified	5	N6-acetyllysine
+P69152	Modified	8	N6-acetyllysine
+P69152	Modified	12	N6-acetyllysine
+P69152	Modified	16	N6-acetyllysine
+P08994	Modified	2	N%2CN%2CN-trimethylalanine
+P08994	Modified	5	N6-acetyllysine
+P08994	Modified	42	N6-acetyllysine
+P35065	Modified	2	N-acetylserine
+P35065	Modified	6	N6-acetyllysine
+P35065	Modified	9	N6-acetyllysine
+P35065	Modified	11	N6-acetyllysine
+P35065	Modified	13	N6-acetyllysine
+P35065	Modified	18	N6-acetyllysine
+P35065	Modified	123	Phosphoserine
+P41351	Modified	40	N6-acetyllysine
+P10156	Modified	47	Phosphothreonine
+P10156	Modified	54	Phosphothreonine
+Q22GF8	Modified	283	N6-(pyridoxal	phosphate)lysine
+Q27200	Modified	27	Asymmetric	dimethylarginine
+Q27200	Modified	47	Asymmetric	dimethylarginine
+Q27200	Modified	61	Asymmetric	dimethylarginine
+Q23PT8	Modified	264	N6-(pyridoxal	phosphate)lysine
+I7MCR2	Modified	97	1-thioglycine
+I7M483	Modified	241	N6-(pyridoxal	phosphate)lysine
+Q247W0	Modified	718	N6-(pyridoxal	phosphate)lysine
+Q23GD4	Modified	716	N6-(pyridoxal	phosphate)lysine
+Q05055	Modified	2	N-acetylalanine
+P62497	Modified	2	N-acetylalanine
+P0C233	Modified	248	Phosphothreonine
+P0C233	Modified	258	Phosphoserine
+Q03459	Modified	1	N-acetylmethionine
+Q24CI7	Modified	369	N6-(pyridoxal	phosphate)lysine
+Q23DS3	Modified	253	N6-(pyridoxal	phosphate)lysine
+Q23W29	Modified	738	N6-(pyridoxal	phosphate)lysine
+Q22UE1	Modified	371	N6-(pyridoxal	phosphate)lysine
+Q23K59	Modified	381	N6-(pyridoxal	phosphate)lysine
+Q23CV0	Modified	219	N6-(pyridoxal	phosphate)lysine
+Q23KJ4	Modified	263	N6-(pyridoxal	phosphate)lysine
+I7LVK0	Modified	304	N6-(pyridoxal	phosphate)lysine
+I7LY09	Modified	241	N6-(pyridoxal	phosphate)lysine
+I7MLA5	Modified	36	N6-(pyridoxal	phosphate)lysine
+I7M8S6	Modified	338	N6-(pyridoxal	phosphate)lysine
+Q22UJ3	Modified	242	N6-(pyridoxal	phosphate)lysine
+Q234M5	Modified	235	N6-(pyridoxal	phosphate)lysine
+Q23DS3	253	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+Q23W29	738	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+I7LY09	241	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+I7MLA5	36	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+Q22UJ3	242	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+Q234M5	235	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain

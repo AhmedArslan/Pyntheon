@@ -1,0 +1,80 @@
+A0A022Q646	Modified	91	1-thioglycine%3B	alternate
+A0A022QJW0	Modified	274	N6-(pyridoxal	phosphate)lysine
+A0A022QB78	Modified	487	N6-carboxylysine
+A0A022QS28	Modified	244	N6-(pyridoxal	phosphate)lysine
+A0A022RX68	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A022PVE7	Modified	314	N6-(pyridoxal	phosphate)lysine
+A0A022R8Y7	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A022RC26	Modified	264	N6-(pyridoxal	phosphate)lysine
+A0A022QAM5	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A022R0P2	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A022Q5L2	Modified	99	1-thioglycine
+A0A022R2M2	Modified	220	N6-(pyridoxal	phosphate)lysine
+A0A022QKG1	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A022PPW9	Modified	175	N6-(pyridoxal	phosphate)lysine
+A0A022R4Y6	Modified	69	N6-(pyridoxal	phosphate)lysine
+A0A022Q2P0	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A022QVI3	Modified	247	N6-(pyridoxal	phosphate)lysine
+A0A022RIY9	Modified	130	N6-(pyridoxal	phosphate)lysine
+A0A022QBW1	Modified	182	N6-(pyridoxal	phosphate)lysine
+A0A022PWM7	Modified	135	N6-(pyridoxal	phosphate)lysine
+A0A022RWU4	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A022RYZ9	Modified	692	N6-(pyridoxal	phosphate)lysine
+A0A022QJA7	Modified	42	N6-(pyridoxal	phosphate)lysine
+A0A022PXW7	Modified	765	N6-(pyridoxal	phosphate)lysine
+A0A022RCA0	Modified	147	N6-(pyridoxal	phosphate)lysine
+A0A022RXV8	Modified	266	N6-(pyridoxal	phosphate)lysine
+A0A022Q9E0	Modified	221	N6-(pyridoxal	phosphate)lysine
+A0A022RET0	Modified	346	N6-(pyridoxal	phosphate)lysine
+A0A022QSG8	Modified	119	N6-(pyridoxal	phosphate)lysine
+A0A022PMZ0	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A022RUI5	Modified	798	N6-(pyridoxal	phosphate)lysine
+A0A022RWT6	Modified	245	N6-(pyridoxal	phosphate)lysine
+A0A022R661	Modified	159	N6-(pyridoxal	phosphate)lysine
+A0A022QQA3	Modified	277	N6-(pyridoxal	phosphate)lysine
+A0A022QPU2	Modified	767	N6-(pyridoxal	phosphate)lysine
+A0A022PX32	Modified	260	N6-(pyridoxal	phosphate)lysine
+A0A022RJM5	Modified	129	N6-(pyridoxal	phosphate)lysine
+A0A022PY51	Modified	317	N6-(pyridoxal	phosphate)lysine
+A0A022QSH1	Modified	277	N6-(pyridoxal	phosphate)lysine
+A0A022PTK1	Modified	317	N6-(pyridoxal	phosphate)lysine
+A0A022RQ04	Modified	274	N6-(pyridoxal	phosphate)lysine
+A0A022R0C6	Cross-link	201	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022QL39	Cross-link	193	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022R1L7	Cross-link	200	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022R5P3	Cross-link	204	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022QG63	Cross-link	202	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022R1L2	Cross-link	201	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022QC39	Cross-link	206	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022R3H9	Cross-link	198	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022QE60	Cross-link	196	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A022QB78	487	N6-carboxylysine	Urease	domain
+A0A022QB78	487	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A022QB78	487	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A022R4Y6	69	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A022RIY9	130	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A022QJA7	42	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A022PXW7	765	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A022RCA0	147	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A022RWT6	245	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A022R661	159	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A022QPU2	767	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A022RQ04	274	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A022R0C6	201	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022R0C6	201	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022QL39	193	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022QL39	193	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022R1L7	200	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022R1L7	200	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022R5P3	204	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022R5P3	204	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022QG63	202	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022QG63	202	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022R1L2	201	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022R1L2	201	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022QC39	206	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022QC39	206	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022R3H9	198	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022R3H9	198	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A022QE60	196	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A022QE60	196	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding

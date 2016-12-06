@@ -1,0 +1,257 @@
+P53482	Modified	3	N-acetylaspartate
+P53482	Modified	46	Methionine	(R)-sulfoxide
+P53482	Modified	49	Methionine	(R)-sulfoxide
+P53482	Modified	75	Tele-methylhistidine
+P68142	Modified	44	Methionine	(R)-sulfoxide
+P68142	Modified	47	Methionine	(R)-sulfoxide
+P68142	Modified	73	Tele-methylhistidine
+H2SEM5	Modified	2	N-acetylserine
+Q90512	Modified	79	N6-lipoyllysine
+H2SKW4	Modified	276	N6-(pyridoxal	phosphate)lysine
+P53485	Modified	44	Methionine	(R)-sulfoxide
+P53485	Modified	47	Methionine	(R)-sulfoxide
+P53485	Modified	73	Tele-methylhistidine
+P53486	Modified	44	Methionine	(R)-sulfoxide
+P53486	Modified	47	Methionine	(R)-sulfoxide
+P53486	Modified	73	Tele-methylhistidine
+P68140	Modified	3	N-acetylaspartate
+P68140	Modified	46	Methionine	(R)-sulfoxide
+P68140	Modified	49	Methionine	(R)-sulfoxide
+P68140	Modified	75	Tele-methylhistidine
+H2STW0	Modified	205	N6-(pyridoxal	phosphate)lysine
+P53480	Modified	3	N-acetylaspartate
+P53480	Modified	46	Methionine	(R)-sulfoxide
+P53480	Modified	49	Methionine	(R)-sulfoxide
+P53480	Modified	75	Tele-methylhistidine
+H2STV9	Modified	284	N6-(pyridoxal	phosphate)lysine
+P53483	Modified	45	Methionine	(R)-sulfoxide
+P53483	Modified	48	Methionine	(R)-sulfoxide
+Q9W698	Modified	340	N6-(pyridoxal	phosphate)lysine
+O42499	Modified	28	Glycine	amide
+O42493	Modified	28	Glycine	amide
+Q1KKU1	Modified	320	N6-(pyridoxal	phosphate)lysine
+H2TSS6	Modified	49	3-oxoalanine	(Cys)
+H2S3K7	Modified	276	N6-(pyridoxal	phosphate)lysine
+H2SH89	Modified	160	(3R)-3-hydroxyasparagine
+H2S3K9	Modified	212	N6-(pyridoxal	phosphate)lysine
+H2S3K8	Modified	268	N6-(pyridoxal	phosphate)lysine
+H2S3L0	Modified	283	N6-(pyridoxal	phosphate)lysine
+H2SH87	Modified	157	(3R)-3-hydroxyasparagine
+H2T9P0	Modified	90	1-thioglycine
+H2S3K6	Modified	276	N6-(pyridoxal	phosphate)lysine
+H2SM14	Modified	83	3-oxoalanine	(Cys)
+H2U3M7	Modified	86	3-oxoalanine	(Cys)
+H2SH92	Modified	170	(3R)-3-hydroxyasparagine
+H2SH88	Modified	138	(3R)-3-hydroxyasparagine
+H2T8P2	Modified	305	N6-(pyridoxal	phosphate)lysine
+H2TJJ5	Modified	49	3-oxoalanine	(Cys)
+H2SH90	Modified	157	(3R)-3-hydroxyasparagine
+H2SDR8	Modified	676	Phosphotyrosine
+H2UL90	Modified	222	N6-(pyridoxal	phosphate)lysine
+H2SYT1	Modified	239	N6-(pyridoxal	phosphate)lysine
+H2ULC8	Modified	830	Phosphotyrosine
+H2TVS7	Modified	207	N6-(pyridoxal	phosphate)lysine
+H2ULC7	Modified	834	Phosphotyrosine
+H2VEE8	Modified	89	3-oxoalanine	(Cys)
+H2SH94	Modified	156	(3R)-3-hydroxyasparagine
+H2TIZ7	Modified	396	N6-(pyridoxal	phosphate)lysine
+H2RJY9	Modified	224	N6-(pyridoxal	phosphate)lysine
+H2V8V4	Modified	398	N6-(pyridoxal	phosphate)lysine
+H2V9C5	Modified	354	N6-(pyridoxal	phosphate)lysine
+H2T727	Modified	394	N6-(pyridoxal	phosphate)lysine
+H2SH91	Modified	159	(3R)-3-hydroxyasparagine
+H2V317	Modified	681	N6-(pyridoxal	phosphate)lysine
+H2TVS8	Modified	206	N6-(pyridoxal	phosphate)lysine
+H2TG53	Modified	311	N6-(pyridoxal	phosphate)lysine
+H2VEE9	Modified	89	3-oxoalanine	(Cys)
+H2SAC2	Modified	260	N6-(pyridoxal	phosphate)lysine
+H2V5J6	Modified	213	N6-(pyridoxal	phosphate)lysine
+H2TJJ3	Modified	89	3-oxoalanine	(Cys)
+H2S790	Modified	202	N6-(pyridoxal	phosphate)lysine
+H2SV21	Modified	682	N6-(pyridoxal	phosphate)lysine
+H2V315	Modified	313	N6-(pyridoxal	phosphate)lysine
+H2UL91	Modified	278	N6-(pyridoxal	phosphate)lysine
+H2TJJ4	Modified	89	3-oxoalanine	(Cys)
+H2T726	Modified	396	N6-(pyridoxal	phosphate)lysine
+H2UL92	Modified	274	N6-(pyridoxal	phosphate)lysine
+H2SV23	Modified	657	N6-(pyridoxal	phosphate)lysine
+H2U3M8	Modified	31	3-oxoalanine	(Cys)
+H2TSS4	Modified	89	3-oxoalanine	(Cys)
+H2UL93	Modified	280	N6-(pyridoxal	phosphate)lysine
+H2UAU5	Modified	688	N6-(pyridoxal	phosphate)lysine
+H2V5J5	Modified	218	N6-(pyridoxal	phosphate)lysine
+H2TVS5	Modified	211	N6-(pyridoxal	phosphate)lysine
+H2TJJ2	Modified	89	3-oxoalanine	(Cys)
+H2S788	Modified	202	N6-(pyridoxal	phosphate)lysine
+H2TVS4	Modified	232	N6-(pyridoxal	phosphate)lysine
+H2T725	Modified	397	N6-(pyridoxal	phosphate)lysine
+H2T8P1	Modified	305	N6-(pyridoxal	phosphate)lysine
+H2TJJ1	Modified	95	3-oxoalanine	(Cys)
+H2UL89	Modified	277	N6-(pyridoxal	phosphate)lysine
+H2T3Z9	Modified	682	N6-(pyridoxal	phosphate)lysine
+H2TVS6	Modified	207	N6-(pyridoxal	phosphate)lysine
+H2TSS2	Modified	90	3-oxoalanine	(Cys)
+H2SV22	Modified	644	N6-(pyridoxal	phosphate)lysine
+H2SAC1	Modified	252	N6-(pyridoxal	phosphate)lysine
+H2TJJ0	Modified	96	3-oxoalanine	(Cys)
+H2SMI3	Modified	288	N6-(pyridoxal	phosphate)lysine
+H2TSS5	Modified	86	3-oxoalanine	(Cys)
+H2S789	Modified	199	N6-(pyridoxal	phosphate)lysine
+H2SYT3	Modified	233	N6-(pyridoxal	phosphate)lysine
+H2SMI4	Modified	296	N6-(pyridoxal	phosphate)lysine
+H2V316	Modified	306	N6-(pyridoxal	phosphate)lysine
+H2S9R8	Modified	44	N6-(pyridoxal	phosphate)lysine
+H2V1U0	Modified	769	N6-(pyridoxal	phosphate)lysine
+P79750	Glycosylation	156	N-linked	(GlcNAc...)
+P79750	Glycosylation	165	N-linked	(GlcNAc...)
+P79750	Glycosylation	246	N-linked	(GlcNAc...)
+P79750	Glycosylation	250	N-linked	(GlcNAc...)
+P79750	Glycosylation	289	N-linked	(GlcNAc...)
+P79750	Glycosylation	301	N-linked	(GlcNAc...)
+P79750	Glycosylation	399	N-linked	(GlcNAc...)
+P79750	Glycosylation	420	N-linked	(GlcNAc...)
+P79750	Glycosylation	451	N-linked	(GlcNAc...)
+P79749	Glycosylation	87	N-linked	(GlcNAc...)
+P79749	Glycosylation	159	N-linked	(GlcNAc...)
+P79749	Glycosylation	224	N-linked	(GlcNAc...)
+P79749	Glycosylation	239	N-linked	(GlcNAc...)
+P79749	Glycosylation	309	N-linked	(GlcNAc...)
+P79749	Glycosylation	327	N-linked	(GlcNAc...)
+P79749	Glycosylation	457	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	96	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	148	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	169	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	249	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	342	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	346	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	355	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	369	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	379	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	408	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	422	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	429	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	433	N-linked	(GlcNAc...)
+Q8UVR8	Glycosylation	514	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	79	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	132	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	273	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	333	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	366	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	433	N-linked	(GlcNAc...)
+Q8AXC7	Glycosylation	444	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	227	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	260	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	314	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	351	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	395	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	448	N-linked	(GlcNAc...)
+Q8AXC6	Glycosylation	476	N-linked	(GlcNAc...)
+P53453	Glycosylation	10	N-linked	(GlcNAc...)
+P53453	Glycosylation	16	N-linked	(GlcNAc...)
+P53453	Glycosylation	22	N-linked	(GlcNAc...)
+Q18PF5	Glycosylation	60	N-linked	(GlcNAc...)
+O93279	Glycosylation	522	N-linked	(GlcNAc...)
+Q18PF6	Glycosylation	44	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	208	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	281	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	294	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	341	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	1230	N-linked	(GlcNAc...)
+Q2XVR7	Glycosylation	1244	N-linked	(GlcNAc...)
+Q90515	Glycosylation	173	N-linked	(GlcNAc...)
+Q2XVR6	Glycosylation	209	N-linked	(GlcNAc...)
+Q2XVR6	Glycosylation	285	N-linked	(GlcNAc...)
+Q2XVR6	Glycosylation	339	N-linked	(GlcNAc...)
+Q2XVR6	Glycosylation	1078	N-linked	(GlcNAc...)
+Q2XVR6	Glycosylation	1092	N-linked	(GlcNAc...)
+Q5NDE4	Glycosylation	98	N-linked	(GlcNAc...)
+Q5NDE4	Glycosylation	275	N-linked	(GlcNAc...)
+Q5NDE4	Glycosylation	553	N-linked	(GlcNAc...)
+P53452	Glycosylation	4	N-linked	(GlcNAc...)
+P79748	Glycosylation	5	N-linked	(GlcNAc...)
+P79748	Glycosylation	14	N-linked	(GlcNAc...)
+P79748	Glycosylation	21	N-linked	(GlcNAc...)
+O42384	Glycosylation	5	N-linked	(GlcNAc...)
+O42384	Glycosylation	6	N-linked	(GlcNAc...)
+O42384	Glycosylation	18	N-linked	(GlcNAc...)
+O42385	Glycosylation	9	N-linked	(GlcNAc...)
+O42385	Glycosylation	12	N-linked	(GlcNAc...)
+O42385	Glycosylation	30	N-linked	(GlcNAc...)
+Q98902	Glycosylation	317	N-linked	(GlcNAc...)
+Q98902	Glycosylation	503	N-linked	(GlcNAc...)
+Q98902	Glycosylation	520	N-linked	(GlcNAc...)
+Q98902	Glycosylation	531	N-linked	(GlcNAc...)
+Q98902	Glycosylation	794	N-linked	(GlcNAc...)
+Q98902	Glycosylation	839	N-linked	(GlcNAc...)
+Q98902	Glycosylation	1035	N-linked	(GlcNAc...)
+Q98902	Glycosylation	1046	N-linked	(GlcNAc...)
+Q98902	Glycosylation	1068	N-linked	(GlcNAc...)
+Q98902	Glycosylation	1083	N-linked	(GlcNAc...)
+Q98902	Glycosylation	1108	N-linked	(GlcNAc...)
+Q5QQ37	Glycosylation	353	N-linked	(GlcNAc...)
+Q5QQ37	Glycosylation	373	N-linked	(GlcNAc...)
+P53454	Glycosylation	6	N-linked	(GlcNAc...)
+Q9YHT8	Glycosylation	61	N-linked	(GlcNAc...)
+Q70AG8	Glycosylation	173	N-linked	(GlcNAc...)
+Q70AG8	Glycosylation	428	N-linked	(GlcNAc...)
+Q70AG8	Glycosylation	478	N-linked	(GlcNAc...)
+Q8AV84	Glycosylation	86	N-linked	(GlcNAc...)
+Q8AV84	Glycosylation	117	N-linked	(GlcNAc...)
+Q8AV84	Glycosylation	261	N-linked	(GlcNAc...)
+Q8AV84	Glycosylation	365	N-linked	(GlcNAc...)
+Q8AV84	Glycosylation	375	N-linked	(GlcNAc...)
+Q98894	Glycosylation	78	N-linked	(GlcNAc...)
+Q98894	Glycosylation	87	N-linked	(GlcNAc...)
+P79755	Glycosylation	246	N-linked	(GlcNAc...)
+P79755	Glycosylation	274	N-linked	(GlcNAc...)
+P79755	Glycosylation	354	N-linked	(GlcNAc...)
+P79755	Glycosylation	545	N-linked	(GlcNAc...)
+Q98895	Glycosylation	78	N-linked	(GlcNAc...)
+Q98895	Glycosylation	86	N-linked	(GlcNAc...)
+Q90XY5	Glycosylation	27	N-linked	(GlcNAc...)
+Q90XY5	Glycosylation	279	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	256	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	564	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	988	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	1129	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	1391	N-linked	(GlcNAc...)
+Q98UF7	Glycosylation	1622	N-linked	(GlcNAc...)
+O93434	Glycosylation	44	N-linked	(GlcNAc...)
+Q9PUQ8	Glycosylation	12	N-linked	(GlcNAc...)
+O42179	Glycosylation	40	N-linked	(GlcNAc...)
+H2S1L5	Glycosylation	61	CAR_5005737034
+H2V0W1	Cross-link	158	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+Q90512	79	N6-lipoyllysine	Lipoyl-binding	domain
+H2SKW4	276	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2TSS6	49	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SH89	160	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2SH87	157	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2SM14	83	3-oxoalanine	(Cys)	Sulfatase	domain
+H2U3M7	86	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SH92	170	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2SH88	138	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2TJJ5	49	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SH90	157	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2SYT1	239	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2TVS7	207	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2VEE8	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SH94	156	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2SH91	159	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2TVS8	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2VEE9	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TJJ3	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TJJ4	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2U3M8	31	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TSS4	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TVS5	211	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2TJJ2	89	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TVS4	232	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2TJJ1	95	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TVS6	207	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2TSS2	90	3-oxoalanine	(Cys)	Sulfatase	domain
+H2TJJ0	96	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SMI3	288	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H2TSS5	86	3-oxoalanine	(Cys)	Sulfatase	domain
+H2SYT3	233	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2SMI4	296	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H2S9R8	44	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain

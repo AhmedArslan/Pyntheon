@@ -1,0 +1,13 @@
+P07071	Modified	580	Glycine	radical
+P23992	Modified	160	Glutamine	derivative
+P13316	Modified	95	Glycine	radical
+P0AG67	Modified	229	N6-acetyllysine
+P0AG67	Modified	279	N6-acetyllysine
+P0AG67	Modified	363	N6-acetyllysine
+Q6U9U4	Modified	225	N6-(pyridoxal	phosphate)lysine
+P07071	580	Glycine	radical	Glycine	domain
+P07071	580	Glycine	radical	PDB:1H7B	Helix-region
+P13316	95	Glycine	radical	Glycine	domain
+P0AG67	229	N6-acetyllysine	S1	domain
+P0AG67	279	N6-acetyllysine	S1	domain
+P0AG67	279	N6-acetyllysine	PDB:2KHI	Helix-region

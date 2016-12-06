@@ -1,0 +1,10 @@
+A0A0U2I6D6	Modified	2	N-acetylthreonine
+A0A0U2I6D6	Modified	2	Phosphothreonine
+A0A0U2JT06	Modified	15	N-acetylthreonine
+A0A0U2JT06	Modified	15	Phosphothreonine
+A0A097ZQH9	Cross-link	189	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A097ZQI2	Cross-link	189	2'-(S-cysteinyl)-histidine	(Cys-His)
+A0A097ZQH9	189	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A097ZQH9	189	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+A0A097ZQI2	189	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+A0A097ZQI2	189	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding

@@ -1,0 +1,38 @@
+H3G153	Modified	239	N6-(pyridoxal	phosphate)lysine
+A0A0F5CFK6	Modified	280	N6-(pyridoxal	phosphate)lysine
+H3DSH8	Modified	217	N6-(pyridoxal	phosphate)lysine
+H3E2U4	Modified	287	N6-(pyridoxal	phosphate)lysine
+H3FBV5	Modified	201	N6-(pyridoxal	phosphate)lysine
+H3G3V0	Modified	206	N6-(pyridoxal	phosphate)lysine
+H3FUV5	Modified	241	N6-(pyridoxal	phosphate)lysine
+A0A0F5CZ79	Modified	208	N6-(pyridoxal	phosphate)lysine
+H3FNE2	Modified	100	1-thioglycine
+H3EW53	Modified	682	N6-(pyridoxal	phosphate)lysine
+H3FR25	Modified	729	N6-(pyridoxal	phosphate)lysine
+A0A0F5C767	Modified	151	N6-(pyridoxal	phosphate)lysine
+A0A0F5CPI1	Modified	651	N6-(pyridoxal	phosphate)lysine
+H3G1W9	Modified	806	N6-(pyridoxal	phosphate)lysine
+A0A0F5CZ77	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0F5CBI0	Modified	194	N6-(pyridoxal	phosphate)lysine
+H3E8C5	Modified	305	N6-(pyridoxal	phosphate)lysine
+H3DZM9	Modified	731	N6-(pyridoxal	phosphate)lysine
+H3EGU9	Modified	349	N6-(pyridoxal	phosphate)lysine
+A0A0F5CFB9	Modified	273	N6-(pyridoxal	phosphate)lysine
+H3FG33	Modified	319	N6-(pyridoxal	phosphate)lysine
+H3DRH3	Modified	104	3-oxoalanine	(Cys)
+H3DYB8	Modified	140	N6-(pyridoxal	phosphate)lysine
+H3DTM0	Modified	312	N6-(pyridoxal	phosphate)lysine
+H3FE38	Modified	278	N6-(pyridoxal	phosphate)lysine
+H3FCS8	Modified	203	N6-(pyridoxal	phosphate)lysine
+H3DYB7	Modified	350	N6-(pyridoxal	phosphate)lysine
+H3E0U9	Modified	27	N6-(pyridoxal	phosphate)lysine
+A0A0F5D2V1	Modified	116	N6-(pyridoxal	phosphate)lysine
+H3F144	Cross-link	150	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+H3EE70	Cross-link	148	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0F5CPT6	Cross-link	154	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0F5C3T2	Cross-link	167	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+H3G153	239	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H3DZM9	731	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+H3DRH3	104	3-oxoalanine	(Cys)	Sulfatase	domain
+H3FE38	278	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H3E0U9	27	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain

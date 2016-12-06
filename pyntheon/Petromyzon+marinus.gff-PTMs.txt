@@ -1,0 +1,46 @@
+P02678	Modified	13	Sulfotyrosine
+Q98980	Modified	296	N6-(retinylidene)lysine
+S4RTN8	Modified	280	N6-(pyridoxal	phosphate)lysine
+O42490	Modified	304	N6-(retinylidene)lysine
+P69129	Modified	9	Glycine	amide
+S4RNL3	Modified	280	N6-(pyridoxal	phosphate)lysine
+P30948	Modified	10	Glycine	amide
+P04378	Modified	10	Glycine	amide
+S4RT91	Modified	101	1-thioglycine
+S4RA84	Modified	266	N6-(pyridoxal	phosphate)lysine
+S4RLF1	Modified	682	N6-(pyridoxal	phosphate)lysine
+S4RUH0	Modified	600	N6-(pyridoxal	phosphate)lysine
+S4RQ55	Modified	172	(3R)-3-hydroxyasparagine
+P80024	Modified	36	Tyrosine	amide
+S4RIZ2	Modified	41	N6-(pyridoxal	phosphate)lysine
+S4RM64	Modified	297	N6-(pyridoxal	phosphate)lysine
+S4R9N6	Modified	151	N6-(pyridoxal	phosphate)lysine
+S4RF84	Modified	83	3-oxoalanine	(Cys)
+S4RN88	Modified	306	N6-(pyridoxal	phosphate)lysine
+S4RMG2	Modified	746	Phosphotyrosine
+S4RJ72	Modified	307	N6-(pyridoxal	phosphate)lysine
+S4R9H3	Modified	203	N6-(pyridoxal	phosphate)lysine
+Q35536	Cross-link	244	1'-histidyl-3'-tyrosine	(His-Tyr)
+P04115	Glycosylation	227	N-linked	(GlcNAc...)
+P02678	Glycosylation	27	N-linked	(GlcNAc...)
+Q91274	Glycosylation	490	N-linked	(GlcNAc...)
+Q91274	Glycosylation	541	N-linked	(GlcNAc...)
+Q91274	Glycosylation	652	N-linked	(GlcNAc...)
+Q91274	Glycosylation	754	N-linked	(GlcNAc...)
+Q91274	Glycosylation	908	N-linked	(GlcNAc...)
+Q91274	Glycosylation	911	N-linked	(GlcNAc...)
+Q91274	Glycosylation	954	N-linked	(GlcNAc...)
+Q91274	Glycosylation	1070	N-linked	(GlcNAc...)
+Q91274	Glycosylation	1236	N-linked	(GlcNAc...)
+Q98980	Glycosylation	2	N-linked	(GlcNAc...)
+Q98980	Glycosylation	15	N-linked	(GlcNAc...)
+P33573	Glycosylation	271	N-linked	(GlcNAc...)
+P33573	Glycosylation	397	N-linked	(GlcNAc...)
+P33573	Glycosylation	458	N-linked	(GlcNAc...)
+O42490	Glycosylation	25	N-linked	(GlcNAc...)
+Q9PVD5	Glycosylation	172	N-linked	(GlcNAc...)
+S4RE84	Cross-link	163	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+S4RTN8	280	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+S4RQ55	172	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+S4RIZ2	41	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+S4RF84	83	3-oxoalanine	(Cys)	Sulfatase	domain

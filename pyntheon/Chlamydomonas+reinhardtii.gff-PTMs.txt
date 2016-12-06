@@ -1,0 +1,208 @@
+P00877	Modified	3	N-acetylproline
+P00877	Modified	104	4-hydroxyproline
+P00877	Modified	151	4-hydroxyproline
+P00877	Modified	201	N6-carboxylysine
+P00877	Modified	256	S-methylcysteine
+P00877	Modified	369	S-methylcysteine
+P07753	Modified	2	N-acetylthreonine
+P07753	Modified	2	Phosphothreonine
+P22666	Modified	3	Phosphothreonine
+Q93WD2	Modified	2	N-acetylvaline
+Q6LCW8	Modified	5	N6-methyllysine
+Q6LCW8	Modified	10	N6-acetyllysine%3B	alternate
+Q6LCW8	Modified	10	N6-methyllysine%3B	alternate
+Q6LCW8	Modified	11	Phosphoserine
+Q6LCW8	Modified	12	Phosphothreonine
+Q6LCW8	Modified	15	N6-acetyllysine
+Q6LCW8	Modified	19	N6-acetyllysine
+Q6LCW8	Modified	24	N6-acetyllysine
+Q6LCW8	Modified	28	N6-acetyllysine%3B	alternate
+Q6LCW8	Modified	28	N6-methyllysine%3B	alternate
+Q6LCW8	Modified	36	N6-methyllysine
+Q6LCW8	Modified	37	N6-methyllysine
+Q42681	Modified	5	N6-methyllysine
+Q42681	Modified	10	N6-acetyllysine%3B	alternate
+Q42681	Modified	10	N6-methyllysine%3B	alternate
+Q42681	Modified	11	Phosphoserine
+Q42681	Modified	12	Phosphothreonine
+Q42681	Modified	15	N6-acetyllysine
+Q42681	Modified	19	N6-acetyllysine
+Q42681	Modified	24	N6-acetyllysine
+Q42681	Modified	28	N6-acetyllysine%3B	alternate
+Q42681	Modified	28	N6-methyllysine%3B	alternate
+Q42681	Modified	36	N6-methyllysine
+Q42681	Modified	37	N6-methyllysine
+P50564	Modified	5	N6-methyllysine
+P50564	Modified	10	N6-acetyllysine%3B	alternate
+P50564	Modified	10	N6-methyllysine%3B	alternate
+P50564	Modified	11	Phosphoserine
+P50564	Modified	12	Phosphothreonine
+P50564	Modified	15	N6-acetyllysine
+P50564	Modified	19	N6-acetyllysine
+P50564	Modified	24	N6-acetyllysine
+P50564	Modified	28	N6-acetyllysine%3B	alternate
+P50564	Modified	28	N6-methyllysine%3B	alternate
+P50564	Modified	36	N6-methyllysine
+P50564	Modified	37	N6-methyllysine
+P50565	Modified	41	N6-acetyllysine
+P50565	Modified	42	N6-acetyllysine
+P54347	Modified	41	N6-acetyllysine
+P54347	Modified	42	N6-acetyllysine
+P54346	Modified	41	N6-acetyllysine
+P54346	Modified	42	N6-acetyllysine
+P54345	Modified	40	N6-acetyllysine
+P54345	Modified	41	N6-acetyllysine
+P53991	Modified	118	N6%2CN6%2CN6-trimethyllysine
+P53991	Modified	124	N6%2CN6%2CN6-trimethyllysine
+P53991	Modified	170	N6%2CN6-dimethyllysine
+Q6UBQ3	Modified	104	Asymmetric	dimethylarginine
+Q6UBQ3	Modified	260	Asymmetric	dimethylarginine
+Q6UBQ3	Modified	453	Asymmetric	dimethylarginine
+Q6UBQ3	Modified	538	Asymmetric	dimethylarginine
+Q6UBQ3	Modified	615	Asymmetric	dimethylarginine
+P00873	Modified	46	N-methylmethionine
+Q37304	Modified	1	N-formylmethionine
+P08475	Modified	46	N-methylmethionine
+P09204	Modified	40	N6-acetyllysine
+A8IQT2	Modified	246	Asymmetric	dimethylarginine
+A8IQT2	Modified	523	Asymmetric	dimethylarginine
+P09205	Modified	40	N6-acetyllysine
+P14273	Modified	22	Phosphothreonine
+P06007	Modified	2	N-acetylthreonine
+P06007	Modified	2	Phosphothreonine
+P10898	Modified	3	N-acetylthreonine
+P10898	Modified	3	Phosphothreonine
+A8J9T5	Modified	233	2%2C3-didehydroalanine	(Cys)
+P14217	Modified	73	3-oxoalanine	(Cys)
+Q39566	Modified	303	N6-(pyridoxal	phosphate)lysine
+Q27YU7	Modified	191	Asymmetric	dimethylarginine
+Q27YU7	Modified	366	Asymmetric	dimethylarginine
+Q01657	Modified	267	Asymmetric	dimethylarginine
+Q01657	Modified	398	Asymmetric	dimethylarginine
+A8J8F6	Modified	462	Asymmetric	dimethylarginine
+P04352	Modified	2	N-acetylalanine
+A8IYD3	Modified	294	N6-(pyridoxal	phosphate)lysine
+Q27YU0	Modified	243	Asymmetric	dimethylarginine
+Q27YU0	Modified	428	Asymmetric	dimethylarginine
+A8JB22	Modified	48	Asymmetric	dimethylarginine
+A8JB22	Modified	94	Asymmetric	dimethylarginine
+Q8NEP3	Modified	358	Phosphoserine
+Q8NEP3	Modified	559	Phosphothreonine
+Q8NEP3	Modified	562	Phosphoserine
+Q8NEP3	Modified	583	Phosphoserine
+Q9UI46	Modified	131	Phosphoserine
+Q9UI46	Modified	134	Phosphoserine
+A8JJB2	Modified	83	1-thioglycine%3B	alternate
+P37836	Modified	170	Glycine	radical
+Q2QYY8	Modified	173	S-4a-FMN	cysteine
+Q2QYY8	Modified	450	S-4a-FMN	cysteine
+Q9ST27	Modified	139	S-4a-FMN	cysteine
+Q9ST27	Modified	425	S-4a-FMN	cysteine
+O48963	Modified	23	Phosphoserine
+O48963	Modified	58	Phosphoserine
+O48963	Modified	185	Phosphoserine
+O48963	Modified	234	S-4a-FMN	cysteine
+O48963	Modified	350	Phosphoserine
+O48963	Modified	376	Phosphoserine
+O48963	Modified	410	Phosphoserine
+O48963	Modified	450	Phosphoserine
+O48963	Modified	512	S-4a-FMN	cysteine
+Q2RBR1	Modified	173	S-4a-FMN	cysteine
+Q2RBR1	Modified	450	S-4a-FMN	cysteine
+P93025	Modified	9	Phosphoserine
+P93025	Modified	22	Phosphoserine
+P93025	Modified	121	Phosphoserine
+P93025	Modified	170	S-4a-FMN	cysteine
+P93025	Modified	364	Phosphoserine
+P93025	Modified	426	S-4a-FMN	cysteine
+A8IC48	Modified	99	1-thioglycine
+Q2VA40	Modified	720	N6-(pyridoxal	phosphate)lysine
+Q9ATG5	Modified	73	3-oxoalanine	(Cys)
+Q8W4V3	Modified	292	N6-(pyridoxal	phosphate)lysine
+Q2VA41	Modified	849	N6-(pyridoxal	phosphate)lysine
+A8ISJ6	Modified	78	3-oxoalanine	(Cys)
+A8I6U1	Modified	67	N6-(pyridoxal	phosphate)lysine
+A8HMB6	Modified	235	N6-(pyridoxal	phosphate)lysine
+A8J7L4	Modified	328	N6-(pyridoxal	phosphate)lysine
+A8I963	Modified	71	3-oxoalanine	(Cys)
+A8JFJ2	Modified	242	N6-(pyridoxal	phosphate)lysine
+A8IYK1	Modified	849	N6-(pyridoxal	phosphate)lysine
+A8JFK4	Modified	243	N6-(pyridoxal	phosphate)lysine
+A8HQB6	Modified	298	N6-(pyridoxal	phosphate)lysine
+A8J355	Modified	281	N6-(pyridoxal	phosphate)lysine
+A8JFZ0	Modified	233	N6-(pyridoxal	phosphate)lysine
+A8J4R9	Modified	278	N6-(pyridoxal	phosphate)lysine
+A8HP79	Modified	37	N6-(pyridoxal	phosphate)lysine
+A8IVM9	Modified	775	N6-(pyridoxal	phosphate)lysine
+Q3HTJ5	Modified	3	N-acetylthreonine
+Q3HTJ5	Modified	3	Phosphothreonine
+P20507	Glycosylation	101	N-linked	(GlcNAc...)
+P20507	Glycosylation	135	N-linked	(GlcNAc...)
+P20507	Glycosylation	297	N-linked	(GlcNAc...)
+P24258	Glycosylation	101	N-linked	(GlcNAc...)
+P24258	Glycosylation	135	N-linked	(GlcNAc...)
+P24258	Glycosylation	297	N-linked	(GlcNAc...)
+P31178	Glycosylation	30	N-linked	(GlcNAc...)
+P31178	Glycosylation	126	N-linked	(GlcNAc...)
+P31178	Glycosylation	296	N-linked	(GlcNAc...)
+P31178	Glycosylation	458	N-linked	(GlcNAc...)
+P31178	Glycosylation	465	N-linked	(GlcNAc...)
+P31178	Glycosylation	470	N-linked	(GlcNAc...)
+P31178	Glycosylation	523	N-linked	(GlcNAc...)
+P08681	Cross-link	239	1'-histidyl-3'-tyrosine	(His-Tyr)
+P14217	Glycosylation	42	N-linked	(GlcNAc...)
+P14217	Glycosylation	90	N-linked	(GlcNAc...)
+P14217	Glycosylation	279	N-linked	(GlcNAc...)
+P14217	Glycosylation	444	N-linked	(GlcNAc...)
+P14217	Glycosylation	528	N-linked	(GlcNAc...)
+Q9FPQ6	Glycosylation	399	N-linked	(GlcNAc...)
+Q9FPQ6	Glycosylation	455	N-linked	(GlcNAc...)
+Q9FPQ6	Glycosylation	493	N-linked	(GlcNAc...)
+Q8GSP8	Glycosylation	41	N-linked	(GlcNAc...)
+Q7X8Q2	Glycosylation	452	CAR_5006759697
+A8IE68	Cross-link	239	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+P00877	201	N6-carboxylysine	Magnesium%3B via carbamate group	metal-binding
+P00877	201	N6-carboxylysine	PDB:1GK8	Helix-region
+P00877	256	S-methylcysteine	PDB:1GK8	Helix-region
+P53991	118	N6%2CN6%2CN6-trimethyllysine	FAD-binding	domain
+P53991	124	N6%2CN6%2CN6-trimethyllysine	FAD-binding	domain
+P53991	170	N6%2CN6-dimethyllysine	FAD-binding	domain
+P14217	73	3-oxoalanine	(Cys)	Calcium%3B via 3-oxoalanine	metal-binding
+P37836	170	Glycine	radical	Glycine	domain
+Q2QYY8	173	S-4a-FMN	cysteine	PAS	domain
+Q2QYY8	173	S-4a-FMN	cysteine	FMN	nucleotide-binding
+Q2QYY8	450	S-4a-FMN	cysteine	PAS	domain
+Q2QYY8	450	S-4a-FMN	cysteine	FMN	nucleotide-binding
+Q9ST27	139	S-4a-FMN	cysteine	PAS	domain
+Q9ST27	139	S-4a-FMN	cysteine	FMN	nucleotide-binding
+Q9ST27	425	S-4a-FMN	cysteine	PAS	domain
+Q9ST27	425	S-4a-FMN	cysteine	FMN	nucleotide-binding
+O48963	185	Phosphoserine	PAS	domain
+O48963	234	S-4a-FMN	cysteine	PAS	domain
+O48963	234	S-4a-FMN	cysteine	FMN	nucleotide-binding
+O48963	234	S-4a-FMN	cysteine	PDB:2Z6C	Helix-region
+O48963	512	S-4a-FMN	cysteine	PAS	domain
+O48963	512	S-4a-FMN	cysteine	FMN	nucleotide-binding
+O48963	512	S-4a-FMN	cysteine	PDB:4HHD	Helix-region
+Q2RBR1	173	S-4a-FMN	cysteine	PAS	domain
+Q2RBR1	173	S-4a-FMN	cysteine	FMN	nucleotide-binding
+Q2RBR1	450	S-4a-FMN	cysteine	PAS	domain
+Q2RBR1	450	S-4a-FMN	cysteine	FMN	nucleotide-binding
+P93025	121	Phosphoserine	PAS	domain
+P93025	170	S-4a-FMN	cysteine	PAS	domain
+P93025	170	S-4a-FMN	cysteine	FMN	nucleotide-binding
+P93025	170	S-4a-FMN	cysteine	PDB:2Z6D	Helix-region
+P93025	426	S-4a-FMN	cysteine	PAS	domain
+P93025	426	S-4a-FMN	cysteine	FMN	nucleotide-binding
+P93025	426	S-4a-FMN	cysteine	PDB:4EET	Helix-region
+Q9ATG5	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A8ISJ6	78	3-oxoalanine	(Cys)	Sulfatase	domain
+A8I6U1	67	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A8I963	71	3-oxoalanine	(Cys)	Sulfatase	domain
+A8JFJ2	242	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A8JFZ0	233	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A8HP79	37	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A8IVM9	775	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+P20507	101	N-linked	(GlcNAc...)	PDB:3B1B	Helix-region
+P20507	297	N-linked	(GlcNAc...)	PDB:3B1B	Helix-region
+P08681	239	1'-histidyl-3'-tyrosine	(His-Tyr)	Copper B	metal-binding

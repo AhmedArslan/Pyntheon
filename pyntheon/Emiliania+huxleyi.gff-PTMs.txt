@@ -1,0 +1,46 @@
+Q4G3F4	Modified	205	N6-carboxylysine
+R1C732	Modified	274	N6-(pyridoxal	phosphate)lysine
+Q4G396	Modified	15	N-acetylthreonine
+Q4G396	Modified	15	Phosphothreonine
+R1D9T3	Modified	286	N6-(pyridoxal	phosphate)lysine
+R1DEX6	Modified	481	N6-carboxylysine
+R1DZ60	Modified	280	N6-(pyridoxal	phosphate)lysine
+R1DPF5	Modified	240	N6-(pyridoxal	phosphate)lysine
+R1E3F4	Modified	280	N6-(pyridoxal	phosphate)lysine
+R1C1E3	Modified	196	N6-(pyridoxal	phosphate)lysine
+R1EZV2	Modified	92	3-oxoalanine	(Cys)
+R1D9L5	Modified	241	N6-(pyridoxal	phosphate)lysine
+R1DVH8	Modified	319	N6-(pyridoxal	phosphate)lysine
+R1EWG0	Modified	224	N6-(pyridoxal	phosphate)lysine
+R1D4G4	Modified	327	N6-(pyridoxal	phosphate)lysine
+R1FG97	Modified	206	N6-(pyridoxal	phosphate)lysine
+R1FIR6	Modified	47	N6-(pyridoxal	phosphate)lysine
+R1ES23	Modified	187	N6-(pyridoxal	phosphate)lysine
+R1EM83	Modified	327	N6-(pyridoxal	phosphate)lysine
+R1F6W8	Modified	224	N6-(pyridoxal	phosphate)lysine
+R1D8K1	Modified	68	N6-(pyridoxal	phosphate)lysine
+R1DTH0	Modified	188	N6-(pyridoxal	phosphate)lysine
+R1FJG9	Modified	275	N6-(pyridoxal	phosphate)lysine
+R1CZH2	Modified	274	N6-(pyridoxal	phosphate)lysine
+R1F817	Modified	68	N6-(pyridoxal	phosphate)lysine
+R1F672	Modified	206	N6-(pyridoxal	phosphate)lysine
+R1DCC8	Modified	188	N6-(pyridoxal	phosphate)lysine
+R1E3U6	Modified	334	N6-(pyridoxal	phosphate)lysine
+R1F6B6	Modified	6	N6-(pyridoxal	phosphate)lysine
+R1EB54	Modified	75	3-oxoalanine	(Cys)
+R1DRB5	Modified	72	N6-(pyridoxal	phosphate)lysine
+B9A1H3	Cross-link	494	Cysteinyl-selenocysteine	(Cys-Sec)
+R1DG43	Cross-link	294	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+R1B838	Cross-link	346	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+R1FNC9	Cross-link	346	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+Q4G3F4	205	N6-carboxylysine	Magnesium%3B via carbamate group	metal-binding
+R1DEX6	481	N6-carboxylysine	Urease	domain
+R1DEX6	481	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+R1DEX6	481	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+R1EZV2	92	3-oxoalanine	(Cys)	Sulfatase	domain
+R1D8K1	68	N6-(pyridoxal	phosphate)lysine	PALP	domain
+R1CZH2	274	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+R1F817	68	N6-(pyridoxal	phosphate)lysine	PALP	domain
+R1F6B6	6	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+R1EB54	75	3-oxoalanine	(Cys)	Sulfatase	domain
+R1DRB5	72	N6-(pyridoxal	phosphate)lysine	PALP	domain

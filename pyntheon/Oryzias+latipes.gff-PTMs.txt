@@ -1,0 +1,133 @@
+Q9DGD3	Modified	14	Phosphothreonine
+P79820	Modified	351	Phosphoserine
+P87369	Modified	296	N6-(retinylidene)lysine
+P87367	Modified	309	N6-(retinylidene)lysine
+P87368	Modified	288	N6-(retinylidene)lysine
+H2LK45	Modified	276	N6-(pyridoxal	phosphate)lysine
+H2LK44	Modified	276	N6-(pyridoxal	phosphate)lysine
+P87366	Modified	297	N6-(retinylidene)lysine
+P79818	Modified	44	Methionine	(R)-sulfoxide
+P79818	Modified	47	Methionine	(R)-sulfoxide
+P79818	Modified	73	Tele-methylhistidine
+P87365	Modified	302	N6-(retinylidene)lysine
+Q98972	Modified	3	N-acetylaspartate
+Q98972	Modified	46	Methionine	(R)-sulfoxide
+Q98972	Modified	49	Methionine	(R)-sulfoxide
+Q98972	Modified	75	Tele-methylhistidine
+Q9YIC0	Modified	301	5-glutamyl	glycerylphosphorylethanolamine
+Q9YIC0	Modified	374	5-glutamyl	glycerylphosphorylethanolamine
+Q76K58	Modified	828	Phosphotyrosine
+H2MH75	Modified	266	N6-(pyridoxal	phosphate)lysine
+Q9DGC8	Modified	31	Glycine	amide
+H2MFA3	Modified	260	N6-(pyridoxal	phosphate)lysine
+Q9DD49	Modified	33	Glycine	amide
+Q9DGC9	Modified	31	Glycine	amide
+P62150	Modified	109	N6%2CN6%2CN6-trimethyllysine
+C0SQJ0	Modified	303	N6-(pyridoxal	phosphate)lysine
+H2L5H8	Modified	86	3-oxoalanine	(Cys)
+Q76K56	Modified	828	Phosphotyrosine
+H2MAD0	Modified	150	(3R)-3-hydroxyasparagine
+H2MCG1	Modified	230	N6-(pyridoxal	phosphate)lysine
+H2MAB2	Modified	168	(3R)-3-hydroxyasparagine
+H2LMN5	Modified	679	Phosphotyrosine
+H2MF78	Modified	92	3-oxoalanine	(Cys)
+H2L7W3	Modified	772	N6-(pyridoxal	phosphate)lysine
+H2MQP0	Modified	77	3-oxoalanine	(Cys)
+H2LUG7	Modified	219	N6-(pyridoxal	phosphate)lysine
+H2LDC6	Modified	305	N6-(pyridoxal	phosphate)lysine
+Q76K54	Modified	676	Phosphotyrosine
+H2M229	Modified	679	Phosphotyrosine
+H2L7Y3	Modified	249	N6-(pyridoxal	phosphate)lysine
+H2L7Y4	Modified	222	N6-(pyridoxal	phosphate)lysine
+H2LYL0	Modified	704	N6-(pyridoxal	phosphate)lysine
+H2LCC8	Modified	708	N6-(pyridoxal	phosphate)lysine
+H2MG85	Modified	354	N6-(pyridoxal	phosphate)lysine
+H2LFQ0	Modified	274	N6-(pyridoxal	phosphate)lysine
+H2LNH1	Modified	688	N6-(pyridoxal	phosphate)lysine
+H2MP62	Modified	212	N6-(pyridoxal	phosphate)lysine
+H2MS68	Modified	407	N6-(pyridoxal	phosphate)lysine
+H2MKL7	Modified	292	N6-(pyridoxal	phosphate)lysine
+H2LZH7	Modified	394	N6-(pyridoxal	phosphate)lysine
+H2MYK7	Modified	205	N6-(pyridoxal	phosphate)lysine
+H2LVH5	Modified	318	N6-(pyridoxal	phosphate)lysine
+H2MYK5	Modified	205	N6-(pyridoxal	phosphate)lysine
+H2MYK2	Modified	207	N6-(pyridoxal	phosphate)lysine
+H2LLQ5	Modified	280	N6-(pyridoxal	phosphate)lysine
+H2LH59	Modified	326	N6-(pyridoxal	phosphate)lysine
+H2LRU7	Glycosylation	241	N-linked	(GlcNAc...)
+H2LRU7	Glycosylation	247	N-linked	(GlcNAc...)
+H2LRU7	Glycosylation	270	N-linked	(GlcNAc...)
+H2LRU7	Glycosylation	304	N-linked	(GlcNAc...)
+H2LRU7	Glycosylation	317	N-linked	(GlcNAc...)
+H2LRU7	Glycosylation	483	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	35	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	133	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	149	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	220	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	267	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	383	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	397	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	486	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	545	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	693	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	709	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	735	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1080	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1101	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1201	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1318	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1437	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1490	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	1568	N-linked	(GlcNAc...)
+E7FKV8	Glycosylation	2218	N-linked	(GlcNAc...)
+P31580	Glycosylation	53	N-linked	(GlcNAc...)
+P31579	Glycosylation	30	N-linked	(GlcNAc...)
+P31579	Glycosylation	54	N-linked	(GlcNAc...)
+P31579	Glycosylation	211	N-linked	(GlcNAc...)
+P31581	Glycosylation	62	N-linked	(GlcNAc...)
+O42122	Glycosylation	105	N-linked	(GlcNAc...)
+O42122	Glycosylation	111	N-linked	(GlcNAc...)
+O42122	Glycosylation	303	N-linked	(GlcNAc...)
+O42122	Glycosylation	317	N-linked	(GlcNAc...)
+P55025	Glycosylation	87	N-linked	(GlcNAc...)
+P55025	Glycosylation	233	N-linked	(GlcNAc...)
+P55025	Glycosylation	293	N-linked	(GlcNAc...)
+P55025	Glycosylation	340	N-linked	(GlcNAc...)
+P55025	Glycosylation	374	N-linked	(GlcNAc...)
+Q90VY2	Glycosylation	39	N-linked	(GlcNAc...)
+Q90VY2	Glycosylation	58	N-linked	(GlcNAc...)
+P87369	Glycosylation	2	N-linked	(GlcNAc...)
+P87369	Glycosylation	15	N-linked	(GlcNAc...)
+P87367	Glycosylation	31	N-linked	(GlcNAc...)
+P87368	Glycosylation	10	N-linked	(GlcNAc...)
+P87366	Glycosylation	3	N-linked	(GlcNAc...)
+P87366	Glycosylation	16	N-linked	(GlcNAc...)
+P87366	Glycosylation	201	N-linked	(GlcNAc...)
+P87365	Glycosylation	23	N-linked	(GlcNAc...)
+P87365	Glycosylation	206	N-linked	(GlcNAc...)
+Q91175	Glycosylation	9	N-linked	(GlcNAc...)
+Q91175	Glycosylation	12	N-linked	(GlcNAc...)
+Q5K027	Glycosylation	241	N-linked	(GlcNAc...)
+Q5K027	Glycosylation	352	N-linked	(GlcNAc...)
+Q5F2N2	Glycosylation	169	N-linked	(GlcNAc...)
+Q5F2N2	Glycosylation	474	N-linked	(GlcNAc...)
+Q91178	Glycosylation	18	N-linked	(GlcNAc...)
+Q69D47	Glycosylation	46	N-linked	(GlcNAc...)
+Q6E211	Glycosylation	144	N-linked	(GlcNAc...)
+H2L5P9	Glycosylation	60	CAR_5005737032
+H2LE45	Cross-link	158	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+Q9DGD3	14	Phosphothreonine	Protein	domain
+Q9DGD3	14	Phosphothreonine	ATP	nucleotide-binding
+H2LK45	276	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2LK44	276	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+P62150	109	N6%2CN6%2CN6-trimethyllysine	EF-hand	domain
+H2L5H8	86	3-oxoalanine	(Cys)	Sulfatase	domain
+H2MAD0	150	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2MAB2	168	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H2MF78	92	3-oxoalanine	(Cys)	Sulfatase	domain
+H2MQP0	77	3-oxoalanine	(Cys)	Sulfatase	domain
+H2MP62	212	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2MKL7	292	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H2MYK7	205	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2MYK5	205	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2MYK2	207	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain

@@ -1,0 +1,58 @@
+F7A2G6	Modified	268	N6-(pyridoxal	phosphate)lysine
+H2XP90	Modified	280	N6-(pyridoxal	phosphate)lysine
+H2XYS1	Modified	272	N6-(pyridoxal	phosphate)lysine
+F7BMR9	Modified	285	N6-(pyridoxal	phosphate)lysine
+P16240	Modified	110	Sulfotyrosine
+P16240	Modified	111	Sulfotyrosine
+P16240	Modified	116	Phenylalanine	amide
+O02367	Modified	2	N-acetylalanine
+O02367	Modified	116	N6%2CN6%2CN6-trimethyllysine
+F6V198	Modified	178	N6-(pyridoxal	phosphate)lysine
+F6TXQ6	Modified	215	N6-(pyridoxal	phosphate)lysine
+H2XJF4	Modified	252	N6-(pyridoxal	phosphate)lysine
+F6XUX1	Modified	230	N6-(pyridoxal	phosphate)lysine
+Q8I7D5	Modified	62	Hydroxyproline
+Q8T8A6	Modified	297	N6-(pyridoxal	phosphate)lysine
+F6TQ36	Modified	179	(3R)-3-hydroxyasparagine
+F6PV45	Modified	692	N6-(pyridoxal	phosphate)lysine
+F6YYG7	Modified	738	N6-(pyridoxal	phosphate)lysine
+F7AGV3	Modified	170	(3R)-3-hydroxyasparagine
+F6XG08	Modified	341	N6-(pyridoxal	phosphate)lysine
+F6TLE7	Modified	73	3-oxoalanine	(Cys)
+F6W402	Modified	42	N6-(pyridoxal	phosphate)lysine
+F6ZFW2	Modified	252	N6-(pyridoxal	phosphate)lysine
+A1YR14	Modified	316	N6-(pyridoxal	phosphate)lysine
+F6Z5P6	Modified	316	N6-(pyridoxal	phosphate)lysine
+F6ZSB0	Modified	48	N6-(pyridoxal	phosphate)lysine
+F6XVB0	Modified	304	N6-(pyridoxal	phosphate)lysine
+F6ZTZ7	Modified	316	N6-(pyridoxal	phosphate)lysine
+Q8T8A7	Modified	341	N6-(pyridoxal	phosphate)lysine
+F6SYF4	Modified	360	N6-(pyridoxal	phosphate)lysine
+Q4H3K6	Glycosylation	26	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	42	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	63	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	161	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	185	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	217	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	227	N-linked	(GlcNAc...)
+Q4H3K6	Glycosylation	240	N-linked	(GlcNAc...)
+Q5QQ55	Glycosylation	306	N-linked	(GlcNAc...)
+Q5QQ55	Glycosylation	530	N-linked	(GlcNAc...)
+Q5QQ55	Glycosylation	826	N-linked	(GlcNAc...)
+F7A2G6	268	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2XP90	280	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H2XYS1	272	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+O02367	116	N6%2CN6%2CN6-trimethyllysine	EF-hand	domain
+F6V198	178	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+F6TXQ6	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+F6TQ36	179	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+F7AGV3	170	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+F6TLE7	73	3-oxoalanine	(Cys)	Sulfatase	domain
+F6W402	42	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+F6ZFW2	252	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+F6ZSB0	48	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+Q4H3K6	161	N-linked	(GlcNAc...)	Ig-like	domain
+Q4H3K6	185	N-linked	(GlcNAc...)	Ig-like	domain
+Q4H3K6	217	N-linked	(GlcNAc...)	Ig-like	domain
+Q4H3K6	227	N-linked	(GlcNAc...)	Ig-like	domain
+Q4H3K6	240	N-linked	(GlcNAc...)	Ig-like	domain

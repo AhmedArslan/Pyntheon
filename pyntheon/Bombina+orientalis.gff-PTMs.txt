@@ -1,0 +1,14 @@
+P83059	Modified	160	Valine	amide
+Q7T3L1	Modified	292	Valine	amide
+Q1HA20	Modified	136	Asparagine	amide
+P29004	Modified	68	Phenylalanine	amide
+P29004	Modified	129	Phenylalanine	amide
+P29007	Modified	60	Methionine	amide
+P29002	Modified	70	Asparagine	amide
+P29002	Modified	133	Asparagine	amide
+P29003	Modified	27	Asparagine	amide
+P29005	Modified	25	Phenylalanine	amide
+P21591	Modified	58	Methionine	amide
+P62970	Modified	3	Proline	amide
+P47751	Glycosylation	9	N-linked	(GlcNAc...)
+P47751	Glycosylation	26	N-linked	(GlcNAc...)

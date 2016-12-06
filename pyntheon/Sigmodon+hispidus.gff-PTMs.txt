@@ -1,0 +1,24 @@
+Q91ZK5	Modified	1	N-acetylmethionine
+Q91ZK5	Modified	44	Methionine	(R)-sulfoxide
+Q91ZK5	Modified	47	Methionine	(R)-sulfoxide
+Q91ZK5	Modified	73	Tele-methylhistidine
+Q91ZK5	Modified	84	N6-methyllysine
+Q8R4E0	Modified	75	N6-acetyllysine
+Q8R4E0	Modified	78	N6-acetyllysine
+Q8R4E0	Modified	225	Phosphoserine
+Q66765	Modified	1610	O-(5'-phospho-RNA)-tyrosine
+P03304	Modified	1608	O-(5'-phospho-RNA)-tyrosine
+P17594	Modified	1610	O-(5'-phospho-RNA)-tyrosine
+P17593	Modified	1610	O-(5'-phospho-RNA)-tyrosine
+Q9Z0T3	Glycosylation	181	N-linked	(GlcNAc...)
+Q9Z0T3	Glycosylation	197	N-linked	(GlcNAc...)
+Q9ESI9	Glycosylation	45	N-linked	(GlcNAc...)
+Q9ESI9	Glycosylation	74	N-linked	(GlcNAc...)
+Q9ESI9	Glycosylation	88	N-linked	(GlcNAc...)
+Q91ZK7	Glycosylation	125	N-linked	(GlcNAc...)
+Q91ZK7	Glycosylation	135	N-linked	(GlcNAc...)
+Q91ZK7	Glycosylation	223	N-linked	(GlcNAc...)
+Q91ZK7	Glycosylation	315	N-linked	(GlcNAc...)
+Q91ZK6	Glycosylation	89	N-linked	(GlcNAc...)
+Q9QXX2	Glycosylation	36	N-linked	(GlcNAc...)
+Q9QXX2	Glycosylation	103	N-linked	(GlcNAc...)

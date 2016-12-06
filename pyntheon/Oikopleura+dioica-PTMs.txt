@@ -1,0 +1,43 @@
+E4X6H7	Modified	277	N6-(pyridoxal	phosphate)lysine
+E4XBS8	Modified	287	N6-(pyridoxal	phosphate)lysine
+E4YSX6	Modified	287	N6-(pyridoxal	phosphate)lysine
+E4XMZ5	Modified	97	1-thioglycine
+E4X4W6	Modified	204	N6-(pyridoxal	phosphate)lysine
+E4WSR1	Modified	204	N6-(pyridoxal	phosphate)lysine
+E4XKU8	Modified	704	N6-(pyridoxal	phosphate)lysine
+E4YUR1	Modified	690	N6-(pyridoxal	phosphate)lysine
+E4WT71	Modified	254	N6-(pyridoxal	phosphate)lysine
+E4WQT5	Modified	299	N6-(pyridoxal	phosphate)lysine
+E4X7S4	Modified	206	N6-(pyridoxal	phosphate)lysine
+E4Y496	Modified	254	N6-(pyridoxal	phosphate)lysine
+E4XEL7	Modified	251	N6-(pyridoxal	phosphate)lysine
+E4YDJ4	Modified	63	3-oxoalanine	(Cys)
+E4X2I7	Modified	218	N6-(pyridoxal	phosphate)lysine
+E4YA74	Modified	212	N6-(pyridoxal	phosphate)lysine
+E4WZ81	Modified	214	N6-(pyridoxal	phosphate)lysine
+E4WS04	Modified	63	3-oxoalanine	(Cys)
+E4YHV0	Modified	67	N6-(pyridoxal	phosphate)lysine
+E4XF21	Modified	347	N6-(pyridoxal	phosphate)lysine
+E4YER8	Modified	219	N6-(pyridoxal	phosphate)lysine
+E4WQR4	Modified	212	N6-(pyridoxal	phosphate)lysine
+E4Y677	Modified	234	N6-(pyridoxal	phosphate)lysine
+E4WV53	Modified	219	N6-(pyridoxal	phosphate)lysine
+E4Z635	Modified	135	N6-(pyridoxal	phosphate)lysine
+Q676D3	Modified	299	N6-(pyridoxal	phosphate)lysine
+E4Y6F0	Modified	206	N6-(pyridoxal	phosphate)lysine
+E4WRJ8	Modified	761	N6-(pyridoxal	phosphate)lysine
+E4WY97	Cross-link	155	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+E4WXD2	Cross-link	171	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+E4YF63	Cross-link	177	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+E4X1Q7	Cross-link	177	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+E4Y6Q0	Cross-link	171	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+E4X6H7	277	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+E4X4W6	204	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+E4WSR1	204	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+E4Y496	254	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+E4YDJ4	63	3-oxoalanine	(Cys)	Sulfatase	domain
+E4WS04	63	3-oxoalanine	(Cys)	Sulfatase	domain
+E4YHV0	67	N6-(pyridoxal	phosphate)lysine	PALP	domain
+E4YER8	219	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+E4WV53	219	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+E4WRJ8	761	N6-(pyridoxal	phosphate)lysine	GDC-P	domain

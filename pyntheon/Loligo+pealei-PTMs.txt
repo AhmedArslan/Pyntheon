@@ -1,0 +1,15 @@
+B6E465	Modified	71	Phenylalanine	amide
+B6E465	Modified	83	Phenylalanine	amide
+B6E465	Modified	100	Phenylalanine	amide
+B6E465	Modified	174	Phenylalanine	amide
+B6E465	Modified	181	Phenylalanine	amide
+B6E465	Modified	200	Phenylalanine	amide
+B6E465	Modified	211	Phenylalanine	amide
+B6E465	Modified	222	Phenylalanine	amide
+B6E465	Modified	242	Phenylalanine	amide
+B6E465	Modified	260	Phenylalanine	amide
+B6E465	Modified	271	Phenylalanine	amide
+B6E465	Modified	283	Phenylalanine	amide
+B6E465	Modified	299	Phenylalanine	amide
+B6E465	Modified	318	Phenylalanine	amide
+P14533	Modified	1	N-acetylalanine

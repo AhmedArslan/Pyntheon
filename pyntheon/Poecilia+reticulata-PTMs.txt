@@ -1,0 +1,3 @@
+P79848	Modified	296	N6-(retinylidene)lysine
+P79848	Glycosylation	2	N-linked	(GlcNAc...)
+P79848	Glycosylation	15	N-linked	(GlcNAc...)

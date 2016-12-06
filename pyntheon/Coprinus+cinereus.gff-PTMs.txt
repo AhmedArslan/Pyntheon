@@ -1,0 +1,57 @@
+A8NFR6	Modified	245	N6-(pyridoxal	phosphate)lysine
+A8N2Y6	Modified	360	Phosphoserine
+P16578	Modified	381	N6-(pyridoxal	phosphate)lysine
+A8NSD1	Modified	199	2%2C3-didehydroalanine	(Cys)
+A8NEP3	Modified	380	N6-(pyridoxal	phosphate)lysine
+D6RM23	Modified	87	1-thioglycine%3B	alternate
+A8P0J8	Modified	248	N6-(pyridoxal	phosphate)lysine
+A8NUY8	Modified	488	N6-carboxylysine
+A8P008	Modified	124	1-thioglycine
+A8N0B4	Modified	231	N6-(pyridoxal	phosphate)lysine
+D6RQF5	Modified	943	O-(pantetheine	4'-phosphoryl)serine
+A8NX92	Modified	2	N-acetylalanine%3B	partial
+A8NJC5	Modified	454	N6-(pyridoxal	phosphate)lysine
+A8PCA2	Modified	294	N6-(pyridoxal	phosphate)lysine
+A8NGQ7	Modified	318	N6-(pyridoxal	phosphate)lysine
+A8N2U1	Modified	724	N6-(pyridoxal	phosphate)lysine
+D6RMQ3	Modified	202	N6-(pyridoxal	phosphate)lysine
+A8N6B5	Modified	302	N6-(pyridoxal	phosphate)lysine
+A8P274	Modified	212	N6-(pyridoxal	phosphate)lysine
+A8NKJ5	Modified	727	N6-(pyridoxal	phosphate)lysine
+A8N7P6	Modified	369	N6-(pyridoxal	phosphate)lysine
+A8P3S4	Modified	40	N6-(pyridoxal	phosphate)lysine
+A8N9Z2	Modified	239	N6-(pyridoxal	phosphate)lysine
+P28314	Glycosylation	358	O-linked	(Man...)
+A8PB24	Glycosylation	114	N-linked	(GlcNAc...)
+A8PB24	Glycosylation	320	N-linked	(GlcNAc...)
+Q9Y780	Glycosylation	361	CAR_5007217113
+A8NK72	Glycosylation	358	O-linked	(Man...)
+A8N513	Glycosylation	107	N-linked	(GlcNAc...)
+A8N513	Glycosylation	213	N-linked	(GlcNAc...)
+A8N513	Glycosylation	677	N-linked	(GlcNAc...)
+A8N513	Glycosylation	761	N-linked	(GlcNAc...)
+A8N513	Glycosylation	961	N-linked	(GlcNAc...)
+A8NYP0	Glycosylation	61	N-linked	(GlcNAc...)
+A8NYP0	Glycosylation	422	N-linked	(GlcNAc...)
+A8NYP0	Glycosylation	434	N-linked	(GlcNAc...)
+A8NYP0	Glycosylation	442	N-linked	(GlcNAc...)
+A8NYP0	Glycosylation	466	N-linked	(GlcNAc...)
+A8PE82	Glycosylation	328	N-linked	(GlcNAc...)
+A8PE82	Glycosylation	1004	N-linked	(GlcNAc...)
+A8PE82	Glycosylation	1314	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	206	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	221	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	250	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	451	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	456	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	492	N-linked	(GlcNAc...)
+A8N5E6	Glycosylation	553	N-linked	(GlcNAc...)
+A8NFR6	245	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A8N2Y6	360	Phosphoserine	Myosin	domain
+A8NUY8	488	N6-carboxylysine	Urease	domain
+A8NUY8	488	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A8NUY8	488	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+D6RQF5	943	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A8N2U1	724	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A8P3S4	40	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A8N9Z2	239	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain

@@ -1,0 +1,6 @@
+P67785	Modified	8	Tryptophan	amide
+E9RJV1	Modified	303	N6-(pyridoxal	phosphate)lysine
+W8VRD3	Modified	305	N6-(pyridoxal	phosphate)lysine
+W8VY41	Modified	305	N6-(pyridoxal	phosphate)lysine
+W8VJW9	Modified	305	N6-(pyridoxal	phosphate)lysine
+O61668	Modified	87	Isoleucine	amide

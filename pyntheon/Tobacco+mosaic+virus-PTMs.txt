@@ -1,0 +1,34 @@
+Q65399	Modified	1924	O-(5'-phospho-RNA)-tyrosine
+P18479	Modified	1915	O-(5'-phospho-RNA)-tyrosine
+P31999	Modified	2084	O-(5'-phospho-RNA)-tyrosine
+P21231	Modified	1915	O-(5'-phospho-RNA)-tyrosine
+P89876	Modified	2084	O-(5'-phospho-RNA)-tyrosine
+P29152	Modified	2016	O-(5'-phospho-RNA)-tyrosine
+Q90069	Modified	1915	O-(5'-phospho-RNA)-tyrosine
+Q02597	Modified	1986	O-(5'-phospho-RNA)-tyrosine
+Q89330	Modified	1918	O-(5'-phospho-RNA)-tyrosine
+P17765	Modified	1893	O-(5'-phospho-RNA)-tyrosine
+O36979	Modified	1918	O-(5'-phospho-RNA)-tyrosine
+P89509	Modified	1987	O-(5'-phospho-RNA)-tyrosine
+O11436	Modified	1870	O-(5'-phospho-RNA)-tyrosine
+Q6XW15	Modified	1919	O-(5'-phospho-RNA)-tyrosine
+Q65730	Modified	1915	O-(5'-phospho-RNA)-tyrosine
+Q01206	Modified	1234	O-(5'-phospho-RNA)-tyrosine
+Q04574	Modified	1234	O-(5'-phospho-RNA)-tyrosine
+Q9YJW3	Modified	1234	O-(5'-phospho-RNA)-tyrosine
+P90245	Modified	1141	O-(5'-phospho-RNA)-tyrosine
+P45733	Modified	199	2%2C3-didehydroalanine	(Ser)
+P25818	Modified	1	N-acetylmethionine
+O04663	Modified	2	N-acetylalanine
+Q76BK9	Modified	157	N6-(pyridoxal	phosphate)lysine
+Q8S3N2	Modified	98	N6-(pyridoxal	phosphate)lysine
+Q9C5W7	Modified	196	Phosphoserine
+Q9C5W7	Modified	233	Phosphoserine
+P45733	Cross-link	200	5-imidazolinone	(Ala-Gly)
+P25871	Glycosylation	233	N-linked	(GlcNAc...)
+Q9LUJ7	Glycosylation	168	N-linked	(GlcNAc...)
+Q9LUJ7	Glycosylation	316	N-linked	(GlcNAc...)
+Q9LUJ7	Glycosylation	455	N-linked	(GlcNAc...)
+Q9FEG2	Glycosylation	28	N-linked	(GlcNAc...)
+Q9FEG2	Glycosylation	168	N-linked	(GlcNAc...)
+Q76BK9	157	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain

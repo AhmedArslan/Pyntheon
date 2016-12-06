@@ -1,0 +1,76 @@
+G3NRK0	Modified	2	N-acetylserine
+G3PSN7	Modified	276	N6-(pyridoxal	phosphate)lysine
+G3Q7N4	Modified	289	N6-(pyridoxal	phosphate)lysine
+G3NFC5	Modified	253	N6-(pyridoxal	phosphate)lysine
+G3NFB1	Modified	243	N6-(pyridoxal	phosphate)lysine
+G3P4Z5	Modified	679	Phosphotyrosine
+G3NAV9	Modified	83	3-oxoalanine	(Cys)
+G3NYA3	Modified	258	N6-(pyridoxal	phosphate)lysine
+G3PZD9	Modified	101	1-thioglycine
+G3N5M9	Modified	286	N6-(pyridoxal	phosphate)lysine
+G3NDT5	Modified	678	Phosphotyrosine
+G3NLZ0	Modified	133	(3R)-3-hydroxyasparagine
+G3P2W4	Modified	844	Phosphotyrosine
+G3P746	Modified	171	(3R)-3-hydroxyasparagine
+G3P715	Modified	164	(3R)-3-hydroxyasparagine
+G3P6S7	Modified	96	3-oxoalanine	(Cys)
+G3P733	Modified	149	(3R)-3-hydroxyasparagine
+G3P4T6	Modified	294	N6-(pyridoxal	phosphate)lysine
+G3PE36	Modified	674	N6-(pyridoxal	phosphate)lysine
+G3Q5S1	Modified	154	N6-(pyridoxal	phosphate)lysine
+G3Q9H9	Modified	28	3-oxoalanine	(Cys)
+G3PE30	Modified	679	N6-(pyridoxal	phosphate)lysine
+G3P4A1	Modified	219	N6-(pyridoxal	phosphate)lysine
+G3QBP8	Modified	681	N6-(pyridoxal	phosphate)lysine
+G3NN89	Modified	374	N6-(pyridoxal	phosphate)lysine
+G3PP48	Modified	226	N6-(pyridoxal	phosphate)lysine
+G3P6T0	Modified	92	3-oxoalanine	(Cys)
+G3P4P0	Modified	307	N6-(pyridoxal	phosphate)lysine
+G3P4B3	Modified	219	N6-(pyridoxal	phosphate)lysine
+G3PKK6	Modified	737	N6-(pyridoxal	phosphate)lysine
+G3PHR5	Modified	395	N6-(pyridoxal	phosphate)lysine
+G3PQC8	Modified	316	N6-(pyridoxal	phosphate)lysine
+G3PKG4	Modified	245	N6-(pyridoxal	phosphate)lysine
+G3P4E0	Modified	213	N6-(pyridoxal	phosphate)lysine
+G3PP49	Modified	227	N6-(pyridoxal	phosphate)lysine
+G3PKH2	Modified	246	N6-(pyridoxal	phosphate)lysine
+G3P4Q5	Modified	315	N6-(pyridoxal	phosphate)lysine
+G3N710	Modified	681	N6-(pyridoxal	phosphate)lysine
+G3P4D3	Modified	211	N6-(pyridoxal	phosphate)lysine
+G3P4C9	Modified	179	N6-(pyridoxal	phosphate)lysine
+G3P4M8	Modified	312	N6-(pyridoxal	phosphate)lysine
+G3NT39	Modified	303	N6-(pyridoxal	phosphate)lysine
+G3PKH5	Modified	245	N6-(pyridoxal	phosphate)lysine
+G3PPM7	Modified	346	N6-(pyridoxal	phosphate)lysine
+G3NG04	Modified	349	N6-(pyridoxal	phosphate)lysine
+G3Q9H8	Modified	47	3-oxoalanine	(Cys)
+G3NMV5	Modified	404	N6-(pyridoxal	phosphate)lysine
+G3NEG9	Modified	92	3-oxoalanine	(Cys)
+G3NAV7	Modified	75	3-oxoalanine	(Cys)
+G3NT37	Modified	279	N6-(pyridoxal	phosphate)lysine
+G3PPM1	Modified	326	N6-(pyridoxal	phosphate)lysine
+G3P4S6	Modified	318	N6-(pyridoxal	phosphate)lysine
+G3NKR2	Modified	207	N6-(pyridoxal	phosphate)lysine
+G3PKL3	Modified	765	N6-(pyridoxal	phosphate)lysine
+Q19KH7	Glycosylation	62	N-linked	(GlcNAc...)
+A2BDG9	Glycosylation	113	N-linked	(GlcNAc...)
+A2BDG9	Glycosylation	128	N-linked	(GlcNAc...)
+G3PN23	Glycosylation	61	CAR_5005737023
+G3NS39	Cross-link	158	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+G3PSN7	276	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G3NAV9	83	3-oxoalanine	(Cys)	Sulfatase	domain
+G3N5M9	286	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+G3NLZ0	133	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+G3P746	171	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+G3P715	164	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+G3P6S7	96	3-oxoalanine	(Cys)	Sulfatase	domain
+G3P733	149	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+G3Q9H9	28	3-oxoalanine	(Cys)	Sulfatase	domain
+G3P6T0	92	3-oxoalanine	(Cys)	Sulfatase	domain
+G3PKG4	245	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G3PKH2	246	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G3PKH5	245	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G3Q9H8	47	3-oxoalanine	(Cys)	Sulfatase	domain
+G3NEG9	92	3-oxoalanine	(Cys)	Sulfatase	domain
+G3NAV7	75	3-oxoalanine	(Cys)	Sulfatase	domain
+G3NKR2	207	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain

@@ -1,0 +1,992 @@
+Q60495	Modified	441	Phosphoserine
+Q60495	Modified	497	Phosphotyrosine
+Q60495	Modified	729	Phosphothreonine
+Q9WUR6	Modified	303	N6-acetyllysine
+Q9WUR6	Modified	319	N6-acetyllysine
+Q9WUR6	Modified	368	N6%2CN6-dimethyllysine%3B	alternate
+Q9WUR6	Modified	371	N6-acetyllysine%3B	alternate
+Q9WUR6	Modified	379	N6-acetyllysine
+Q9WUR6	Modified	380	N6%2CN6-dimethyllysine%3B	alternate
+P33431	Modified	2	N-acetylalanine
+P33431	Modified	4	N6-succinyllysine
+P33431	Modified	10	N6-succinyllysine
+P33431	Modified	98	Phosphoserine
+P33431	Modified	102	Phosphoserine
+P33431	Modified	105	Phosphoserine
+P33431	Modified	107	Phosphoserine
+P33431	Modified	122	N6-acetyllysine%3B	alternate
+P33431	Modified	122	N6-succinyllysine%3B	alternate
+P33431	Modified	136	N6-acetyllysine%3B	alternate
+P33431	Modified	136	N6-succinyllysine%3B	alternate
+P97275	Modified	65	Phosphoserine
+P97275	Modified	74	Phosphothreonine
+P97275	Modified	102	N6-acetyllysine
+P97275	Modified	347	N6-acetyllysine
+Q6R5A3	Modified	118	Phosphoserine
+Q6R5A3	Modified	146	Phosphothreonine
+Q6R5A3	Modified	372	Phosphothreonine
+Q6R5A3	Modified	705	Phosphothreonine
+Q6R5A3	Modified	775	Phosphoserine
+Q6R5A3	Modified	821	Phosphoserine
+Q8K4Z4	Modified	141	Phosphotyrosine
+Q8K4Z4	Modified	246	Phosphoserine
+Q8K4Z4	Modified	387	4-hydroxyproline
+Q8K4Z4	Modified	400	4-hydroxyproline
+P12387	Modified	70	Phosphoserine
+P12387	Modified	296	Phosphoserine
+P12387	Modified	302	Phosphoserine
+P12387	Modified	676	Phosphoserine
+P12387	Modified	973	Phosphoserine
+P12387	Modified	1326	Phosphoserine
+P12387	Modified	1576	Phosphoserine
+P48766	Modified	282	Phosphoserine
+P48766	Modified	389	Phosphoserine
+P31389	Modified	149	Phosphothreonine
+P31389	Modified	151	Phosphothreonine
+P31389	Modified	345	Phosphoserine
+P31389	Modified	381	Phosphoserine
+P31389	Modified	383	Phosphoserine
+P31389	Modified	397	Phosphoserine
+P31389	Modified	399	Phosphoserine
+H0VGV5	Modified	700	4-hydroxyproline
+Q1KLR6	Modified	123	N6-acetyllysine
+Q1KLR6	Modified	247	N6-acetyllysine
+Q1KLR6	Modified	251	N6-acetyllysine
+Q1KLR6	Modified	257	N6-acetyllysine
+Q1KLR6	Modified	271	N6-acetyllysine
+Q1KLR6	Modified	272	N6-acetyllysine
+Q1KLR6	Modified	279	N6-acetyllysine
+Q1KLR6	Modified	470	Phosphoserine
+O70344	Modified	408	Phosphoserine
+O70344	Modified	410	Phosphoserine
+P52185	Modified	76	S-nitrosocysteine
+Q00552	Modified	550	Phosphoserine
+Q00552	Modified	718	Phosphothreonine
+Q00552	Modified	1445	Phosphoserine
+Q00552	Modified	1457	Phosphoserine
+Q9EQZ5	Modified	18	Phosphothreonine
+Q9EQZ5	Modified	20	Phosphoserine
+Q9EQZ5	Modified	178	N6-acetyllysine
+O54705	Modified	574	Phosphotyrosine
+P19402	Modified	87	Phenylalanine	amide
+P19402	Modified	137	Valine	amide
+P19402	Modified	155	Phosphoserine
+Q9Z2R5	Modified	63	Methionine	sulfoxide
+P11415	Modified	2	N-acetylalanine
+P11415	Modified	23	N6-acetyllysine
+P11415	Modified	296	N6-succinyllysine
+P70685	Modified	9	Phosphothreonine
+P70685	Modified	14	Phosphothreonine
+P70685	Modified	16	Phosphothreonine
+P70685	Modified	26	N6%2CN6-dimethyllysine%3B	alternate
+P70685	Modified	26	N6-acetyllysine%3B	alternate
+P70685	Modified	26	N6-malonyllysine%3B	alternate
+P70685	Modified	43	Phosphothreonine
+P70685	Modified	47	N6%2CN6-dimethyllysine%3B	alternate
+P70685	Modified	47	N6-malonyllysine%3B	alternate
+P70685	Modified	51	N6-acetyllysine
+P70685	Modified	57	Deamidated	asparagine
+P70685	Modified	59	N6%2CN6-dimethyllysine%3B	alternate
+P70685	Modified	59	N6-acetyllysine%3B	alternate
+P70685	Modified	61	Phosphothreonine
+P70685	Modified	69	Phosphothreonine
+P70685	Modified	73	Phosphoserine
+P70685	Modified	79	S-nitrosocysteine
+P70685	Modified	86	N6-acetyllysine
+P70685	Modified	92	N6%2CN6-dimethyllysine
+P70685	Modified	95	N6%2CN6-dimethyllysine
+P49115	Modified	133	Phosphoserine
+P49115	Modified	199	Phosphoserine
+P49115	Modified	207	Phosphoserine
+P49115	Modified	222	Phosphoserine
+P49115	Modified	263	Phosphoserine
+P49115	Modified	303	Phosphoserine
+P49115	Modified	400	Phosphoserine
+P49115	Modified	475	N6-acetyllysine
+P49115	Modified	487	N6-acetyllysine
+P49115	Modified	489	N6-acetyllysine
+P49115	Modified	490	N6-acetyllysine
+O08841	Modified	427	Phosphoserine
+P36366	Modified	2	N-acetylalanine
+Q920N9	Modified	1	N-acetylmethionine
+P05110	Modified	54	Phosphoserine
+P05110	Modified	105	Phosphoserine
+P05110	Modified	108	Phosphoserine
+P05110	Modified	127	Arginine	amide
+P05110	Modified	150	Phosphoserine
+P05110	Modified	152	Phosphoserine
+Q6RZ07	Modified	235	Phosphoserine
+Q6RZ07	Modified	243	Phosphoserine
+P62978	Modified	104	N6-acetyllysine
+P62978	Modified	113	N6-acetyllysine
+P62978	Modified	152	N6-acetyllysine
+P19602	Modified	73	N6-acetyllysine
+P19602	Modified	337	N6-acetyllysine
+P19602	Modified	414	N6-acetyllysine
+P19602	Modified	416	Phosphoserine
+P19602	Modified	573	N6-acetyllysine
+Q9Z1N0	Modified	26	Phosphoserine
+Q9Z1N0	Modified	65	N6-acetyllysine
+Q9Z1N0	Modified	89	N6-succinyllysine
+Q9Z1N0	Modified	159	N6-succinyllysine
+Q9Z1N0	Modified	216	N6-acetyllysine
+Q9Z1N0	Modified	241	N6-succinyllysine
+Q9Z1N0	Modified	255	N6-acetyllysine
+Q9Z1N0	Modified	267	N6-acetyllysine
+Q9Z1N0	Modified	272	N6-acetyllysine
+Q9Z1N0	Modified	349	N6-succinyllysine
+Q9Z1N0	Modified	437	N6-acetyllysine%3B	alternate
+Q9Z1N0	Modified	437	N6-succinyllysine%3B	alternate
+Q9Z1N0	Modified	446	N6-acetyllysine%3B	alternate
+Q9Z1N0	Modified	446	N6-succinyllysine%3B	alternate
+Q9Z1N0	Modified	500	N6-acetyllysine
+Q9Z1N0	Modified	512	N6-acetyllysine%3B	alternate
+Q9Z1N0	Modified	512	N6-succinyllysine%3B	alternate
+Q9Z1N0	Modified	542	N6-succinyllysine
+Q9Z1N0	Modified	637	N6-acetyllysine%3B	alternate
+Q9Z1N0	Modified	637	N6-succinyllysine%3B	alternate
+Q9Z1N0	Modified	643	N6-succinyllysine
+Q9Z1N0	Modified	652	N6-acetyllysine
+Q9Z1N0	Modified	655	N6-succinyllysine
+Q71FK5	Modified	1	N-acetylmethionine
+Q71FK5	Modified	44	Methionine	(R)-sulfoxide
+Q71FK5	Modified	47	Methionine	(R)-sulfoxide
+Q71FK5	Modified	73	Tele-methylhistidine
+Q71FK5	Modified	84	N6-methyllysine
+P35744	Modified	2	N-acetylserine
+Q60474	Modified	331	Phosphoserine
+Q9JID6	Modified	1	N-acetylmethionine
+Q9JID6	Modified	9	Nitrated	tyrosine
+Q9JID6	Modified	84	Phosphotyrosine
+Q9JID6	Modified	356	N6-acetyllysine
+Q9JID6	Modified	386	N6-acetyllysine
+Q9JID6	Modified	620	Phosphoserine
+Q9JID6	Modified	632	N6-acetyllysine
+P35382	Modified	135	Phosphoserine
+P22325	Modified	370	Phosphoserine
+Q60411	Modified	723	Phosphoserine
+Q9Z0K9	Modified	32	Phosphoserine
+P58028	Modified	52	N6-acetyllysine
+P58028	Modified	397	S-8alpha-FAD	cysteine
+H0VVW3	Modified	193	Methionine	sulfoxide
+P23529	Modified	137	Methionine	sulfoxide
+P23529	Modified	141	Phosphoserine
+Q9TEG7	Modified	54	N6-acetyllysine%3B	alternate
+Q9TEG7	Modified	54	N6-succinyllysine%3B	alternate
+Q9TEG7	Modified	57	N6-acetyllysine
+Q9JM72	Modified	11	Phosphoserine
+Q9JM72	Modified	101	Phosphotyrosine
+Q9Z0S8	Modified	132	Phosphoserine
+Q9Z0S8	Modified	144	Phosphoserine
+Q9Z0S8	Modified	170	Phosphoserine
+Q9Z0S8	Modified	172	Phosphoserine
+Q9Z0S8	Modified	253	Phosphothreonine
+Q9Z0S8	Modified	439	Phosphoserine
+O70526	Modified	130	Phosphotyrosine
+O70526	Modified	320	Phosphotyrosine
+O70526	Modified	339	Phosphoserine
+O70526	Modified	342	Phosphothreonine
+O88680	Modified	174	Sulfotyrosine
+O88680	Modified	183	Sulfotyrosine
+O88680	Modified	450	Phosphoserine
+O70129	Modified	9	Sulfotyrosine
+O70129	Modified	11	Sulfotyrosine
+O70129	Modified	312	Phosphoserine
+O70129	Modified	322	Phosphoserine
+O70129	Modified	329	Phosphoserine
+O70129	Modified	333	Phosphoserine
+P04655	Modified	23	Phosphoserine
+P04655	Modified	24	Phosphoserine
+P04655	Modified	25	Phosphoserine
+P04655	Modified	28	Phosphoserine
+P04655	Modified	46	Phosphoserine
+P04655	Modified	71	Phosphoserine
+P04655	Modified	72	Phosphoserine
+P04655	Modified	73	Phosphoserine
+P04655	Modified	155	Phosphoserine
+P04656	Modified	80	Phosphoserine
+P04656	Modified	81	Phosphoserine
+P04656	Modified	83	Phosphoserine
+P04656	Modified	84	Phosphoserine
+P04656	Modified	85	Phosphoserine
+Q64405	Modified	2	N-acetylalanine
+Q64405	Modified	9	Phosphoserine
+Q64405	Modified	13	N6-succinyllysine
+Q64405	Modified	221	N6-succinyllysine
+Q64405	Modified	233	N6-acetyllysine
+Q64405	Modified	306	N6-acetyllysine%3B	alternate
+Q64405	Modified	306	N6-succinyllysine%3B	alternate
+Q64405	Modified	434	Phosphoserine
+Q64405	Modified	480	N6-acetyllysine%3B	alternate
+Q64405	Modified	480	N6-succinyllysine%3B	alternate
+Q64405	Modified	499	N6-acetyllysine
+Q64405	Modified	511	Phosphothreonine
+Q64405	Modified	517	Phosphoserine
+Q64405	Modified	522	N6-succinyllysine
+P19442	Modified	158	Phosphothreonine
+P19442	Modified	162	Phosphoserine%3B	alternate
+Q9Z2I3	Modified	343	Phosphoserine
+Q9Z2I3	Modified	344	Phosphoserine
+Q9Z2I3	Modified	348	Phosphoserine
+Q9Z2I3	Modified	355	Phosphoserine
+P25917	Modified	104	Phosphoserine
+P25917	Modified	225	Phosphotyrosine
+P25917	Modified	255	Phosphotyrosine
+P25917	Modified	286	Phosphotyrosine
+P25917	Modified	316	Phosphotyrosine
+P25917	Modified	376	Phosphotyrosine
+Q9WU45	Modified	22	Phosphothreonine
+Q9EQQ8	Modified	1	N-acetylmethionine
+P68281	Modified	1	N-acetylmethionine
+P68281	Modified	21	Omega-N-methylated	arginine
+P68281	Modified	45	Phosphoserine
+P68281	Modified	70	N6-acetyllysine
+P68281	Modified	99	N6-acetyllysine
+P68281	Modified	122	Phosphoserine
+Q9WTM2	Modified	25	Phosphothreonine
+P22781	Modified	1	N-acetylmethionine
+P22781	Modified	303	N6-(pyridoxal	phosphate)lysine
+P55100	Modified	38	N6-succinyllysine
+P55100	Modified	167	N6-acetyllysine%3B	alternate
+P55100	Modified	167	N6-succinyllysine%3B	alternate
+P55100	Modified	173	N6-acetyllysine
+P55100	Modified	185	N6-succinyllysine
+P55100	Modified	221	N6-acetyllysine%3B	alternate
+P55100	Modified	221	N6-succinyllysine%3B	alternate
+P55100	Modified	282	N6-succinyllysine
+P55100	Modified	292	N6-succinyllysine
+P55100	Modified	333	N6-succinyllysine
+P55100	Modified	348	N6-acetyllysine
+P55100	Modified	352	N6-acetyllysine
+P55100	Modified	467	N6-acetyllysine
+P55100	Modified	535	N6-succinyllysine
+P55100	Modified	587	N6-acetyllysine%3B	alternate
+P55100	Modified	587	N6-succinyllysine%3B	alternate
+P55100	Modified	594	N6-acetyllysine%3B	alternate
+P55100	Modified	594	N6-succinyllysine%3B	alternate
+P55100	Modified	713	N6-acetyllysine%3B	alternate
+P55100	Modified	713	N6-succinyllysine%3B	alternate
+P55100	Modified	725	N6-succinyllysine
+P97739	Modified	9	Phosphothreonine
+P68312	Modified	66	Phosphoserine
+P16295	Modified	23	Sulfotyrosine
+P16295	Modified	27	Phosphothreonine%3B	alternate
+Q60513	Modified	337	Phosphotyrosine
+Q07249	Modified	65	Phosphotyrosine
+Q07249	Modified	69	Phosphoserine
+Q07249	Modified	76	Phosphotyrosine
+Q07249	Modified	78	Phosphothreonine
+Q60487	Modified	4	Omega-N-methylarginine%3B	alternate
+Q60487	Modified	6	Omega-N-methylarginine%3B	alternate
+Q60487	Modified	8	Omega-N-methylarginine%3B	alternate
+O70159	Modified	134	Phosphoserine
+O70159	Modified	135	Phosphothreonine
+O70159	Modified	138	Phosphoserine
+O70159	Modified	318	Phosphoserine
+O70159	Modified	320	Phosphoserine
+P49109	Modified	54	Phosphoserine
+P49109	Modified	56	Phosphotyrosine
+P49109	Modified	58	Phosphoserine
+P49109	Modified	280	Phosphoserine
+P49109	Modified	284	Phosphothreonine
+P49109	Modified	401	Phosphoserine
+P06885	Modified	33	Phenylalanine	amide
+P80237	Modified	60	N6-acetyllysine%3B	alternate
+P80237	Modified	60	N6-succinyllysine%3B	alternate
+Q9JI97	Modified	341	Phosphoserine
+O54713	Modified	33	Glycine	amide
+P81706	Modified	1	N-acetylserine
+P63152	Modified	27	Methionine	amide
+P01947	Modified	4	Phosphoserine
+P01947	Modified	8	N6-succinyllysine
+P01947	Modified	12	N6-succinyllysine
+P01947	Modified	17	N6-acetyllysine%3B	alternate
+P01947	Modified	17	N6-succinyllysine%3B	alternate
+P01947	Modified	25	Phosphotyrosine
+P01947	Modified	36	Phosphoserine
+P01947	Modified	41	N6-succinyllysine
+P01947	Modified	50	Phosphoserine
+P01947	Modified	109	Phosphothreonine
+P01947	Modified	125	Phosphoserine
+P01947	Modified	132	Phosphoserine
+P01947	Modified	135	Phosphothreonine
+P01947	Modified	138	Phosphothreonine
+P01947	Modified	139	Phosphoserine
+P02095	Modified	1	N-acetylvaline
+P02095	Modified	82	N6-acetyllysine
+P02095	Modified	93	S-nitrosocysteine
+P02095	Modified	144	N6-acetyllysine
+Q9JI35	Modified	439	Phosphoserine
+P12966	Modified	73	Tyrosine	amide
+Q60480	Modified	85	Phosphoserine
+P57044	Modified	1	N-acetylmethionine
+P57044	Modified	186	Phosphoserine
+P57044	Modified	425	N6-acetyllysine
+P11153	Modified	111	Nitrated	tyrosine
+P11153	Modified	181	Nitrated	tyrosine
+P11153	Modified	333	Nitrated	tyrosine
+P25188	Modified	1	N-acetylalanine
+P25188	Modified	7	Phosphoserine
+P25188	Modified	12	Phosphoserine
+P25188	Modified	14	Phosphotyrosine
+P25188	Modified	17	Phosphothreonine
+P25188	Modified	19	Phosphoserine
+P25188	Modified	20	Phosphothreonine
+P25188	Modified	25	Citrulline
+P25188	Modified	31	Citrulline
+P25188	Modified	35	Phosphothreonine
+P25188	Modified	40	Phosphoserine
+P25188	Modified	56	Phosphoserine
+P25188	Modified	67	Phosphothreonine
+P25188	Modified	69	Phosphotyrosine
+P25188	Modified	76	Phosphoserine
+P25188	Modified	94	Phosphothreonine
+P25188	Modified	97	Phosphothreonine
+P25188	Modified	102	Deamidated	glutamine
+P25188	Modified	106	Omega-N-methylarginine%3B	alternate
+P25188	Modified	114	Phosphoserine
+P25188	Modified	121	N6-acetyllysine
+P25188	Modified	129	Citrulline
+P25188	Modified	144	Deamidated	glutamine
+P25188	Modified	156	Citrulline
+P25188	Modified	158	Phosphoserine
+P25188	Modified	167	Citrulline
+P37039	Modified	2	N-acetylglycine
+P10769	Modified	9	Glycine	amide
+Q9WVD0	Modified	376	Phosphoserine
+P34966	Modified	9	Asparagine	amide
+P68008	Modified	36	Tyrosine	amide
+O35508	Modified	2	N-acetylserine
+P13083	Modified	62	Tyrosine	amide
+P97266	Modified	71	Phosphotyrosine
+Q9R024	Modified	312	N6-(retinylidene)lysine
+O54820	Modified	1	N-acetylmethionine
+O54820	Modified	12	N6-acetyllysine
+Q9JIF5	Modified	2	N-acetylglycine
+Q9JIF5	Modified	32	N6-succinyllysine
+Q9JIF5	Modified	49	Phosphoserine
+Q9JIF5	Modified	83	N6-acetyllysine
+Q9JIF5	Modified	178	Phosphotyrosine
+P47969	Modified	252	Phosphoserine
+O70525	Modified	115	Phosphoserine
+O70525	Modified	153	Phosphoserine
+O70525	Modified	155	Phosphoserine
+O70525	Modified	167	Phosphoserine
+O70525	Modified	280	Phosphoserine
+P51434	Modified	19	Phosphoserine
+O88931	Modified	147	N6-acetyllysine
+O35899	Modified	47	Phosphotyrosine
+O35899	Modified	142	Phosphotyrosine
+O35899	Modified	276	Phosphothreonine
+O35899	Modified	611	Phosphoserine
+O35899	Modified	613	Phosphothreonine
+O35899	Modified	616	Phosphothreonine
+P63297	Modified	27	Valine	amide
+P50403	Modified	29	4-hydroxyproline
+P50403	Modified	32	4-hydroxyproline
+P50403	Modified	35	4-hydroxyproline
+P50403	Modified	41	4-hydroxyproline
+P50403	Modified	53	4-hydroxyproline
+P50403	Modified	56	4-hydroxyproline
+P50403	Modified	62	4-hydroxyproline
+P50403	Modified	66	4-hydroxyproline
+P50403	Modified	69	4-hydroxyproline
+O55092	Modified	14	Phosphoserine
+O55092	Modified	183	Phosphothreonine
+O55092	Modified	189	Phosphoserine
+O55092	Modified	330	Phosphoserine
+O55092	Modified	340	Phosphoserine
+O55092	Modified	344	Phosphoserine
+O55092	Modified	347	Phosphoserine
+O55092	Modified	348	Phosphoserine
+O55092	Modified	354	Phosphoserine
+O55092	Modified	372	Phosphoserine
+O55092	Modified	507	Phosphoserine
+O55092	Modified	536	Phosphoserine
+O55092	Modified	554	Phosphoserine
+O55092	Modified	641	Phosphoserine
+O55092	Modified	661	Phosphoserine
+O55092	Modified	775	Phosphoserine
+O55092	Modified	810	Phosphothreonine
+O55092	Modified	814	Phosphoserine
+O55092	Modified	1093	Phosphothreonine
+P63209	Modified	131	Phosphothreonine
+P49114	Modified	58	Nitrated	tyrosine
+P49114	Modified	68	N6-acetyllysine%3B	alternate
+P49114	Modified	68	N6-succinyllysine%3B	alternate
+P49114	Modified	75	N6-acetyllysine%3B	alternate
+P49114	Modified	75	N6-succinyllysine%3B	alternate
+P49114	Modified	114	N6-acetyllysine
+P49114	Modified	122	N6-acetyllysine%3B	alternate
+P49114	Modified	122	N6-succinyllysine%3B	alternate
+P49114	Modified	130	N6-acetyllysine%3B	alternate
+P49114	Modified	130	N6-succinyllysine%3B	alternate
+P49114	Modified	202	N6-acetyllysine
+Q9JKM4	Modified	131	Phosphoserine
+Q07E08	Modified	385	Phosphoserine
+P67932	Modified	11	Methionine	amide
+P0CG54	Modified	141	Phosphoserine
+P04566	Modified	27	Isoleucine	amide
+P04566	Modified	72	Asparagine	amide
+O35504	Modified	209	N6-(pyridoxal	phosphate)lysine
+H0VBD4	Modified	280	N6-(pyridoxal	phosphate)lysine
+H0VYU6	Modified	81	(3R)-3-hydroxyasparagine
+H0VUT4	Modified	212	N6-(pyridoxal	phosphate)lysine
+H0V3G5	Modified	101	1-thioglycine
+H0V0B4	Modified	222	N6-(pyridoxal	phosphate)lysine
+H0VBL5	Modified	167	(3R)-3-hydroxyasparagine
+H0VEG4	Modified	42	Phosphoserine
+H0W4M3	Modified	231	N6-(pyridoxal	phosphate)lysine
+H0UTC7	Modified	87	3-oxoalanine	(Cys)
+H0VK89	Modified	2	N-acetylalanine
+H0WB71	Modified	308	N6-(pyridoxal	phosphate)lysine
+H0V431	Modified	730	N6-(pyridoxal	phosphate)lysine
+H0V2I4	Modified	405	N6-(pyridoxal	phosphate)lysine
+H0VCQ7	Modified	682	N6-(pyridoxal	phosphate)lysine
+H0VMD1	Modified	280	N6-(pyridoxal	phosphate)lysine
+H0VJL6	Modified	159	(3R)-3-hydroxyasparagine
+H0V3H0	Modified	257	N6-(pyridoxal	phosphate)lysine
+H0VDE9	Modified	149	(3R)-3-hydroxyasparagine
+H0VIP2	Modified	2	N-acetylmethionine
+H0VIP2	Modified	277	N6-(pyridoxal	phosphate)lysine
+H0UTN3	Modified	284	N6-(pyridoxal	phosphate)lysine
+H0VAC1	Modified	9	Phosphoserine
+H0VAC1	Modified	11	Phosphoserine
+H0VAC1	Modified	13	Phosphoserine
+H0VAC1	Modified	15	Phosphoserine
+H0VAC1	Modified	16	Phosphoserine
+H0VAC1	Modified	18	Phosphoserine
+H0VAC1	Modified	166	Phosphoserine
+H0VAC1	Modified	524	Phosphothreonine
+H0VAC1	Modified	909	Phosphoserine
+H0VM89	Modified	230	N6-(pyridoxal	phosphate)lysine
+H0UVV0	Modified	2	N-acetylalanine
+H0WB62	Modified	786	Phosphotyrosine
+H0VT69	Modified	183	Phosphoserine
+H0V1L0	Modified	306	N6-(pyridoxal	phosphate)lysine
+H0V733	Modified	681	N6-(pyridoxal	phosphate)lysine
+H0VND2	Modified	165	Phosphothreonine
+H0VND2	Modified	166	Phosphoserine
+H0VLN9	Modified	1	N-acetylmethionine
+H0VLN9	Modified	129	Phosphoserine
+H0VLN9	Modified	131	Phosphoserine
+H0VLN9	Modified	141	Phosphoserine
+H0VM09	Modified	344	N6-(pyridoxal	phosphate)lysine
+H0VLJ5	Modified	21	N-acetylalanine
+H0VLJ5	Modified	221	Phosphoserine
+H0V1U1	Modified	2	N-acetylserine
+H0V7E3	Modified	2	N-acetylalanine
+H0VPE1	Modified	396	N6-(pyridoxal	phosphate)lysine
+H0VLY8	Modified	47	N6-(pyridoxal	phosphate)lysine
+H0V599	Modified	303	N6-(pyridoxal	phosphate)lysine
+H0V596	Modified	303	N6-(pyridoxal	phosphate)lysine
+H0VKP3	Modified	265	N6-(pyridoxal	phosphate)lysine
+H0V6J1	Modified	37	N-acetylserine
+H0V9C5	Modified	314	N6-(pyridoxal	phosphate)lysine
+H0VQI1	Modified	92	3-oxoalanine	(Cys)
+H0WCW9	Modified	681	N6-(pyridoxal	phosphate)lysine
+Q9Z1Y6	Glycosylation	82	N-linked	(GlcNAc...)
+Q9Z1Y6	Glycosylation	136	N-linked	(GlcNAc...)
+Q9Z1Y6	Glycosylation	176	N-linked	(GlcNAc...)
+Q60495	Glycosylation	542	N-linked	(GlcNAc...)
+Q60495	Glycosylation	571	N-linked	(GlcNAc...)
+Q6R5A3	Glycosylation	606	N-linked	(GlcNAc...)
+Q8K4Z4	Glycosylation	6	N-linked	(GlcNAc...)
+Q8K4Z4	Glycosylation	15	N-linked	(GlcNAc...)
+Q8K4Z4	Glycosylation	23	N-linked	(GlcNAc...)
+P12387	Glycosylation	944	N-linked	(GlcNAc...)
+P12387	Glycosylation	1620	N-linked	(GlcNAc...)
+P48766	Glycosylation	41	N-linked	(GlcNAc...)
+P48766	Glycosylation	157	N-linked	(GlcNAc...)
+P31389	Glycosylation	14	N-linked	(GlcNAc...)
+P31389	Glycosylation	27	N-linked	(GlcNAc...)
+Q1KLR6	Glycosylation	150	N-linked	(GlcNAc...)
+Q1KLR6	Glycosylation	169	N-linked	(GlcNAc...)
+Q1KLR6	Glycosylation	195	N-linked	(GlcNAc...)
+Q1KLR6	Glycosylation	326	N-linked	(GlcNAc...)
+O70344	Glycosylation	290	N-linked	(GlcNAc...)
+P70682	Glycosylation	53	N-linked	(GlcNAc...)
+P70682	Glycosylation	130	N-linked	(GlcNAc...)
+P70682	Glycosylation	396	N-linked	(GlcNAc...)
+P70682	Glycosylation	580	N-linked	(GlcNAc...)
+O70212	Glycosylation	33	N-linked	(GlcNAc...)
+O70212	Glycosylation	109	N-linked	(GlcNAc...)
+O70212	Glycosylation	175	N-linked	(GlcNAc...)
+O70212	Glycosylation	191	N-linked	(GlcNAc...)
+Q00552	Glycosylation	895	N-linked	(GlcNAc...)
+Q00552	Glycosylation	901	N-linked	(GlcNAc...)
+P51909	Glycosylation	65	N-linked	(GlcNAc...)
+P51909	Glycosylation	98	N-linked	(GlcNAc...)
+P59902	Glycosylation	11	N-linked	(GlcNAc...)
+P59902	Glycosylation	27	N-linked	(GlcNAc...)
+P59902	Glycosylation	113	N-linked	(GlcNAc...)
+P59902	Glycosylation	197	N-linked	(GlcNAc...)
+O08892	Glycosylation	24	N-linked	(GlcNAc...)
+O08892	Glycosylation	31	N-linked	(GlcNAc...)
+P14617	Glycosylation	47	N-linked	(GlcNAc...)
+P14617	Glycosylation	311	N-linked	(GlcNAc...)
+P14617	Glycosylation	411	N-linked	(GlcNAc...)
+P14617	Glycosylation	492	N-linked	(GlcNAc...)
+P14617	Glycosylation	528	N-linked	(GlcNAc...)
+P14617	Glycosylation	616	N-linked	(GlcNAc...)
+P14617	Glycosylation	634	N-linked	(GlcNAc...)
+P14617	Glycosylation	756	N-linked	(GlcNAc...)
+P14617	Glycosylation	885	N-linked	(GlcNAc...)
+P14617	Glycosylation	898	N-linked	(GlcNAc...)
+Q8R4C5	Glycosylation	67	N-linked	(GlcNAc...)
+Q8R4C5	Glycosylation	112	N-linked	(GlcNAc...)
+O70320	Glycosylation	528	N-linked	(GlcNAc...)
+O70320	Glycosylation	796	N-linked	(GlcNAc...)
+P81139	Glycosylation	318	N-linked	(GlcNAc...)
+P19402	Glycosylation	71	O-linked	(GalNAc...)
+P19402	Glycosylation	91	N-linked	(GlcNAc...)
+O08841	Glycosylation	131	N-linked	(GlcNAc...)
+O08841	Glycosylation	244	N-linked	(GlcNAc...)
+Q6QLL4	Glycosylation	207	N-linked	(GlcNAc...)
+Q8R454	Glycosylation	95	N-linked	(GlcNAc...)
+P23613	Glycosylation	81	N-linked	(GlcNAc...)
+P23613	Glycosylation	165	N-linked	(GlcNAc...)
+P23613	Glycosylation	179	N-linked	(GlcNAc...)
+P23613	Glycosylation	253	N-linked	(GlcNAc...)
+P23613	Glycosylation	368	N-linked	(GlcNAc...)
+P23613	Glycosylation	401	N-linked	(GlcNAc...)
+Q60484	Glycosylation	5	N-linked	(GlcNAc...)
+Q60484	Glycosylation	17	N-linked	(GlcNAc...)
+Q60484	Glycosylation	21	N-linked	(GlcNAc...)
+P46616	Glycosylation	142	N-linked	(GlcNAc...)
+P46616	Glycosylation	151	N-linked	(GlcNAc...)
+Q6VB83	Glycosylation	2	N-linked	(GlcNAc...)
+Q6VB83	Glycosylation	5	N-linked	(GlcNAc...)
+O70528	Glycosylation	7	N-linked	(GlcNAc...)
+O08890	Glycosylation	5	N-linked	(GlcNAc...)
+O08890	Glycosylation	10	N-linked	(GlcNAc...)
+P47745	Glycosylation	159	N-linked	(GlcNAc...)
+P50407	Glycosylation	5	N-linked	(GlcNAc...)
+P50407	Glycosylation	67	N-linked	(GlcNAc...)
+P22324	Glycosylation	55	N-linked	(GlcNAc...)
+P22324	Glycosylation	92	N-linked	(GlcNAc...)
+P22324	Glycosylation	155	N-linked	(GlcNAc...)
+P22324	Glycosylation	222	N-linked	(GlcNAc...)
+P22324	Glycosylation	256	N-linked	(GlcNAc...)
+Q60474	Glycosylation	10	N-linked	(GlcNAc...)
+Q60474	Glycosylation	14	N-linked	(GlcNAc...)
+Q9JID6	Glycosylation	135	O-linked	(GlcNAc)
+P97267	Glycosylation	2	N-linked	(GlcNAc...)
+P22325	Glycosylation	57	N-linked	(GlcNAc...)
+P22325	Glycosylation	94	N-linked	(GlcNAc...)
+P22325	Glycosylation	157	N-linked	(GlcNAc...)
+P22325	Glycosylation	258	N-linked	(GlcNAc...)
+Q60476	Glycosylation	17	N-linked	(GlcNAc...)
+Q60476	Glycosylation	29	N-linked	(GlcNAc...)
+Q60483	Glycosylation	8	N-linked	(GlcNAc...)
+Q60483	Glycosylation	26	N-linked	(GlcNAc...)
+Q9Z1S9	Glycosylation	12	N-linked	(GlcNAc...)
+Q9Z1S9	Glycosylation	17	N-linked	(GlcNAc...)
+Q9WV26	Glycosylation	4	N-linked	(GlcNAc...)
+Q9WV26	Glycosylation	176	N-linked	(GlcNAc...)
+Q9WV26	Glycosylation	188	N-linked	(GlcNAc...)
+Q9WU25	Glycosylation	7	N-linked	(GlcNAc...)
+Q9WU25	Glycosylation	13	N-linked	(GlcNAc...)
+Q60472	Glycosylation	49	N-linked	(GlcNAc...)
+Q60472	Glycosylation	123	N-linked	(GlcNAc...)
+Q60472	Glycosylation	566	N-linked	(GlcNAc...)
+Q60411	Glycosylation	55	N-linked	(GlcNAc...)
+Q60411	Glycosylation	220	N-linked	(GlcNAc...)
+Q60411	Glycosylation	288	N-linked	(GlcNAc...)
+Q60411	Glycosylation	353	N-linked	(GlcNAc...)
+Q60411	Glycosylation	456	N-linked	(GlcNAc...)
+Q60411	Glycosylation	564	N-linked	(GlcNAc...)
+P23529	Glycosylation	291	O-linked	(GalNAc...)
+P23529	Glycosylation	292	O-linked	(GalNAc...)
+Q9JM72	Glycosylation	158	N-linked	(GlcNAc...)
+Q9JM72	Glycosylation	193	N-linked	(GlcNAc...)
+Q9JM72	Glycosylation	268	N-linked	(GlcNAc...)
+Q60489	Glycosylation	240	N-linked	(GlcNAc...)
+Q9Z0S8	Glycosylation	856	N-linked	(GlcNAc...)
+Q9Z0S8	Glycosylation	865	N-linked	(GlcNAc...)
+Q9Z0S8	Glycosylation	879	N-linked	(GlcNAc...)
+O70183	Glycosylation	129	N-linked	(GlcNAc...)
+P35371	Glycosylation	10	N-linked	(GlcNAc...)
+P35371	Glycosylation	18	N-linked	(GlcNAc...)
+O08893	Glycosylation	28	N-linked	(GlcNAc...)
+O08893	Glycosylation	73	N-linked	(GlcNAc...)
+O08893	Glycosylation	125	N-linked	(GlcNAc...)
+O08893	Glycosylation	130	N-linked	(GlcNAc...)
+O70526	Glycosylation	3	N-linked	(GlcNAc...)
+O70526	Glycosylation	12	N-linked	(GlcNAc...)
+O70526	Glycosylation	181	N-linked	(GlcNAc...)
+O88680	Glycosylation	9	N-linked	(GlcNAc...)
+O88680	Glycosylation	168	N-linked	(GlcNAc...)
+O88680	Glycosylation	273	N-linked	(GlcNAc...)
+O88680	Glycosylation	292	N-linked	(GlcNAc...)
+O70129	Glycosylation	12	N-linked	(GlcNAc...)
+O35505	Glycosylation	102	N-linked	(GlcNAc...)
+O35505	Glycosylation	153	N-linked	(GlcNAc...)
+P22074	Glycosylation	13	N-linked	(GlcNAc...)
+P22074	Glycosylation	41	N-linked	(GlcNAc...)
+Q63931	Glycosylation	10	N-linked	(GlcNAc...)
+Q63931	Glycosylation	13	N-linked	(GlcNAc...)
+Q63931	Glycosylation	24	N-linked	(GlcNAc...)
+Q63931	Glycosylation	190	N-linked	(GlcNAc...)
+Q9QZY9	Glycosylation	35	N-linked	(GlcNAc...)
+Q9QZY9	Glycosylation	72	N-linked	(GlcNAc...)
+Q9QZY9	Glycosylation	143	N-linked	(GlcNAc...)
+P25796	Glycosylation	86	N-linked	(GlcNAc...)
+P19442	Glycosylation	144	O-linked	(GalNAc...)
+Q9QZY8	Glycosylation	25	N-linked	(GlcNAc...)
+Q9QZY8	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZY8	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZY8	Glycosylation	146	N-linked	(GlcNAc...)
+Q9QZZ0	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZZ0	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZZ0	Glycosylation	146	N-linked	(GlcNAc...)
+Q9QZZ2	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZZ2	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZZ2	Glycosylation	146	N-linked	(GlcNAc...)
+Q9QZY5	Glycosylation	49	N-linked	(GlcNAc...)
+Q9QZY5	Glycosylation	70	N-linked	(GlcNAc...)
+P80325	Glycosylation	93	O-linked	(GalNAc...)
+Q08782	Glycosylation	97	N-linked	(GlcNAc...)
+P25917	Glycosylation	1	N-linked	(GlcNAc...)
+P25917	Glycosylation	14	N-linked	(GlcNAc...)
+P25917	Glycosylation	28	N-linked	(GlcNAc...)
+P25917	Glycosylation	59	N-linked	(GlcNAc...)
+P25917	Glycosylation	142	N-linked	(GlcNAc...)
+Q9QZY7	Glycosylation	25	N-linked	(GlcNAc...)
+Q9QZY7	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZY7	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZZ1	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZZ1	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZZ1	Glycosylation	146	N-linked	(GlcNAc...)
+Q9QZZ1	Glycosylation	297	N-linked	(GlcNAc...)
+Q9QZY6	Glycosylation	25	N-linked	(GlcNAc...)
+Q9QZY6	Glycosylation	38	N-linked	(GlcNAc...)
+Q9QZY6	Glycosylation	75	N-linked	(GlcNAc...)
+Q9QZY6	Glycosylation	146	N-linked	(GlcNAc...)
+Q9R279	Glycosylation	119	N-linked	(GlcNAc...)
+Q9R279	Glycosylation	393	N-linked	(GlcNAc...)
+Q9R279	Glycosylation	421	N-linked	(GlcNAc...)
+Q2NNR5	Glycosylation	14	N-linked	(GlcNAc...)
+Q2NNR5	Glycosylation	172	N-linked	(GlcNAc...)
+Q2NNR5	Glycosylation	265	N-linked	(GlcNAc...)
+A7WPL7	Glycosylation	103	N-linked	(GlcNAc...)
+A7WPL7	Glycosylation	121	N-linked	(GlcNAc...)
+Q64391	Glycosylation	69	O-linked	(GlcNAc)
+Q60481	Glycosylation	24	O-linked	(GalNAc...)
+Q60481	Glycosylation	27	O-linked	(GalNAc...)
+Q60481	Glycosylation	45	N-linked	(GlcNAc...)
+Q60481	Glycosylation	55	N-linked	(GlcNAc...)
+Q60481	Glycosylation	87	N-linked	(GlcNAc...)
+P84552	Glycosylation	100	N-linked	(GlcNAc...)
+Q06367	Glycosylation	63	O-linked	(GlcNAc)
+Q810F1	Glycosylation	186	N-linked	(GlcNAc...)
+Q810F1	Glycosylation	199	N-linked	(GlcNAc...)
+Q810F1	Glycosylation	414	N-linked	(GlcNAc...)
+P68281	Glycosylation	162	O-linked	(GlcNAc)
+Q60401	Glycosylation	57	N-linked	(GlcNAc...)
+Q60401	Glycosylation	93	N-linked	(GlcNAc...)
+Q60401	Glycosylation	174	N-linked	(GlcNAc...)
+Q60401	Glycosylation	442	N-linked	(GlcNAc...)
+Q60401	Glycosylation	493	N-linked	(GlcNAc...)
+P97739	Glycosylation	150	N-linked	(GlcNAc...)
+P97739	Glycosylation	171	N-linked	(GlcNAc...)
+P97739	Glycosylation	194	N-linked	(GlcNAc...)
+P97739	Glycosylation	254	N-linked	(GlcNAc...)
+P97739	Glycosylation	300	N-linked	(GlcNAc...)
+P97739	Glycosylation	346	N-linked	(GlcNAc...)
+P97739	Glycosylation	367	N-linked	(GlcNAc...)
+P97739	Glycosylation	523	N-linked	(GlcNAc...)
+P97739	Glycosylation	616	N-linked	(GlcNAc...)
+P97739	Glycosylation	635	N-linked	(GlcNAc...)
+Q04962	Glycosylation	248	N-linked	(GlcNAc...)
+Q04962	Glycosylation	270	N-linked	(GlcNAc...)
+Q04962	Glycosylation	419	N-linked	(GlcNAc...)
+P16295	Glycosylation	25	N-linked	(GlcNAc...)
+P16295	Glycosylation	45	N-linked	(GlcNAc...)
+P16295	Glycosylation	47	O-linked	(GalNAc...)
+P16295	Glycosylation	127	N-linked	(GlcNAc...)
+P16295	Glycosylation	138	N-linked	(GlcNAc...)
+Q60513	Glycosylation	79	N-linked	(GlcNAc...)
+Q60513	Glycosylation	106	N-linked	(GlcNAc...)
+Q60513	Glycosylation	180	N-linked	(GlcNAc...)
+Q60513	Glycosylation	187	N-linked	(GlcNAc...)
+Q60513	Glycosylation	195	N-linked	(GlcNAc...)
+Q9JK69	Glycosylation	25	N-linked	(GlcNAc...)
+Q9JK69	Glycosylation	42	N-linked	(GlcNAc...)
+O70159	Glycosylation	99	N-linked	(GlcNAc...)
+O70159	Glycosylation	156	N-linked	(GlcNAc...)
+O70159	Glycosylation	176	N-linked	(GlcNAc...)
+Q8R428	Glycosylation	191	N-linked	(GlcNAc...)
+Q8R428	Glycosylation	199	N-linked	(GlcNAc...)
+Q8R428	Glycosylation	293	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	33	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	40	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	46	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	115	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	156	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	161	N-linked	(GlcNAc...)
+Q9JI97	Glycosylation	200	N-linked	(GlcNAc...)
+Q9JK68	Glycosylation	80	N-linked	(GlcNAc...)
+Q9JK68	Glycosylation	106	N-linked	(GlcNAc...)
+Q8CH60	Glycosylation	18	N-linked	(GlcNAc...)
+P70106	Glycosylation	35	N-linked	(GlcNAc...)
+P70106	Glycosylation	82	N-linked	(GlcNAc...)
+P70106	Glycosylation	191	N-linked	(GlcNAc...)
+P70106	Glycosylation	198	N-linked	(GlcNAc...)
+P70106	Glycosylation	287	N-linked	(GlcNAc...)
+P70106	Glycosylation	306	N-linked	(GlcNAc...)
+P70106	Glycosylation	310	N-linked	(GlcNAc...)
+P70106	Glycosylation	348	N-linked	(GlcNAc...)
+P70106	Glycosylation	405	N-linked	(GlcNAc...)
+P28797	Glycosylation	183	N-linked	(GlcNAc...)
+Q9JI35	Glycosylation	11	N-linked	(GlcNAc...)
+P47747	Glycosylation	4	N-linked	(GlcNAc...)
+Q924V5	Glycosylation	218	N-linked	(GlcNAc...)
+O08987	Glycosylation	48	N-linked	(GlcNAc...)
+O08987	Glycosylation	77	N-linked	(GlcNAc...)
+O08987	Glycosylation	91	N-linked	(GlcNAc...)
+P01862	Glycosylation	178	N-linked	(GlcNAc...)
+Q9Z1Y5	Glycosylation	67	N-linked	(GlcNAc...)
+Q9Z1Y5	Glycosylation	134	N-linked	(GlcNAc...)
+Q60480	Glycosylation	57	N-linked	(GlcNAc...)
+Q60480	Glycosylation	87	N-linked	(GlcNAc...)
+Q60480	Glycosylation	100	N-linked	(GlcNAc...)
+Q75SZ9	Glycosylation	119	N-linked	(GlcNAc...)
+Q75SZ9	Glycosylation	127	N-linked	(GlcNAc...)
+P18563	Glycosylation	119	N-linked	(GlcNAc...)
+P18563	Glycosylation	246	N-linked	(GlcNAc...)
+P18563	Glycosylation	255	N-linked	(GlcNAc...)
+P18563	Glycosylation	277	N-linked	(GlcNAc...)
+P18563	Glycosylation	322	N-linked	(GlcNAc...)
+P18563	Glycosylation	330	N-linked	(GlcNAc...)
+P18563	Glycosylation	400	N-linked	(GlcNAc...)
+P18563	Glycosylation	434	N-linked	(GlcNAc...)
+P18563	Glycosylation	555	N-linked	(GlcNAc...)
+P11578	Glycosylation	25	N-linked	(GlcNAc...)
+P11578	Glycosylation	78	N-linked	(GlcNAc...)
+P11578	Glycosylation	106	N-linked	(GlcNAc...)
+Q60409	Glycosylation	5	N-linked	(GlcNAc...)
+Q60409	Glycosylation	26	N-linked	(GlcNAc...)
+P63160	Glycosylation	6	N-linked	(GlcNAc...)
+P63160	Glycosylation	29	N-linked	(GlcNAc...)
+Q9JL58	Glycosylation	53	N-linked	(GlcNAc...)
+P12323	Glycosylation	78	N-linked	(GlcNAc...)
+P12323	Glycosylation	169	N-linked	(GlcNAc...)
+P50903	Glycosylation	351	N-linked	(GlcNAc...)
+P50903	Glycosylation	398	N-linked	(GlcNAc...)
+P50903	Glycosylation	425	N-linked	(GlcNAc...)
+P11153	Glycosylation	60	N-linked	(GlcNAc...)
+P11153	Glycosylation	376	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	131	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	308	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	343	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	365	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	495	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	540	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	639	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	686	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	760	N-linked	(GlcNAc...)
+Q8VHC8	Glycosylation	927	N-linked	(GlcNAc...)
+P70105	Glycosylation	83	N-linked	(GlcNAc...)
+P70105	Glycosylation	114	N-linked	(GlcNAc...)
+P70105	Glycosylation	263	N-linked	(GlcNAc...)
+P70105	Glycosylation	290	O-linked	(GalNAc...)
+P70105	Glycosylation	293	O-linked	(GalNAc...)
+P19093	Glycosylation	69	N-linked	(GlcNAc...)
+P19093	Glycosylation	114	N-linked	(GlcNAc...)
+P30098	Glycosylation	7	N-linked	(GlcNAc...)
+P30098	Glycosylation	24	N-linked	(GlcNAc...)
+Q64077	Glycosylation	11	N-linked	(GlcNAc...)
+Q64077	Glycosylation	19	N-linked	(GlcNAc...)
+P10769	Glycosylation	112	N-linked	(GlcNAc...)
+P47970	Glycosylation	144	N-linked	(GlcNAc...)
+P47970	Glycosylation	185	N-linked	(GlcNAc...)
+P47970	Glycosylation	389	N-linked	(GlcNAc...)
+Q9WVD0	Glycosylation	2	N-linked	(GlcNAc...)
+Q9WVD0	Glycosylation	11	N-linked	(GlcNAc...)
+Q9WVD0	Glycosylation	17	N-linked	(GlcNAc...)
+Q9Z2D5	Glycosylation	11	N-linked	(GlcNAc...)
+P30547	Glycosylation	14	N-linked	(GlcNAc...)
+P30547	Glycosylation	18	N-linked	(GlcNAc...)
+P41144	Glycosylation	25	N-linked	(GlcNAc...)
+P41144	Glycosylation	39	N-linked	(GlcNAc...)
+O70397	Glycosylation	129	N-linked	(GlcNAc...)
+O70397	Glycosylation	190	N-linked	(GlcNAc...)
+O70397	Glycosylation	247	N-linked	(GlcNAc...)
+O70397	Glycosylation	306	N-linked	(GlcNAc...)
+P47748	Glycosylation	21	N-linked	(GlcNAc...)
+P47748	Glycosylation	28	N-linked	(GlcNAc...)
+P47748	Glycosylation	39	N-linked	(GlcNAc...)
+Q9R024	Glycosylation	34	N-linked	(GlcNAc...)
+P70683	Glycosylation	76	N-linked	(GlcNAc...)
+P70683	Glycosylation	200	N-linked	(GlcNAc...)
+P70683	Glycosylation	324	N-linked	(GlcNAc...)
+P60987	Glycosylation	105	N-linked	(GlcNAc...)
+O88956	Glycosylation	142	N-linked	(GlcNAc...)
+Q64181	Glycosylation	429	N-linked	(GlcNAc...)
+P21556	Glycosylation	4	N-linked	(GlcNAc...)
+P21556	Glycosylation	169	N-linked	(GlcNAc...)
+Q8R4C4	Glycosylation	27	N-linked	(GlcNAc...)
+Q8R4C4	Glycosylation	69	N-linked	(GlcNAc...)
+Q8R4C4	Glycosylation	101	N-linked	(GlcNAc...)
+P00679	Glycosylation	21	N-linked	(GlcNAc...)
+P00679	Glycosylation	34	N-linked	(GlcNAc...)
+P49255	Glycosylation	198	N-linked	(GlcNAc...)
+Q9R1N2	Glycosylation	191	N-linked	(GlcNAc...)
+Q9R1N2	Glycosylation	504	N-linked	(GlcNAc...)
+P20097	Glycosylation	22	N-linked	(GlcNAc...)
+O35899	Glycosylation	208	N-linked	(GlcNAc...)
+O35899	Glycosylation	217	N-linked	(GlcNAc...)
+P50403	Glycosylation	20	N-linked	(GlcNAc...)
+P50403	Glycosylation	206	N-linked	(GlcNAc...)
+P22323	Glycosylation	62	N-linked	(GlcNAc...)
+P22323	Glycosylation	99	N-linked	(GlcNAc...)
+P22323	Glycosylation	162	N-linked	(GlcNAc...)
+P22323	Glycosylation	229	N-linked	(GlcNAc...)
+P22323	Glycosylation	263	N-linked	(GlcNAc...)
+Q07E08	Glycosylation	47	N-linked	(GlcNAc...)
+Q9JLU8	Glycosylation	41	N-linked	(GlcNAc...)
+Q9JLU8	Glycosylation	111	N-linked	(GlcNAc...)
+Q9JLU8	Glycosylation	151	N-linked	(GlcNAc...)
+Q9JLU8	Glycosylation	164	N-linked	(GlcNAc...)
+Q9R110	Glycosylation	316	N-linked	(GlcNAc...)
+P26617	Glycosylation	74	N-linked	(GlcNAc...)
+O08569	Glycosylation	68	N-linked	(GlcNAc...)
+O08569	Glycosylation	77	N-linked	(GlcNAc...)
+O08569	Glycosylation	185	N-linked	(GlcNAc...)
+O08569	Glycosylation	191	N-linked	(GlcNAc...)
+O08569	Glycosylation	200	N-linked	(GlcNAc...)
+O08569	Glycosylation	433	N-linked	(GlcNAc...)
+O08569	Glycosylation	455	N-linked	(GlcNAc...)
+H0UW05	Cross-link	157	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+P97275	347	N6-acetyllysine	FAD-binding	domain
+P12387	1576	Phosphoserine	NTR	domain
+H0VGV5	700	4-hydroxyproline	Piwi	domain
+Q1KLR6	123	N6-acetyllysine	Peptidase	domain
+Q1KLR6	247	N6-acetyllysine	Peptidase	domain
+Q1KLR6	251	N6-acetyllysine	Peptidase	domain
+Q1KLR6	257	N6-acetyllysine	Peptidase	domain
+Q1KLR6	271	N6-acetyllysine	Peptidase	domain
+Q1KLR6	272	N6-acetyllysine	Peptidase	domain
+Q1KLR6	279	N6-acetyllysine	Peptidase	domain
+Q00552	550	Phosphoserine	ABC	domain
+Q9EQZ5	20	Phosphoserine	PDB:1V3U	Helix-region
+Q9EQZ5	178	N6-acetyllysine	binding-site
+Q9EQZ5	178	N6-acetyllysine	PDB:1V3U	Helix-region
+O54705	574	Phosphotyrosine	Flavodoxin-like	domain
+P70685	14	Phosphothreonine	binding-site
+O08841	427	Phosphoserine	ERV/ALR	domain
+P25917	104	Phosphoserine	Ig-like	domain
+Q07249	65	Phosphotyrosine	ITAM	domain
+Q07249	69	Phosphoserine	ITAM	domain
+Q07249	76	Phosphotyrosine	ITAM	domain
+Q07249	78	Phosphothreonine	ITAM	domain
+P01947	8	N6-succinyllysine	PDB:3HYU	Helix-region
+P01947	12	N6-succinyllysine	PDB:3HYU	Helix-region
+P01947	17	N6-acetyllysine%3B	alternate	PDB:3HYU	Helix-region
+P01947	17	N6-succinyllysine%3B	alternate	PDB:3HYU	Helix-region
+P01947	25	Phosphotyrosine	PDB:3HYU	Helix-region
+P01947	36	Phosphoserine	PDB:3HYU	Helix-region
+P01947	41	N6-succinyllysine	PDB:3HYU	Helix-region
+P01947	109	Phosphothreonine	PDB:3HYU	Helix-region
+P01947	125	Phosphoserine	PDB:3HYU	Helix-region
+P01947	132	Phosphoserine	PDB:3HYU	Helix-region
+P01947	135	Phosphothreonine	PDB:3HYU	Helix-region
+P02095	82	N6-acetyllysine	PDB:3HYU	Helix-region
+P02095	93	S-nitrosocysteine	PDB:3HYU	Helix-region
+P02095	144	N6-acetyllysine	PDB:3HYU	Helix-region
+P57044	425	N6-acetyllysine	Protein	domain
+P11153	333	Nitrated	tyrosine	PLAT	domain
+Q9JIF5	32	N6-succinyllysine	NADP	nucleotide-binding
+P50403	29	4-hydroxyproline	Collagen-like	domain
+P50403	32	4-hydroxyproline	Collagen-like	domain
+P50403	35	4-hydroxyproline	Collagen-like	domain
+P50403	41	4-hydroxyproline	Collagen-like	domain
+P50403	53	4-hydroxyproline	Collagen-like	domain
+P50403	56	4-hydroxyproline	Collagen-like	domain
+P50403	62	4-hydroxyproline	Collagen-like	domain
+P50403	66	4-hydroxyproline	Collagen-like	domain
+P50403	69	4-hydroxyproline	Collagen-like	domain
+O55092	183	Phosphothreonine	Protein	domain
+O55092	189	Phosphoserine	Protein	domain
+P0CG54	141	Phosphoserine	Ubiquitin-like	domain
+O35504	209	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H0VBD4	280	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+H0VYU6	81	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0VBL5	167	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0W4M3	231	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H0UTC7	87	3-oxoalanine	(Cys)	Sulfatase	domain
+H0VJL6	159	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0VDE9	149	(3R)-3-hydroxyasparagine	Calcium 2	metal-binding
+H0VIP2	277	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+H0VLY8	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+H0VQI1	92	3-oxoalanine	(Cys)	Sulfatase	domain
+P12387	1620	N-linked	(GlcNAc...)	NTR	domain
+Q1KLR6	150	N-linked	(GlcNAc...)	Peptidase	domain
+Q1KLR6	169	N-linked	(GlcNAc...)	Peptidase	domain
+Q1KLR6	195	N-linked	(GlcNAc...)	Peptidase	domain
+Q1KLR6	326	N-linked	(GlcNAc...)	Peptidase	domain
+P70682	53	N-linked	(GlcNAc...)	EGF-like	domain
+Q00552	895	N-linked	(GlcNAc...)	ABC	domain
+Q00552	901	N-linked	(GlcNAc...)	ABC	domain
+P14617	492	N-linked	(GlcNAc...)	Fibronectin	domain
+P14617	528	N-linked	(GlcNAc...)	Fibronectin	domain
+P14617	616	N-linked	(GlcNAc...)	Fibronectin	domain
+P14617	634	N-linked	(GlcNAc...)	Fibronectin	domain
+P14617	885	N-linked	(GlcNAc...)	Fibronectin	domain
+P14617	898	N-linked	(GlcNAc...)	Fibronectin	domain
+O08841	131	N-linked	(GlcNAc...)	Thioredoxin	domain
+Q60411	220	N-linked	(GlcNAc...)	Peptidase	domain
+Q60411	288	N-linked	(GlcNAc...)	Peptidase	domain
+Q60411	353	N-linked	(GlcNAc...)	Peptidase	domain
+Q60411	456	N-linked	(GlcNAc...)	Disintegrin	domain
+P22074	13	N-linked	(GlcNAc...)	Kazal-like	domain
+P22074	41	N-linked	(GlcNAc...)	Kazal-like	domain
+P25796	86	N-linked	(GlcNAc...)	Peptidase	domain
+P25917	1	N-linked	(GlcNAc...)	Ig-like	domain
+P25917	14	N-linked	(GlcNAc...)	Ig-like	domain
+P25917	59	N-linked	(GlcNAc...)	Ig-like	domain
+P25917	142	N-linked	(GlcNAc...)	Ig-like	domain
+A7WPL7	103	N-linked	(GlcNAc...)	Peptidase	domain
+A7WPL7	121	N-linked	(GlcNAc...)	Peptidase	domain
+P84552	100	N-linked	(GlcNAc...)	LCCL	domain
+Q60401	57	N-linked	(GlcNAc...)	Sushi	domain
+Q60401	93	N-linked	(GlcNAc...)	Sushi	domain
+Q60401	174	N-linked	(GlcNAc...)	Sushi	domain
+Q04962	248	N-linked	(GlcNAc...)	Kringle	domain
+Q04962	270	N-linked	(GlcNAc...)	Kringle	domain
+Q04962	419	N-linked	(GlcNAc...)	Peptidase	domain
+P16295	127	N-linked	(GlcNAc...)	Peptidase	domain
+P16295	138	N-linked	(GlcNAc...)	Peptidase	domain
+Q60513	79	N-linked	(GlcNAc...)	Ig-like	domain
+Q60513	106	N-linked	(GlcNAc...)	Ig-like	domain
+Q60513	180	N-linked	(GlcNAc...)	Ig-like	domain
+Q60513	187	N-linked	(GlcNAc...)	Ig-like	domain
+Q60513	195	N-linked	(GlcNAc...)	Ig-like	domain
+O70159	99	N-linked	(GlcNAc...)	Cystatin	domain
+O70159	156	N-linked	(GlcNAc...)	Cystatin	domain
+O70159	176	N-linked	(GlcNAc...)	Cystatin	domain
+Q9JI97	156	N-linked	(GlcNAc...)	Fibronectin	domain
+Q9JI97	161	N-linked	(GlcNAc...)	Fibronectin	domain
+Q9JI97	200	N-linked	(GlcNAc...)	Fibronectin	domain
+P18563	119	N-linked	(GlcNAc...)	VWFA	domain
+P12323	78	N-linked	(GlcNAc...)	Peptidase	domain
+P12323	169	N-linked	(GlcNAc...)	Peptidase	domain
+P50903	398	N-linked	(GlcNAc...)	PLAT	domain
+P50903	425	N-linked	(GlcNAc...)	PLAT	domain
+P11153	376	N-linked	(GlcNAc...)	PLAT	domain
+P70105	83	N-linked	(GlcNAc...)	Sushi	domain
+P70105	114	N-linked	(GlcNAc...)	Sushi	domain
+P70105	263	N-linked	(GlcNAc...)	Sushi	domain
+P47970	389	N-linked	(GlcNAc...)	Pentaxin	domain
+Q64181	429	N-linked	(GlcNAc...)	TSP	domain
+P49255	198	N-linked	(GlcNAc...)	Pentaxin	domain
+P20097	22	N-linked	(GlcNAc...)	Saposin	domain
+P50403	206	N-linked	(GlcNAc...)	C-type	domain
+O08569	68	N-linked	(GlcNAc...)	Sushi	domain
+O08569	77	N-linked	(GlcNAc...)	Sushi	domain
+O08569	185	N-linked	(GlcNAc...)	Sushi	domain
+O08569	191	N-linked	(GlcNAc...)	Sushi	domain
+O08569	200	N-linked	(GlcNAc...)	Sushi	domain
+O08569	433	N-linked	(GlcNAc...)	Sushi	domain
+O08569	455	N-linked	(GlcNAc...)	Sushi	domain

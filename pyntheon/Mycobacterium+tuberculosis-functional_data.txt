@@ -1,0 +1,692 @@
+P9WMF9	54	4-aspartylphosphate	Response	domain
+P9WI71	170	Phosphothreonine	Protein	domain
+P9WHU1	84	Phosphothreonine	PDB:3MI0	Helix-region
+P9WHU1	178	Phosphothreonine	PDB:3MI0	Helix-region
+P9WIS7	2	N-acetylalanine	Lipoyl-binding	domain
+P9WIS7	43	N6-lipoyllysine	Lipoyl-binding	domain
+P9WIS7	162	N6-lipoyllysine	Lipoyl-binding	domain
+P9WGM7	56	4-aspartylphosphate	Response	domain
+P9WGM7	56	4-aspartylphosphate	Divalent cation	
+	metal-binding
+P9WGM7	56	4-aspartylphosphate	PDB:2GWR	Helix-region
+P9WPB3	168	Phosphothreonine	PDB:1L1E	Helix-region
+P9WNK5	2	N-acetylalanine	PDB:3FAV	Helix-region
+P9WIU7	72	N6-(pyridoxal	phosphate)lysine	PDB:2O0T	Helix-region
+P9WQ81	283	N6-(pyridoxal	phosphate)lysine	binding-site
+P9WQ81	283	N6-(pyridoxal	phosphate)lysine	PDB:4WYD	Helix-region
+P9WP55	44	N6-(pyridoxal	phosphate)lysine	PDB:2Q3B	Helix-region
+P9WGM9	48	4-aspartylphosphate	Response	domain
+P9WGI9	239	N6-(pyridoxal	phosphate)lysine	PDB:3H7F	Helix-region
+P9WQA9	44	N6-(pyridoxal	phosphate)lysine	PDB:1XFC	Helix-region
+P9WQF3	41	O-(pantetheine	4'-phosphoryl)serine	PDB:1KLP	Helix-region
+P9WID5	2	N-acetylthreonine	PDB:2PKF	Helix-region
+P0A509	620	N6-biotinyllysine	Biotinyl-binding	domain
+P9WPQ2	620	N6-biotinyllysine	Biotinyl-binding	domain
+P9WPQ3	620	N6-biotinyllysine	Biotinyl-binding	domain
+P0A4X7	283	N6-(pyridoxal	phosphate)lysine	binding-site
+P9WQ80	283	N6-(pyridoxal	phosphate)lysine	binding-site
+O06159	48	N6-lipoyllysine	Lipoyl-binding	domain
+P53555	280	N6-(pyridoxal	phosphate)lysine	binding-site
+P53555	280	N6-(pyridoxal	phosphate)lysine	PDB:3DOD	Helix-region
+P0A511	37	N6-biotinyllysine	Biotinyl-binding	domain
+P46392	564	N6-biotinyllysine	Biotinyl-binding	domain
+P9WPQ1	37	N6-biotinyllysine	Biotinyl-binding	domain
+P9WPQ0	37	N6-biotinyllysine	Biotinyl-binding	domain
+B2HN69	685	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WPZ5	232	N6-(pyridoxal	phosphate)lysine	PDB:2O0R	Helix-region
+P9WMF8	54	4-aspartylphosphate	Response	domain
+Q7TXK7	579	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQ61	579	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+B2HIL6	576	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQ60	579	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A1KJN8	65	N6-lipoyllysine	Lipoyl-binding	domain
+A5U3J3	65	N6-lipoyllysine	Lipoyl-binding	domain
+Q7TZG8	65	N6-lipoyllysine	Lipoyl-binding	domain
+Q7TWH9	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A5U8B7	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+C1APA3	65	N6-lipoyllysine	Lipoyl-binding	domain
+A1KPC8	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+P9WN54	65	N6-lipoyllysine	Lipoyl-binding	domain
+C1AHQ0	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+B2HCZ2	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+P9WN40	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+P9WN55	65	N6-lipoyllysine	Lipoyl-binding	domain
+P9WN55	65	N6-lipoyllysine	PDB:3HGB	Helix-region
+P9WN31	51	O-UMP-tyrosine	PDB:3LF0	Helix-region
+P9WN39	406	O-AMP-tyrosine	PDB:4ACF	Helix-region
+P9WN41	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+P9WML7	232	N6-(pyridoxal	phosphate)lysine	PDB:4R8D	Helix-region
+Q60766	202	Phosphoserine	IRG-type	domain
+P9WQ71	205	N6-(pyridoxal	phosphate)lysine	PDB:4ISY	Helix-region
+P9WGN0	52	4-aspartylphosphate	Response	domain
+P69441	192	N6-acetyllysine	PDB:4X8L	Helix-region
+P9WGN1	52	4-aspartylphosphate	Response	domain
+P9WQ77	300	N6-(pyridoxal	phosphate)lysine	PDB:2CJG	Helix-region
+P9WQ62	39	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQ62	1094	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQ63	39	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQ63	1094	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P11226	47	Hydroxyproline	Collagen-like	domain
+P11226	73	Hydroxyproline	Collagen-like	domain
+P11226	79	Hydroxyproline	Collagen-like	domain
+P11226	82	Hydroxyproline	Collagen-like	domain
+P11226	88	Hydroxyproline	Collagen-like	domain
+Q02251	2060	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TYQ4	39	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TYQ4	1094	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P14174	78	N6-acetyllysine%3B	alternate	PDB:3DJH	Helix-region
+P14174	78	N6-succinyllysine%3B	alternate	PDB:3DJH	Helix-region
+A5U123	48	4-aspartylphosphate	Response	domain
+Q7U0X4	48	4-aspartylphosphate	Response	domain
+P9WGM8	48	4-aspartylphosphate	Response	domain
+Q7TXK8	2045	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A1KHB7	48	4-aspartylphosphate	Response	domain
+B2HIL7	2039	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P0A5Z5	53	4-aspartylphosphate	Response	domain
+P9WJL3	262	N6-carboxylysine	PDB:2WTZ	Helix-region
+P9WGM6	56	4-aspartylphosphate	Response	domain
+P9WGM6	56	4-aspartylphosphate	Divalent cation	metal-binding
+Q9Y6K9	68	Phosphoserine	PDB:3BRV	Helix-region
+P9WGM4	61	4-aspartylphosphate	Response	domain
+P9WGM5	61	4-aspartylphosphate	Response	domain
+P9WGM5	61	4-aspartylphosphate	PDB:3EUL	Helix-region
+P65634	43	N6-lipoyllysine	Lipoyl-binding	domain
+P65634	162	N6-lipoyllysine	Lipoyl-binding	domain
+P9WIS6	43	N6-lipoyllysine	Lipoyl-binding	domain
+P9WIS6	162	N6-lipoyllysine	Lipoyl-binding	domain
+P9WML5	217	N6-(pyridoxal	phosphate)lysine	PDB:4R5Z	Helix-region
+P9WQH5	2	N-acetylthreonine	Carboxyltransferase	domain
+P9WGM2	65	4-aspartylphosphate	Response	domain
+P9WGM3	65	4-aspartylphosphate	Response	domain
+P9WGM3	65	4-aspartylphosphate	PDB:1S8N	Helix-region
+A1KQG0	2075	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TVK8	2075	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WHN8	145	N6-carboxylysine	Zinc 1%3B via carbamate group	metal-binding
+P9WHN8	145	N6-carboxylysine	Zinc 2%3B via carbamate group	metal-binding
+P9WQE9	2075	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WHN9	145	N6-carboxylysine	Zinc 1%3B via carbamate group	metal-binding
+P9WHN9	145	N6-carboxylysine	Zinc 2%3B via carbamate group	metal-binding
+P9WHN9	145	N6-carboxylysine	PDB:4IF2	Helix-region
+P9WI70	170	Phosphothreonine	Protein	domain
+A5U9F4	2075	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7U095	170	Phosphothreonine	Protein	domain
+P96285	1549	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE8	2075	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE7	43	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE7	1796	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE4	1458	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE0	965	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE6	43	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE6	1796	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P96202	2105	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE3	1745	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WGM0	58	4-aspartylphosphate	Response	domain
+Q7TXM0	43	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TXM0	1796	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TXL8	2105	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TXL9	1458	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TXL6	965	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE5	1458	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q7TXL7	1745	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE2	1745	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P9WQE1	965	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+P0A5Z7	58	4-aspartylphosphate	Response	domain
+P9WGM1	58	4-aspartylphosphate	Response	domain
+P9WGM1	58	4-aspartylphosphate	PDB:1YS7	Helix-region
+P9WGL8	52	4-aspartylphosphate	Response	domain
+O07130	52	4-aspartylphosphate	Response	domain
+P9WGL9	52	4-aspartylphosphate	Response	domain
+P9WGL9	52	4-aspartylphosphate	PDB:2OQR	Helix-region
+P9WGE1	61	Phosphoserine	STAS	domain
+P9WGE0	61	Phosphoserine	STAS	domain
+O07776	73	4-aspartylphosphate	Response	domain
+O69730	59	4-aspartylphosphate	Response	domain
+Q7D9K0	73	4-aspartylphosphate	Response	domain
+P9WFX9	113	N6-(pyridoxal	phosphate)lysine	PDB:2O2E	Helix-region
+A1KJR2	224	N6-carboxylysine	Urease	domain
+A1KJR2	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A1KJR2	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+P9WFF0	224	N6-carboxylysine	Urease	domain
+P9WFF0	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+P9WFF0	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+C1APC7	224	N6-carboxylysine	Urease	domain
+C1APC7	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+C1APC7	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A5U3L7	224	N6-carboxylysine	Urease	domain
+A5U3L7	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A5U3L7	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+B2HSZ2	224	N6-carboxylysine	Urease	domain
+B2HSZ2	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+B2HSZ2	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+P9WFF1	224	N6-carboxylysine	Urease	domain
+P9WFF1	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+P9WFF1	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+P0A661	224	N6-carboxylysine	Urease	domain
+P0A661	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+P0A661	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+O53353	42	Phosphoserine	4Fe-4S	domain
+P9WGL7	64	4-aspartylphosphate	Response	domain
+P9WGL6	64	4-aspartylphosphate	Response	domain
+A0A0T9MXR8	46	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0T9MAY5	111	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9K0V7	80	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0T9MGK3	148	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0T9MGK3	148	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0T9MMG8	228	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0T9N0J7	223	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0T9K0P7	230	N5-methylglutamine	RF_PROK_I	domain
+A0A0T9M8S1	638	N6-acetyllysine	AMP-binding_C	domain
+A0A0T9LR75	104	Phosphoserine	PGM_PMM_I	domain
+A0A0T9LR75	104	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0T9K0T2	65	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9KU04	95	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0T9LZJ9	275	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A0T9LS73	222	N6-carboxylysine	Urease	domain
+A0A0T9LS73	222	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0T9LS73	222	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0T9MMQ3	202	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0T9KDW8	251	N5-methylglutamine	RF_PROK_I	domain
+A0A0T9KX51	43	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9MHE2	703	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0T9KGR2	240	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A0T9MDV7	248	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0T9LLQ6	287	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A0T9MB21	46	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9JZS9	82	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0T9MUX7	97	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A045IZC3	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0E8UIL2	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A045H314	236	N5-methylglutamine	RF_PROK_I	domain
+A0A0E7ZD24	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0U0RXJ1	52	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9XGS2	234	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0T9XGS2	234	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0E8TW99	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A045IV87	102	Phosphoserine	PGM_PMM_I	domain
+A0A045IV87	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0T9Y6E3	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A045GSA0	260	N5-methylglutamine	RF_PROK_I	domain
+A0A045J3Y2	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9AX79	180	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A045HMC1	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0E9A7R6	50	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0E7XEH0	112	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0E8WM85	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A045JXB0	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A045KGD4	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A045KEF1	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A045JQC4	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0E8NNH2	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A045ING3	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A045JPQ0	224	N6-carboxylysine	Urease	domain
+A0A045JPQ0	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A045JPQ0	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0E8U3C7	305	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A045JWN9	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A045JWN9	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A045KET6	617	N6-acetyllysine	AMP-binding_C	domain
+A0A045KDH5	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0U0SUA5	24	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T7PEJ3	177	N6-carboxylysine	Urease	domain
+A0A0T7PEJ3	177	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0T7PEJ3	177	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0C7DRC2	53	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A093P730	253	N5-methylglutamine	RF_PROK_I	domain
+A0A083VR29	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A083WGK9	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0C7DA27	237	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A083W8W0	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A0C7DFE3	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0C7DSC5	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A083W359	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A083W955	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A083WDN3	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0C7DJ35	224	N6-carboxylysine	Urease	domain
+A0A0C7DJ35	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0C7DJ35	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A083WBE2	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A083VTM8	102	Phosphoserine	PGM_PMM_I	domain
+A0A083VTM8	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0C7DVQ5	617	N6-acetyllysine	AMP-binding_C	domain
+A0A083WDN9	236	N5-methylglutamine	RF_PROK_I	domain
+A0A083WJB5	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A083WJB5	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A083W5N5	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A109SNI1	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A109SNI1	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A120IWN6	305	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A109SRZ0	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0G4DXV9	236	N5-methylglutamine	RF_PROK_I	domain
+A0A0G4E385	53	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0G4DTZ3	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0G4DU68	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0G4DYG3	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0G4E3U0	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0G4DYA7	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0G4DZY3	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0G4DX96	253	N5-methylglutamine	RF_PROK_I	domain
+A0A0G4DX44	237	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A0G4DY81	617	N6-acetyllysine	AMP-binding_C	domain
+A0A0G4E0F8	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0G4E0W9	224	N6-carboxylysine	Urease	domain
+A0A0G4E0W9	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0G4E0W9	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0G4E245	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A0G4E019	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0G4DXV5	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0G4DVW1	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0G4DVW1	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0G4DXW1	102	Phosphoserine	PGM_PMM_I	domain
+A0A0G4DXW1	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+F8M6M5	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+F8M877	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+F8M9L3	224	N6-carboxylysine	Urease	domain
+F8M9L3	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+F8M9L3	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+F8M5N8	260	N5-methylglutamine	RF_PROK_I	domain
+F8M865	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+F8M9I9	65	N6-lipoyllysine	Lipoyl-binding	domain
+F8M4D0	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+F8M7M8	102	Phosphoserine	PGM_PMM_I	domain
+F8M7M8	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+F8M1X0	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+F8M0Q3	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+F8M9J5	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+F8M926	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+F8M0F9	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+F8M6M7	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+F8M0B9	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+F8M0B9	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+F8M6N1	236	N5-methylglutamine	RF_PROK_I	domain
+F8M9M9	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+F8M848	283	N6-(pyridoxal	phosphate)lysine	binding-site
+F8M8Z2	617	N6-acetyllysine	AMP-binding_C	domain
+G0TJW2	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+G0THX1	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+G0TLB3	224	N6-carboxylysine	Urease	domain
+G0TLB3	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+G0TLB3	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+G0TIU5	102	Phosphoserine	PGM_PMM_I	domain
+G0TIU5	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+G0TGV7	260	N5-methylglutamine	RF_PROK_I	domain
+G0TL95	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+G0TPM0	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+G0TL89	65	N6-lipoyllysine	Lipoyl-binding	domain
+G0TFN1	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G0TNE5	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+G0TJV0	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+G0TN30	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+G0TN30	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+G0TKH7	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+G0TMS0	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+G0THX3	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+G0TK72	617	N6-acetyllysine	AMP-binding_C	domain
+G0TKA6	208	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G0TJF2	283	N6-(pyridoxal	phosphate)lysine	binding-site
+G0THX7	236	N5-methylglutamine	RF_PROK_I	domain
+A0A0C7DNI1	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0C7DTK9	224	N6-carboxylysine	Urease	domain
+A0A0C7DTK9	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0C7DTK9	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A081I7B4	252	N5-methylglutamine	RF_PROK_I	domain
+A0A081I1F0	85	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A081I0Y8	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A081HZY8	97	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A081HWV6	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A081HZ91	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A081HVH4	231	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A081HVG2	108	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A081HWW1	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A081I3A9	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A081I2L1	102	Phosphoserine	PGM_PMM_I	domain
+A0A081I2L1	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A081I5Z9	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A081I474	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A081I474	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A081I6A4	191	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A081HVJ5	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A081HZZ0	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A081HZJ8	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A081HZZ5	236	N5-methylglutamine	RF_PROK_I	domain
+A0A081I6F3	617	N6-acetyllysine	AMP-binding_C	domain
+G7CFE1	615	N6-acetyllysine	AMP-binding_C	domain
+G7CHG9	241	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+G7CDW6	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+G7CGA1	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+G7CBV6	108	N6-(pyridoxal	phosphate)lysine	PALP	domain
+G7CMH5	31	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+G7CFN8	215	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+G7CJN1	194	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G7CLY0	224	N6-carboxylysine	Urease	domain
+G7CLY0	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+G7CLY0	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+G7CAU4	297	N6-(pyridoxal	phosphate)lysine	binding-site
+G7CLF8	252	N5-methylglutamine	RF_PROK_I	domain
+G7CNH9	103	Phosphoserine	PGM_PMM_I	domain
+G7CNH9	103	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+G7CGA3	97	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+G7CFI0	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+G7CLW1	698	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+G7CDC2	147	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+G7CDC2	147	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+G7CBW7	233	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+G7CG95	237	N5-methylglutamine	RF_PROK_I	domain
+G7CLV6	65	N6-lipoyllysine	Lipoyl-binding	domain
+A5U0S2	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A5U1Z2	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A5U2W8	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A5U4S6	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A5U7C0	260	N5-methylglutamine	RF_PROK_I	domain
+A5U4H5	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A5U925	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A5U8Z1	617	N6-acetyllysine	AMP-binding_C	domain
+A5U1Z4	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A5TYV5	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A5TYV5	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A5U2S5	283	N6-(pyridoxal	phosphate)lysine	binding-site
+I6X2F4	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A089QRK7	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A089QRH7	253	N5-methylglutamine	RF_PROK_I	domain
+I6YBP9	65	N6-lipoyllysine	Lipoyl-binding	domain
+I6XH83	102	Phosphoserine	PGM_PMM_I	domain
+I6XH83	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A089S5V5	112	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A089SBY6	220	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A089QRF6	50	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+I6Y358	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+I6Y358	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0H3LC14	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0H3LFG1	220	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0H3LEQ8	102	Phosphoserine	PGM_PMM_I	domain
+A0A0H3LEQ8	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0H3L9K1	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0H3L9J7	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0H3LFP9	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0H3L936	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0H3L804	236	N5-methylglutamine	RF_PROK_I	domain
+A0A0H3L4Y7	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0H3L4Y7	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0H3L998	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A0H3LDS9	253	N5-methylglutamine	RF_PROK_I	domain
+A0A0H3LMJ5	617	N6-acetyllysine	AMP-binding_C	domain
+A0A0H3LDJ4	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0H3LFY9	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0H3LD84	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0H3LAR3	224	N6-carboxylysine	Urease	domain
+A0A0H3LAR3	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0H3LAR3	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0H3LEY8	50	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0H3L800	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0H3P1M0	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0H3P1M0	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0H3P6F3	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+Q7D515	220	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A049DJD3	252	N5-methylglutamine	RF_PROK_I	domain
+A0A0T9PC62	234	N5-methylglutamine	RF_PROK_I	domain
+A0A0U0T2V2	233	N5-methylglutamine	RF_PROK_I	domain
+A0A0T9CAP0	399	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+A0A0T9EHN3	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A049DPN6	102	Phosphoserine	PGM_PMM_I	domain
+A0A049DPN6	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0T9G419	35	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9S2L8	40	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9C5Q8	416	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0Y0ZYD7	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0Y0ZYD7	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0T7LMN1	236	N5-methylglutamine	RF_PROK_I	domain
+A0A0U0RF98	673	N6-acetyllysine	AMP-binding_C	domain
+A0A0T9RYN7	105	Phosphoserine	PGM_PMM_I	domain
+A0A0T9RYN7	105	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0U0QNV9	608	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A049D4B5	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0U0QHK6	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9FTM5	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9XPR9	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A049E608	97	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0U0RKT1	444	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0U0SR17	224	N6-carboxylysine	Urease	domain
+A0A0U0SR17	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0U0SR17	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A049E8Q7	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0U0TY05	68	N6-carboxylysine	Transpeptidase	domain
+A0A0T9QAW1	66	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0T9G2D2	35	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9XDC5	404	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0T9Y984	224	N6-carboxylysine	Urease	domain
+A0A0T9Y984	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0T9Y984	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A049DNZ9	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A0T9S7K3	239	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A049D786	234	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0T9PC13	105	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0T9PC34	62	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0T9QAC4	66	N6-lipoyllysine	Lipoyl-binding	domain
+A0A049DAV4	112	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A049DTJ1	82	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A049D4D7	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0T9FGN8	38	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0T9V6G2	214	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A049DWQ4	198	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0T9CIP2	291	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+A0A0T9QBS6	66	N6-lipoyllysine	Lipoyl-binding	domain
+A0A0T9BV70	102	Phosphoserine	PGM_PMM_I	domain
+A0A0T9BV70	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A0T9BD37	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0T9ZD32	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A049DWR2	208	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A049E1Y1	236	N5-methylglutamine	RF_PROK_I	domain
+A0A049DVT9	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A049E4N2	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A049DZB3	616	N6-acetyllysine	AMP-binding_C	domain
+A0A049DQT3	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A049DQT3	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A049D771	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A049ECB2	50	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0H3M9N8	617	N6-acetyllysine	AMP-binding_C	domain
+A0A0H3M6I5	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0H3M5P9	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A0H3MAK1	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A0H3M6D8	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A0H3MBD0	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0H3MA30	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A0H3MA30	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A0H3MH46	260	N5-methylglutamine	RF_PROK_I	domain
+A0A0H3M855	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0H3M9S1	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0H3M4H7	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A051TQL8	82	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A051UJD6	102	Phosphoserine	PGM_PMM_I	domain
+A0A051UJD6	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A051TYL4	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A051U3X8	231	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A051UAL2	255	N5-methylglutamine	RF_PROK_I	domain
+A0A051TR22	241	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A051TQA8	224	N6-carboxylysine	Urease	domain
+A0A051TQA8	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A051TQA8	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A051U3Y0	108	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A051TUU7	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A051UGT9	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A051TYL7	693	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A051TWI0	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A051TY00	97	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A051UG03	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+A0A051UG03	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+A0A051TX25	236	N5-methylglutamine	RF_PROK_I	domain
+A0A051TMZ2	616	N6-acetyllysine	AMP-binding_C	domain
+A0A051TJA2	211	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A051U483	283	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A051UJM8	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A051TUA1	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A051TYV3	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+M8D8B9	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+M8CND1	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+M8D5A8	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+M8CMA0	692	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+M8DAZ9	234	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+M8CFD1	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+M8D9I2	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+M8CAK2	253	N5-methylglutamine	RF_PROK_I	domain
+M8CHN7	102	Phosphoserine	PGM_PMM_I	domain
+M8CHN7	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+M8CM95	65	N6-lipoyllysine	Lipoyl-binding	domain
+M8D6M1	224	N6-carboxylysine	Urease	domain
+M8D6M1	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+M8D6M1	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+M8DAU3	617	N6-acetyllysine	AMP-binding_C	domain
+M8CLE4	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+M8CSS9	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+M8CSS9	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+M8CPK3	236	N5-methylglutamine	RF_PROK_I	domain
+M8CPA7	283	N6-(pyridoxal	phosphate)lysine	binding-site
+M8DA59	217	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+M8D114	215	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+M8CP16	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+R4MID6	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+R4MI00	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+R4M7H0	72	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+R4M2X5	237	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+R4M6G5	65	N6-lipoyllysine	Lipoyl-binding	domain
+R4M5X6	101	N6-(pyridoxal	phosphate)lysine	PALP	domain
+R4MM39	253	N5-methylglutamine	RF_PROK_I	domain
+R4MFR8	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+R4MBP2	617	N6-acetyllysine	AMP-binding_C	domain
+R4M224	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+R4M224	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+R4MF89	47	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+R4M2T1	65	N6-lipoyllysine	Lipoyl-binding	domain
+R4LZ46	255	N5-methylglutamine	RF_PROK_I	domain
+R4M8N9	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+R4MBY6	66	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+R4M5L4	232	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A109T0V1	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A120J1A3	224	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A120J1A3	224	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+B2HKH4	701	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+B2HEW6	58	N6-(pyridoxal	phosphate)lysine	PALP	domain
+B2HSX7	696	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+B2HSX2	65	N6-lipoyllysine	Lipoyl-binding	domain
+B2HF89	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+B2HQX8	109	N6-(pyridoxal	phosphate)lysine	PALP	domain
+B2HKH2	72	N6-lipoyllysine	Lipoyl-binding	domain
+B2HR80	97	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+B2HHR5	41	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+B2HKB9	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+B2HGR1	50	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+B2HQL7	69	N6-(pyridoxal	phosphate)lysine	PALP	domain
+B2HN12	145	N6-carboxylysine	Divalent metal cation 1%3B via carbamate group	metal-binding
+B2HN12	145	N6-carboxylysine	Divalent metal cation 2%3B via carbamate group	metal-binding
+B2HQ89	286	N6-(pyridoxal	phosphate)lysine	binding-site
+B2HK64	616	N6-acetyllysine	AMP-binding_C	domain
+P9WIR7	Glycosylation	49	O-linked	(Man...)
+P9WIR7	Glycosylation	57	O-linked	(Man...)
+P9WIR7	Glycosylation	66	O-linked	(Man)
+P9WIR7	Glycosylation	316	O-linked	(Man...)
+P9WJ03	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Tyr-Cys)
+O30620	Glycosylation	49	O-linked	(Man...)
+O30620	Glycosylation	57	O-linked	(Man...)
+O30620	Glycosylation	66	O-linked	(Man)
+O30620	Glycosylation	316	O-linked	(Man...)
+P9WIR6	Glycosylation	49	O-linked	(Man...)
+P9WIR6	Glycosylation	57	O-linked	(Man...)
+P9WIR6	Glycosylation	66	O-linked	(Man)
+P9WIR6	Glycosylation	316	O-linked	(Man...)
+P80069	Glycosylation	49	O-linked	(Man...)
+P80069	Glycosylation	57	O-linked	(Man...)
+P80069	Glycosylation	66	O-linked	(Man)
+P80069	Glycosylation	316	O-linked	(Man...)
+P13500	Glycosylation	37	N-linked	(GlcNAc...)
+P29017	Glycosylation	38	N-linked	(GlcNAc...)
+P29017	Glycosylation	70	N-linked	(GlcNAc...)
+P29017	Glycosylation	75	N-linked	(GlcNAc...)
+P29017	Glycosylation	146	N-linked	(GlcNAc...)
+P10810	Glycosylation	33	N-linked	(GlcNAc...)
+P10810	Glycosylation	147	N-linked	(GlcNAc...)
+P10810	Glycosylation	180	N-linked	(GlcNAc...)
+P10810	Glycosylation	276	N-linked	(GlcNAc...)
+P10810	Glycosylation	317	N-linked	(GlcNAc...)
+Q9NNX6	Glycosylation	80	N-linked	(GlcNAc...)
+Q08857	Glycosylation	79	N-linked	(GlcNAc...)
+Q08857	Glycosylation	134	N-linked	(GlcNAc...)
+Q08857	Glycosylation	205	N-linked	(GlcNAc...)
+Q08857	Glycosylation	220	N-linked	(GlcNAc...)
+Q08857	Glycosylation	235	N-linked	(GlcNAc...)
+Q08857	Glycosylation	247	N-linked	(GlcNAc...)
+Q08857	Glycosylation	321	N-linked	(GlcNAc...)
+Q08857	Glycosylation	417	N-linked	(GlcNAc...)
+P40240	Glycosylation	50	N-linked	(GlcNAc...)
+P41731	Glycosylation	116	N-linked	(GlcNAc...)
+P41731	Glycosylation	130	N-linked	(GlcNAc...)
+P41731	Glycosylation	150	N-linked	(GlcNAc...)
+P41731	Glycosylation	172	N-linked	(GlcNAc...)
+P63853	Cross-link	268	1'-histidyl-3'-tyrosine	(His-Tyr)
+P9WP70	Cross-link	268	1'-histidyl-3'-tyrosine	(His-Tyr)
+P9WP71	Cross-link	268	1'-histidyl-3'-tyrosine	(His-Tyr)
+P04839	Glycosylation	132	N-linked	(GlcNAc...)
+P04839	Glycosylation	149	N-linked	(GlcNAc...)
+P04839	Glycosylation	240	N-linked	(GlcNAc...)
+Q8VIM0	Glycosylation	74	N-linked	(GlcNAc...)
+Q8VIM0	Glycosylation	100	N-linked	(GlcNAc...)
+Q8VIM0	Glycosylation	146	O-linked	(GalNAc...)
+Q8VIM0	Glycosylation	172	N-linked	(GlcNAc...)
+Q8TDQ0	Glycosylation	145	O-linked	(GalNAc...)
+Q8TDQ0	Glycosylation	172	N-linked	(GlcNAc...)
+P0C0K5	Glycosylation	74	N-linked	(GlcNAc...)
+P0C0K5	Glycosylation	100	N-linked	(GlcNAc...)
+P0C0K5	Glycosylation	147	O-linked	(GalNAc...)
+P0C0K5	Glycosylation	173	N-linked	(GlcNAc...)
+P42701	Glycosylation	121	N-linked	(GlcNAc...)
+P42701	Glycosylation	329	N-linked	(GlcNAc...)
+P42701	Glycosylation	346	N-linked	(GlcNAc...)
+P42701	Glycosylation	352	N-linked	(GlcNAc...)
+P42701	Glycosylation	442	N-linked	(GlcNAc...)
+P42701	Glycosylation	456	N-linked	(GlcNAc...)
+P29460	Glycosylation	135	N-linked	(GlcNAc...)
+P29460	Glycosylation	222	N-linked	(GlcNAc...)
+P29460	Glycosylation	319	CAR_000187
+P38484	Glycosylation	56	N-linked	(GlcNAc...)
+P38484	Glycosylation	85	N-linked	(GlcNAc...)
+P38484	Glycosylation	110	N-linked	(GlcNAc...)
+P38484	Glycosylation	137	N-linked	(GlcNAc...)
+P38484	Glycosylation	219	N-linked	(GlcNAc...)
+P38484	Glycosylation	231	N-linked	(GlcNAc...)
+P15260	Glycosylation	34	N-linked	(GlcNAc...)
+P15260	Glycosylation	79	N-linked	(GlcNAc...)
+P15260	Glycosylation	86	N-linked	(GlcNAc...)
+P15260	Glycosylation	179	N-linked	(GlcNAc...)
+P15260	Glycosylation	240	N-linked	(GlcNAc...)
+P49279	Glycosylation	324	N-linked	(GlcNAc...)
+P49279	Glycosylation	338	N-linked	(GlcNAc...)
+P11678	Glycosylation	52	N-linked	(GlcNAc...)
+P11678	Glycosylation	113	N-linked	(GlcNAc...)
+P11678	Glycosylation	327	N-linked	(GlcNAc...)
+P11678	Glycosylation	363	N-linked	(GlcNAc...)
+P11678	Glycosylation	700	N-linked	(GlcNAc...)
+P11678	Glycosylation	708	N-linked	(GlcNAc...)
+A1KF53	Cross-link	162	3-(O4'-tyrosyl)-valine	(Val-Tyr)
+Q7U2I1	Cross-link	162	3-(O4'-tyrosyl)-valine	(Val-Tyr)
+P9WH69	Cross-link	162	3-(O4'-tyrosyl)-valine	(Val-Tyr)
+A5TYV8	Cross-link	162	3-(O4'-tyrosyl)-valine	(Val-Tyr)
+P9WH68	Cross-link	162	3-(O4'-tyrosyl)-valine	(Val-Tyr)
+P9WJ02	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Tyr-Cys)
+Q7TYP6	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Tyr-Cys)
+O60603	Glycosylation	114	N-linked	(GlcNAc...)
+O60603	Glycosylation	199	N-linked	(GlcNAc...)
+O60603	Glycosylation	414	N-linked	(GlcNAc...)
+O60603	Glycosylation	442	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	38	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	59	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	88	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	140	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	166	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	251	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	296	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	333	N-linked	(GlcNAc...)
+Q9EPQ1	Glycosylation	432	N-linked	(GlcNAc...)
+Q9QUN7	Glycosylation	147	N-linked	(GlcNAc...)
+Q9QUN7	Glycosylation	414	N-linked	(GlcNAc...)
+Q9QUN7	Glycosylation	442	N-linked	(GlcNAc...)
+P9WN22	Cross-link	36	Isodityrosine	(Tyr-Tyr)
+P0A596	Cross-link	36	Isodityrosine	(Tyr-Tyr)
+P02766	Glycosylation	118	N-linked	(GlcNAc...)
+A0A0T9LDN4	Cross-link	143	5-imidazolinone	(Ala-Gly)

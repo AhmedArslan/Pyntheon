@@ -1,0 +1,256 @@
+P01362	Modified	241	Lysine	amide
+P15513	Modified	60	Leucine	amide
+P15513	Modified	69	Leucine	amide
+P15513	Modified	199	Leucine	amide
+P15513	Modified	209	Leucine	amide
+P15513	Modified	246	Leucine	amide
+P15513	Modified	256	Leucine	amide
+P15513	Modified	266	Leucine	amide
+P15513	Modified	276	Leucine	amide
+P15513	Modified	286	Leucine	amide
+P15513	Modified	296	Leucine	amide
+P15513	Modified	306	Leucine	amide
+P15513	Modified	316	Leucine	amide
+P15513	Modified	326	Leucine	amide
+P15513	Modified	336	Leucine	amide
+P15513	Modified	346	Leucine	amide
+P15513	Modified	364	Leucine	amide
+P20481	Modified	74	Valine	amide
+P20481	Modified	88	Leucine	amide
+P20481	Modified	102	Leucine	amide
+P20481	Modified	116	Isoleucine	amide
+P20481	Modified	129	Leucine	amide
+P20481	Modified	143	Leucine	amide
+P20481	Modified	157	Leucine	amide
+P20481	Modified	171	Leucine	amide
+P20481	Modified	185	Leucine	amide
+P20481	Modified	199	Leucine	amide
+P20481	Modified	213	Leucine	amide
+P20481	Modified	227	Leucine	amide
+P20481	Modified	241	Leucine	amide
+P20481	Modified	254	Leucine	amide
+P20481	Modified	267	Leucine	amide
+P20481	Modified	281	Leucine	amide
+P20481	Modified	294	Leucine	amide
+P20481	Modified	307	Leucine	amide
+P20481	Modified	321	Leucine	amide
+P20481	Modified	335	Leucine	amide
+P20481	Modified	363	Leucine	amide
+P20481	Modified	377	Leucine	amide
+P20481	Modified	391	Leucine	amide
+P20481	Modified	405	Leucine	amide
+P20481	Modified	419	Leucine	amide
+P20481	Modified	433	Leucine	amide
+P20481	Modified	447	Isoleucine	amide
+P20481	Modified	461	Isoleucine	amide
+P20481	Modified	475	Leucine	amide
+P08021	Modified	72	Phenylalanine	amide
+P08021	Modified	156	Phenylalanine	amide
+P08021	Modified	163	Phenylalanine	amide
+P08021	Modified	201	Phenylalanine	amide
+P08021	Modified	208	Phenylalanine	amide
+P08021	Modified	223	Phenylalanine	amide
+P08021	Modified	239	Phenylalanine	amide
+P08021	Modified	246	Phenylalanine	amide
+P08021	Modified	262	Phenylalanine	amide
+P08021	Modified	277	Phenylalanine	amide
+P08021	Modified	292	Phenylalanine	amide
+P08021	Modified	307	Phenylalanine	amide
+P08021	Modified	322	Phenylalanine	amide
+P08021	Modified	337	Phenylalanine	amide
+P08021	Modified	352	Phenylalanine	amide
+P08021	Modified	367	Phenylalanine	amide
+P08021	Modified	382	Phenylalanine	amide
+P08021	Modified	397	Phenylalanine	amide
+P08021	Modified	413	Phenylalanine	amide
+P08021	Modified	429	Phenylalanine	amide
+P08021	Modified	445	Phenylalanine	amide
+P08021	Modified	461	Phenylalanine	amide
+P08021	Modified	477	Phenylalanine	amide
+P08021	Modified	493	Phenylalanine	amide
+P08021	Modified	509	Phenylalanine	amide
+P08021	Modified	525	Phenylalanine	amide
+P08021	Modified	541	Phenylalanine	amide
+P08021	Modified	557	Phenylalanine	amide
+P08021	Modified	564	Phenylalanine	amide
+Q86MA7	Modified	86	Valine	amide
+Q86MA7	Modified	156	Valine	amide
+Q86MA7	Modified	182	Valine	amide
+Q86MA7	Modified	190	Valine	amide
+Q86MA7	Modified	198	Valine	amide
+Q86MA7	Modified	206	Valine	amide
+Q86MA7	Modified	214	Valine	amide
+Q86MA7	Modified	222	Valine	amide
+Q86MA7	Modified	230	Valine	amide
+Q86MA7	Modified	238	Valine	amide
+Q86MA7	Modified	246	Valine	amide
+Q86MA7	Modified	266	Valine	amide
+Q86MA7	Modified	307	Valine	amide
+Q86MA7	Modified	326	Valine	amide
+Q86MA7	Modified	345	Valine	amide
+Q86MA7	Modified	364	Valine	amide
+Q86MA7	Modified	383	Valine	amide
+Q86MA7	Modified	402	Valine	amide
+Q86MA7	Modified	421	Valine	amide
+Q86MA7	Modified	440	Valine	amide
+Q86MA7	Modified	458	Valine	amide
+Q86MA7	Modified	477	Valine	amide
+Q86MA7	Modified	496	Valine	amide
+Q86MA7	Modified	514	Valine	amide
+Q86MA7	Modified	533	Valine	amide
+Q86MA7	Modified	552	Valine	amide
+Q86MA7	Modified	571	Valine	amide
+Q86MA7	Modified	590	Valine	amide
+Q86MA7	Modified	609	Valine	amide
+Q86MA7	Modified	628	Valine	amide
+Q86MA7	Modified	647	Valine	amide
+Q86MA7	Modified	666	Valine	amide
+Q86MA7	Modified	684	Valine	amide
+Q86MA7	Modified	702	Valine	amide
+Q86MA7	Modified	721	Valine	amide
+Q86MA7	Modified	764	Valine	amide
+Q86MA7	Modified	819	Valine	amide
+P01360	Modified	69	Isoleucine	amide
+P01360	Modified	152	Leucine	amide
+Q95P23	Modified	57	Valine	amide
+Q95P23	Modified	146	Valine	amide
+Q95P23	Modified	190	Leucine	amide
+Q95P23	Modified	211	Valine	amide
+Q95P23	Modified	244	Valine	amide
+Q95P23	Modified	276	Valine	amide
+Q95P23	Modified	297	Valine	amide
+Q95P23	Modified	336	Valine	amide
+Q95P23	Modified	348	Valine	amide
+Q95P23	Modified	360	Valine	amide
+Q95P23	Modified	372	Valine	amide
+Q95P23	Modified	384	Valine	amide
+Q95P23	Modified	396	Valine	amide
+Q95P23	Modified	408	Valine	amide
+Q95P23	Modified	420	Valine	amide
+Q95P23	Modified	432	Valine	amide
+Q95P23	Modified	444	Valine	amide
+Q95P23	Modified	456	Valine	amide
+Q95P23	Modified	468	Valine	amide
+Q95P23	Modified	480	Valine	amide
+Q95P23	Modified	492	Valine	amide
+Q95P23	Modified	504	Valine	amide
+Q95P23	Modified	516	Valine	amide
+Q95P23	Modified	528	Valine	amide
+Q95P23	Modified	540	Valine	amide
+Q95P23	Modified	606	Valine	amide
+Q95P23	Modified	637	Leucine	amide
+Q95P23	Modified	649	Valine	amide
+Q95P23	Modified	661	Valine	amide
+Q95P23	Modified	673	Valine	amide
+Q95P23	Modified	685	Valine	amide
+Q95P23	Modified	697	Valine	amide
+Q95P23	Modified	709	Valine	amide
+Q95P23	Modified	721	Valine	amide
+Q9NDE8	Modified	142	Phenylalanine	amide
+Q9NDE8	Modified	153	Phenylalanine	amide
+Q9NDE8	Modified	164	Phenylalanine	amide
+Q9NDE8	Modified	190	Phenylalanine	amide
+Q9NDE8	Modified	209	Phenylalanine	amide
+Q9NDE8	Modified	229	Phenylalanine	amide
+Q9NDE8	Modified	255	Phenylalanine	amide
+Q9NDE8	Modified	274	Phenylalanine	amide
+Q9NDE8	Modified	294	Phenylalanine	amide
+Q9NDE8	Modified	317	Phenylalanine	amide
+Q9NDE8	Modified	338	Phenylalanine	amide
+Q9NDE8	Modified	359	Phenylalanine	amide
+Q9NDE8	Modified	383	Phenylalanine	amide
+Q9NDE8	Modified	407	Phenylalanine	amide
+Q9NDE8	Modified	433	Phenylalanine	amide
+Q9NDE8	Modified	467	Phenylalanine	amide
+Q9NDE8	Modified	499	Phenylalanine	amide
+Q9NDE8	Modified	515	Isoleucine	amide
+Q9NDE8	Modified	552	Methionine	amide
+Q9NDE8	Modified	592	Valine	amide
+Q9NDE8	Modified	601	Leucine	amide
+Q9NDE8	Modified	610	Isoleucine	amide
+Q9NDE8	Modified	619	Valine	amide
+Q9NDE8	Modified	628	Isoleucine	amide
+Q9NDE8	Modified	669	Isoleucine	amide
+Q9NDE8	Modified	714	Valine	amide
+Q10998	Modified	49	Tryptophan	amide
+Q10998	Modified	83	Tryptophan	amide
+Q10998	Modified	105	Tryptophan	amide
+Q10998	Modified	128	Tryptophan	amide
+Q10998	Modified	135	Tryptophan	amide
+Q10998	Modified	142	Tryptophan	amide
+Q10998	Modified	149	Tryptophan	amide
+Q10998	Modified	156	Tryptophan	amide
+Q10998	Modified	163	Tryptophan	amide
+P02210	Modified	2	N-acetylserine
+P17686	Modified	222	Lysine	amide
+Q9NDE7	Modified	152	4-carboxyglutamate
+Q8T0Y7	Modified	140	Histidine	amide
+Q8T697	Modified	2	N-acetylserine
+P17685	Modified	233	Lysine	amide
+P09892	Modified	33	Methionine	amide
+P09892	Modified	46	Methionine	amide
+P07712	Modified	33	Phenylalanine	amide
+P11924	Modified	36	Leucine	amide
+P11925	Modified	36	Leucine	amide
+Q2VF17	Modified	51	Leucine	amide
+Q2VF17	Modified	60	Leucine	amide
+Q2VF17	Modified	81	Alanine	amide
+Q2VF17	Modified	121	Tyrosine	amide
+Q2VF17	Modified	207	Isoleucine	amide
+Q2VF17	Modified	226	Isoleucine	amide
+P31319	Modified	2	N-acetylalanine
+P31319	Modified	98	Phosphoserine
+P02211	Modified	2	N-acetylserine
+Q8T6A5	Modified	40	N6-acetyllysine
+P17304	Modified	3	N-acetylaspartate
+Q8T112	Modified	83	Isoleucine	amide
+Q27441	Modified	61	Phenylalanine	amide
+Q7M427	Modified	36	Lysine	amide
+Q8MTV8	Modified	2	N-acetylserine
+Q8MTV8	Modified	17	N6-acetyllysine
+Q8MTV8	Modified	21	N6-methyllysine
+P14393	Modified	1	N-acetylalanine
+P01361	Modified	69	Isoleucine	amide
+P29233	Modified	54	Phenylalanine	amide
+P21901	Modified	198	Phosphothreonine
+P21901	Modified	339	Phosphoserine
+P62145	Modified	2	N-acetylalanine
+P62145	Modified	116	N6%2CN6%2CN6-trimethyllysine
+P50985	Modified	59	Sulfotyrosine
+P50985	Modified	60	Cysteine	amide
+P50984	Modified	15	Sulfotyrosine
+P50984	Modified	16	Cysteine	amide
+P33442	Modified	2	N-acetylalanine%3B	partial
+P33442	Modified	245	Phosphothreonine
+P33442	Modified	254	Phosphothreonine
+Q86BW8	Modified	324	N6-(pyridoxal	phosphate)lysine
+O96910	Glycosylation	26	N-linked	(GlcNAc...)
+P15287	Glycosylation	81	N-linked	(GlcNAc...)
+P15287	Glycosylation	132	N-linked	(GlcNAc...)
+P15287	Glycosylation	188	N-linked	(GlcNAc...)
+P15287	Glycosylation	334	N-linked	(GlcNAc...)
+Q16951	Glycosylation	11	N-linked	(GlcNAc...)
+Q7M459	Glycosylation	8	N-linked	(GlcNAc...)
+Q17043	Glycosylation	150	N-linked	(GlcNAc...)
+Q17043	Glycosylation	177	N-linked	(GlcNAc...)
+Q17043	Glycosylation	374	N-linked	(GlcNAc...)
+Q17043	Glycosylation	399	N-linked	(GlcNAc...)
+Q17043	Glycosylation	414	N-linked	(GlcNAc...)
+Q17043	Glycosylation	430	N-linked	(GlcNAc...)
+Q7M460	Glycosylation	25	N-linked	(GlcNAc...)
+Q8WSF8	Glycosylation	91	CAR_5005390077
+P28907	Glycosylation	100	N-linked	(GlcNAc...)
+P28907	Glycosylation	164	N-linked	(GlcNAc...)
+P28907	Glycosylation	209	N-linked	(GlcNAc...)
+P28907	Glycosylation	219	N-linked	(GlcNAc...)
+Q64277	Glycosylation	59	N-linked	(GlcNAc...)
+Q64277	Glycosylation	88	N-linked	(GlcNAc...)
+Q64277	Glycosylation	141	N-linked	(GlcNAc...)
+Q64277	Glycosylation	185	N-linked	(GlcNAc...)
+P21901	198	Phosphothreonine	Protein	domain
+P21901	339	Phosphoserine	AGC-kinase	domain
+P62145	116	N6%2CN6%2CN6-trimethyllysine	EF-hand	domain
+Q8WSF8	91	CAR_5005390077	Neur_chan_LBD	domain
+P28907	100	N-linked	(GlcNAc...)	PDB:3F6Y	Helix-region
+P28907	209	N-linked	(GlcNAc...)	PDB:3F6Y	Helix-region
+P28907	219	N-linked	(GlcNAc...)	PDB:2EF1	Helix-region

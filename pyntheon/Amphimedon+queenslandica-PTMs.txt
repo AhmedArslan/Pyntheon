@@ -1,0 +1,44 @@
+I1FXB0	Modified	276	N6-(pyridoxal	phosphate)lysine
+I1GBC6	Modified	284	N6-(pyridoxal	phosphate)lysine
+I1FCT4	Modified	306	N6-(pyridoxal	phosphate)lysine
+I1FJH7	Modified	293	N6-(pyridoxal	phosphate)lysine
+I1FJI8	Modified	227	N6-(pyridoxal	phosphate)lysine
+I1EI85	Modified	198	N6-(pyridoxal	phosphate)lysine
+I1FP55	Modified	102	1-thioglycine
+I1EH13	Modified	102	1-thioglycine
+I1EUZ8	Modified	102	1-thioglycine
+I1FJI9	Modified	227	N6-(pyridoxal	phosphate)lysine
+I1EBI2	Modified	150	N6-(pyridoxal	phosphate)lysine
+I1GC42	Modified	67	N6-(pyridoxal	phosphate)lysine
+I1FQ00	Modified	365	N6-(pyridoxal	phosphate)lysine
+I1EKH2	Modified	70	3-oxoalanine	(Cys)
+I1GC46	Modified	78	N6-(pyridoxal	phosphate)lysine
+I1G5R4	Modified	68	3-oxoalanine	(Cys)
+I1G752	Modified	70	3-oxoalanine	(Cys)
+I1G071	Modified	680	N6-(pyridoxal	phosphate)lysine
+I1GJA8	Modified	48	N6-(pyridoxal	phosphate)lysine
+I1G753	Modified	74	3-oxoalanine	(Cys)
+I1ELJ9	Modified	24	O-UMP-tyrosine
+I1FZI7	Modified	275	N6-(pyridoxal	phosphate)lysine
+I1F2T8	Modified	304	N6-(pyridoxal	phosphate)lysine
+I1FF11	Modified	345	N6-(pyridoxal	phosphate)lysine
+I1FQB6	Glycosylation	37	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	98	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	108	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	141	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	223	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	281	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	322	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	383	N-linked	(GlcNAc...)
+I1FQB6	Glycosylation	417	N-linked	(GlcNAc...)
+I1GHQ2	Cross-link	155	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+I1FXB0	276	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+I1EBI2	150	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+I1GC42	67	N6-(pyridoxal	phosphate)lysine	PALP	domain
+I1EKH2	70	3-oxoalanine	(Cys)	Sulfatase	domain
+I1GC46	78	N6-(pyridoxal	phosphate)lysine	PALP	domain
+I1G5R4	68	3-oxoalanine	(Cys)	Sulfatase	domain
+I1G752	70	3-oxoalanine	(Cys)	Sulfatase	domain
+I1GJA8	48	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+I1G753	74	3-oxoalanine	(Cys)	Sulfatase	domain
+I1FZI7	275	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain

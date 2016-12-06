@@ -1,0 +1,7 @@
+P47634	Modified	220	N6-(pyridoxal	phosphate)lysine
+P47698	Modified	220	Phosphotyrosine
+P47514	Modified	43	N6-lipoyllysine
+Q49420	Modified	225	N6-(pyridoxal	phosphate)lysine
+P47529	Modified	39	O-(pantetheine	4'-phosphoryl)serine
+P47500	Modified	236	N5-methylglutamine
+P47514	43	N6-lipoyllysine	Lipoyl-binding	domain

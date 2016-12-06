@@ -1,0 +1,164 @@
+Q5E6F2	Modified	196	N6-(pyridoxal	phosphate)lysine
+B5FCJ8	Modified	196	N6-(pyridoxal	phosphate)lysine
+Q5E784	Modified	221	N6-(pyridoxal	phosphate)lysine
+B5FAW0	Modified	221	N6-(pyridoxal	phosphate)lysine
+Q5E728	Modified	217	N6-carboxylysine
+Q5DZH8	Modified	275	N6-(pyridoxal	phosphate)lysine
+B5FBC6	Modified	217	N6-carboxylysine
+B5EUQ1	Modified	275	N6-(pyridoxal	phosphate)lysine
+Q5E268	Modified	609	N6-acetyllysine
+B5FC61	Modified	609	N6-acetyllysine
+Q5E706	Modified	229	N6-(pyridoxal	phosphate)lysine
+B5FBF0	Modified	229	N6-(pyridoxal	phosphate)lysine
+B5EUP9	Modified	238	N6-(pyridoxal	phosphate)lysine
+Q5DZH9	Modified	238	N6-(pyridoxal	phosphate)lysine
+Q5E3S1	Modified	55	4-aspartylphosphate
+Q5E2B3	Modified	34	N6-(3%2C6-diaminohexanoyl)-5-hydroxylysine
+B5EUH1	Modified	705	N6-(pyridoxal	phosphate)lysine
+B5FA75	Modified	102	Phosphoserine
+B5EUH0	Modified	62	N6-lipoyllysine
+Q5DZM3	Modified	705	N6-(pyridoxal	phosphate)lysine
+Q5E7M0	Modified	102	Phosphoserine
+Q5DZM4	Modified	62	N6-lipoyllysine
+Q5E2Y6	Modified	100	Glycine	radical
+B5FAL8	Modified	265	N6-(pyridoxal	phosphate)lysine
+B5FAJ9	Modified	100	Glycine	radical
+Q5E2W6	Modified	265	N6-(pyridoxal	phosphate)lysine
+Q5DZ63	Modified	408	Cysteine	persulfide
+B5EV28	Modified	408	Cysteine	persulfide
+B5FDA0	Modified	209	N6-(pyridoxal	phosphate)lysine
+Q5E8T5	Modified	243	S-(dipyrrolylmethanemethyl)cysteine
+B5FF97	Modified	243	S-(dipyrrolylmethanemethyl)cysteine
+Q5E637	Modified	209	N6-(pyridoxal	phosphate)lysine
+Q5E0C6	Modified	144	2%2C3-didehydroalanine	(Ser)
+B5ETN1	Modified	144	2%2C3-didehydroalanine	(Ser)
+B5ETI9	Modified	98	N6-carboxylysine
+Q5E0G4	Modified	98	N6-carboxylysine
+Q5E6T3	Modified	237	N5-methylglutamine
+Q5E7P9	Modified	252	N5-methylglutamine
+B5FBX0	Modified	237	N5-methylglutamine
+B5FG09	Modified	150	N5-methylglutamine
+B5FG04	Modified	89	3-methylthioaspartic	acid
+Q5E8C1	Modified	89	3-methylthioaspartic	acid
+B5FDB7	Modified	86	N6-(pyridoxal	phosphate)lysine
+Q5E623	Modified	86	N6-(pyridoxal	phosphate)lysine
+Q5E6W6	Modified	71	N6-(pyridoxal	phosphate)lysine
+Q5E1W6	Modified	61	N6-(pyridoxal	phosphate)lysine
+Q5E2X9	Modified	579	4-aspartylphosphate
+Q5E2X9	Modified	728	Phosphohistidine
+Q5E8L0	Modified	215	N6-(pyridoxal	phosphate)lysine
+Q5E849	Modified	37	N6-(pyridoxal	phosphate)lysine
+Q5E412	Modified	37	O-(pantetheine	4'-phosphoryl)serine
+Q5E4P2	Modified	155	N6-carboxylysine
+Q5DZ86	Modified	101	N6-(pyridoxal	phosphate)lysine
+Q5E6K4	Modified	42	O-(pantetheine	4'-phosphoryl)serine
+Q5E8Q3	Modified	398	O-AMP-tyrosine
+Q5E7S1	Modified	36	N6-(pyridoxal	phosphate)lysine
+Q5E812	Modified	196	N6-(pyridoxal	phosphate)lysine
+Q5E6F9	Modified	338	N6-(pyridoxal	phosphate)lysine
+Q5E4G1	Modified	733	Glycine	radical
+Q5E2G7	Modified	254	N6-(pyridoxal	phosphate)lysine
+Q5E184	Modified	740	Glycine	radical
+Q5E5L5	Modified	207	N6-(pyridoxal	phosphate)lysine
+Q5E2B2	Modified	332	N6-(pyridoxal	phosphate)lysine
+Q5E344	Modified	367	N6-(pyridoxal	phosphate)lysine
+Q5E3F9	Modified	51	O-UMP-tyrosine
+Q5DZB6	Modified	664	N6-(pyridoxal	phosphate)lysine
+Q5E2I4	Modified	199	N6-(pyridoxal	phosphate)lysine
+Q5E5Y7	Modified	274	N6-(pyridoxal	phosphate)lysine
+Q5E2U8	Modified	51	O-UMP-tyrosine
+Q5E0F8	Modified	244	N6-(pyridoxal	phosphate)lysine
+B5FGL6	Modified	196	N6-(pyridoxal	phosphate)lysine
+B5FDI4	Modified	34	N6-(pyridoxal	phosphate)lysine
+B5FFC9	Modified	398	O-AMP-tyrosine
+B5FC50	Modified	42	O-(pantetheine	4'-phosphoryl)serine
+B5FGI0	Modified	34	N6-(pyridoxal	phosphate)lysine
+B5FCR1	Modified	61	N6-(pyridoxal	phosphate)lysine
+B5FEQ6	Modified	155	N6-carboxylysine
+B5FAK6	Modified	579	4-aspartylphosphate
+B5FAK6	Modified	728	Phosphohistidine
+B5FG38	Modified	37	O-(pantetheine	4'-phosphoryl)serine
+B5EV01	Modified	101	N6-(pyridoxal	phosphate)lysine
+B5FBI9	Modified	71	N6-(pyridoxal	phosphate)lysine
+B5FA42	Modified	367	N6-(pyridoxal	phosphate)lysine
+B5FGD3	Modified	55	4-aspartylphosphate
+B5F9S3	Modified	36	N6-(pyridoxal	phosphate)lysine
+B5FFV6	Modified	188	N6-(pyridoxal	phosphate)lysine
+B5ETJ7	Modified	244	N6-(pyridoxal	phosphate)lysine
+B5FDE3	Modified	274	N6-(pyridoxal	phosphate)lysine
+B5EUW7	Modified	664	N6-(pyridoxal	phosphate)lysine
+B5FAN6	Modified	51	O-UMP-tyrosine
+B5FF19	Modified	733	Glycine	radical
+B5FBT0	Modified	332	N6-(pyridoxal	phosphate)lysine
+B5FDS0	Modified	207	N6-(pyridoxal	phosphate)lysine
+B5F9V7	Modified	51	O-UMP-tyrosine
+B5FBA0	Modified	199	N6-(pyridoxal	phosphate)lysine
+B5FBM4	Modified	254	N6-(pyridoxal	phosphate)lysine
+B5FCJ1	Modified	338	N6-(pyridoxal	phosphate)lysine
+B5ESR6	Modified	740	Glycine	radical
+B5EVD3	Modified	365	N6-(pyridoxal	phosphate)lysine
+Q5E0C6	Cross-link	145	5-imidazolinone	(Ala-Gly)
+B5ETN1	Cross-link	145	5-imidazolinone	(Ala-Gly)
+Q5E784	221	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+B5FAW0	221	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+Q5E728	217	N6-carboxylysine	Urease	domain
+Q5E728	217	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+Q5E728	217	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+Q5DZH8	275	N6-(pyridoxal	phosphate)lysine	Substrate	binding-site
+B5FBC6	217	N6-carboxylysine	Urease	domain
+B5FBC6	217	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+B5FBC6	217	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+B5EUQ1	275	N6-(pyridoxal	phosphate)lysine	Substrate	binding-site
+Q5E268	609	N6-acetyllysine	AMP-binding_C	domain
+B5FC61	609	N6-acetyllysine	AMP-binding_C	domain
+Q5E3S1	55	4-aspartylphosphate	Response	domain
+B5FA75	102	Phosphoserine	Phosphoserine intermediate	active-site
+B5FA75	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+B5EUH0	62	N6-lipoyllysine	Lipoyl-binding	domain
+Q5E7M0	102	Phosphoserine	Phosphoserine intermediate	active-site
+Q5E7M0	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+Q5DZM4	62	N6-lipoyllysine	Lipoyl-binding	domain
+Q5E2Y6	100	Glycine	radical	Glycine	domain
+B5FAJ9	100	Glycine	radical	Glycine	domain
+Q5DZ63	408	Cysteine	persulfide	Iron-oxo-sulfur (4Fe-2O-2S)%3B via persulfide group	metal-binding
+B5EV28	408	Cysteine	persulfide	Iron-oxo-sulfur (4Fe-2O-2S)%3B via persulfide group	metal-binding
+B5ETI9	98	N6-carboxylysine	Zinc 1%3B via carbamate group	metal-binding
+B5ETI9	98	N6-carboxylysine	Zinc 2%3B via carbamate group	metal-binding
+Q5E0G4	98	N6-carboxylysine	Zinc 1%3B via carbamate group	metal-binding
+Q5E0G4	98	N6-carboxylysine	Zinc 2%3B via carbamate group	metal-binding
+Q5E6W6	71	N6-(pyridoxal	phosphate)lysine	Proton acceptor%3B specific for D-alanine	active-site
+Q5E1W6	61	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+Q5E2X9	579	4-aspartylphosphate	Response	domain
+Q5E2X9	728	Phosphohistidine	HPt	domain
+Q5E849	37	N6-(pyridoxal	phosphate)lysine	Proton acceptor%3B specific for D-alanine	active-site
+Q5E412	37	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q5E4P2	155	N6-carboxylysine	Amidohydro-rel	domain
+Q5E4P2	155	N6-carboxylysine	Zinc 1%3B via carbamate group%3B catalytic	metal-binding
+Q5E4P2	155	N6-carboxylysine	Zinc 2%3B via carbamate group%3B catalytic	metal-binding
+Q5DZ86	101	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+Q5E6K4	42	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q5E7S1	36	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+Q5E812	196	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+Q5E4G1	733	Glycine	radical	Glycine	domain
+Q5E184	740	Glycine	radical	Glycine	domain
+Q5E344	367	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+Q5E0F8	244	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+B5FGL6	196	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+B5FC50	42	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+B5FGI0	34	N6-(pyridoxal	phosphate)lysine	Proton acceptor%3B specific for D-alanine	active-site
+B5FCR1	61	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+B5FEQ6	155	N6-carboxylysine	Amidohydro-rel	domain
+B5FEQ6	155	N6-carboxylysine	Zinc 1%3B via carbamate group%3B catalytic	metal-binding
+B5FEQ6	155	N6-carboxylysine	Zinc 2%3B via carbamate group%3B catalytic	metal-binding
+B5FAK6	579	4-aspartylphosphate	Response	domain
+B5FAK6	728	Phosphohistidine	HPt	domain
+B5FG38	37	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+B5EV01	101	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+B5FBI9	71	N6-(pyridoxal	phosphate)lysine	Proton acceptor%3B specific for D-alanine	active-site
+B5FA42	367	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+B5FGD3	55	4-aspartylphosphate	Response	domain
+B5F9S3	36	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+B5ETJ7	244	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+B5FF19	733	Glycine	radical	Glycine	domain
+B5ESR6	740	Glycine	radical	Glycine	domain
+B5EVD3	365	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain

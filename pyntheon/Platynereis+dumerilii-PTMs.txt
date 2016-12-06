@@ -1,0 +1,19 @@
+P19178	Modified	2	N-acetylserine
+P19178	Modified	2	Phosphoserine
+P19178	Modified	104	N5-methylglutamine
+P62795	Modified	2	N-acetylserine
+P62795	Modified	6	N6-acetyllysine
+P62795	Modified	9	N6-acetyllysine
+P62795	Modified	13	N6-acetyllysine
+P62795	Modified	17	N6-acetyllysine
+P62795	Modified	21	N6-methylated	lysine
+P84235	Modified	5	N6-methylated	lysine
+P84235	Modified	10	N6-acetyllysine%3B	alternate
+P84235	Modified	11	Phosphoserine
+P84235	Modified	15	N6-acetyllysine
+P84235	Modified	24	N6-acetyllysine
+P84235	Modified	28	N6-methylated	lysine
+P84235	Modified	37	N6-methylated	lysine
+P84235	Modified	80	N6-methylated	lysine
+Q2WBY5	Modified	301	N6-(pyridoxal	phosphate)lysine
+P19374	Glycosylation	110	O-linked	(GlcNAc)

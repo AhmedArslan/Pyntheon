@@ -1,0 +1,633 @@
+A0A0P5WH74	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5AZV6	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZS19	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5YEV6	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0P4Z487	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5X9T7	Modified	209	N6-(pyridoxal	phosphate)lysine
+A0A0P5VY12	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0P5VBR6	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0N8CSV0	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5B5P4	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6B4Q9	Modified	307	N6-(pyridoxal	phosphate)lysine
+A0A0N8A0S5	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P4Z5W4	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5WT82	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5Z8E0	Modified	288	N6-(pyridoxal	phosphate)lysine
+A0A0P5B9T9	Modified	261	N6-(pyridoxal	phosphate)lysine
+A0A0P5XVF4	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5Y5T9	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5Z5J7	Modified	289	N6-(pyridoxal	phosphate)lysine
+A0A0P5AZM8	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5DX18	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5L7M6	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6EP49	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6F831	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0N8BWF4	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5PQE9	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0N8AWI9	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0P5H0U2	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6F3X1	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6CVS4	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5P4A5	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6DWL3	Modified	189	N6-(pyridoxal	phosphate)lysine
+A0A0P6GTC4	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P5IMS3	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0P5Q7M5	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5Q5J9	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P6HT61	Modified	290	N6-(pyridoxal	phosphate)lysine
+A0A0P6HQA7	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P6F290	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0N8A2G8	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZNM0	Modified	289	N6-(pyridoxal	phosphate)lysine
+A0A0P5V2F0	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5V466	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0N8A3K6	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5B844	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5VEE0	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P6C7S8	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZCN8	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5EH67	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZIH5	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZMT1	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A0P5B7L2	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5KBS5	Modified	263	N6-(pyridoxal	phosphate)lysine
+A0A0P5GVJ2	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P6D4G1	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0N8DXK2	Modified	255	N6-(pyridoxal	phosphate)lysine
+A0A0P5YPG7	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0N8E4L5	Modified	681	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZW32	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5C4Z1	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5S9B0	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5GJ50	Modified	261	N6-(pyridoxal	phosphate)lysine
+A0A0P5H0R8	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0N8EI33	Modified	335	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZHA6	Modified	86	1-thioglycine
+A0A0P5B1G6	Modified	118	1-thioglycine
+A0A0P6BSU3	Modified	153	1-thioglycine
+A0A0P5RHX6	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5E2V5	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6GEX6	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6H141	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0N8DDY2	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5S2L1	Modified	332	N6-(pyridoxal	phosphate)lysine
+A0A0P6BEL3	Modified	416	N6-(pyridoxal	phosphate)lysine
+A0A0P5I130	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5EQW8	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0P5FQQ0	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6IEL5	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5CZ17	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5EEZ7	Modified	329	N6-(pyridoxal	phosphate)lysine
+A0A0P5UCY7	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6BVN2	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5J1P6	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5N279	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6BN85	Modified	355	N6-(pyridoxal	phosphate)lysine
+A0A0P5V8C2	Modified	240	N6-(pyridoxal	phosphate)lysine
+A0A0P5VEM7	Modified	775	N6-(pyridoxal	phosphate)lysine
+A0A0P5VPD0	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0N8BBI9	Modified	658	N6-(pyridoxal	phosphate)lysine
+A0A0P5C4D0	Modified	206	N6-(pyridoxal	phosphate)lysine
+A0A0P5Q5Q8	Modified	231	N6-(pyridoxal	phosphate)lysine
+A0A0P5W4P1	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0N8BUL7	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5RFM3	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5GQL2	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5FRI8	Modified	696	N6-(pyridoxal	phosphate)lysine
+A0A0P5LWL8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0P5K3B0	Modified	263	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZZ64	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P4YIM4	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5DQG7	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5C3W5	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZIZ4	Modified	479	N6-(pyridoxal	phosphate)lysine
+A0A0P6AFK1	Modified	169	N6-(pyridoxal	phosphate)lysine
+A0A0P5E1Z7	Modified	222	N6-(pyridoxal	phosphate)lysine
+A0A0P6B4N4	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A0P5Q098	Modified	696	N6-(pyridoxal	phosphate)lysine
+A0A0P5QFS8	Modified	195	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZPR9	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5UGY9	Modified	279	N6-(pyridoxal	phosphate)lysine
+A0A0P5XP99	Modified	165	N6-(pyridoxal	phosphate)lysine
+A0A0P6I5Y3	Modified	816	N6-(pyridoxal	phosphate)lysine
+A0A0P5MF33	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5N8N7	Modified	72	N6-(pyridoxal	phosphate)lysine
+A0A0P5U6M6	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0P5X895	Modified	279	N6-(pyridoxal	phosphate)lysine
+A0A0P5ILZ8	Modified	125	N6-(pyridoxal	phosphate)lysine
+A0A0P5WQG7	Modified	650	N6-(pyridoxal	phosphate)lysine
+A0A0P6GMS1	Modified	247	N6-(pyridoxal	phosphate)lysine
+A0A0P5CHP7	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P6DPQ4	Modified	337	N6-(pyridoxal	phosphate)lysine
+A0A0P5LW65	Modified	369	N6-(pyridoxal	phosphate)lysine
+A0A0P5LSD5	Modified	209	N6-(pyridoxal	phosphate)lysine
+A0A0P5AIZ9	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P5BX35	Modified	341	N6-(pyridoxal	phosphate)lysine
+A0A0N8ARD5	Modified	512	N6-(pyridoxal	phosphate)lysine
+A0A0P5UCI9	Modified	236	N6-(pyridoxal	phosphate)lysine
+A0A0P5GGK4	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A0P6C7T4	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5Z1L0	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P5C8I9	Modified	238	N6-(pyridoxal	phosphate)lysine
+A0A0P5WU19	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0P5XAD3	Modified	279	N6-(pyridoxal	phosphate)lysine
+A0A0P6DRJ9	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5VRI0	Modified	681	N6-(pyridoxal	phosphate)lysine
+A0A0P5YE29	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0P5PUV3	Modified	204	N6-(pyridoxal	phosphate)lysine
+A0A0P6BM50	Modified	389	N6-(pyridoxal	phosphate)lysine
+A0A0N8D5N0	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5P861	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P6CZA5	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P5F841	Modified	92	N6-(pyridoxal	phosphate)lysine
+A0A0P6AJD1	Modified	220	N6-(pyridoxal	phosphate)lysine
+A0A0P5XV71	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P6E1I1	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5LGP3	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6B8V3	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A0P6HY15	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5PFV8	Modified	312	N6-(pyridoxal	phosphate)lysine
+A0A0P5XH44	Modified	186	N6-(pyridoxal	phosphate)lysine
+A0A0P5RK51	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P6AYU3	Modified	338	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZJG4	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5LM96	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5JP20	Modified	285	N6-(pyridoxal	phosphate)lysine
+A0A0P5HC80	Modified	742	N6-(pyridoxal	phosphate)lysine
+A0A0P5HVB2	Modified	203	N6-(pyridoxal	phosphate)lysine
+A0A0P4Y996	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0P5BGP2	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P4Y9T4	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0N8E5B6	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P5T3L6	Modified	113	N6-(pyridoxal	phosphate)lysine
+A0A0P6IFV4	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5Z2Z2	Modified	275	N6-(pyridoxal	phosphate)lysine
+A0A0P6FAB5	Modified	319	N6-(pyridoxal	phosphate)lysine
+A0A0N8E565	Modified	695	N6-(pyridoxal	phosphate)lysine
+A0A0P5YUA2	Modified	309	N6-(pyridoxal	phosphate)lysine
+A0A0N8BIS6	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P4YNS8	Modified	220	N6-(pyridoxal	phosphate)lysine
+A0A0P5X4Y0	Modified	320	N6-(pyridoxal	phosphate)lysine
+A0A0P5G2R7	Modified	744	N6-(pyridoxal	phosphate)lysine
+A0A0P6G0F1	Modified	736	N6-(pyridoxal	phosphate)lysine
+A0A0P5EP94	Modified	236	N6-(pyridoxal	phosphate)lysine
+A0A0P5VWB2	Modified	373	N6-(pyridoxal	phosphate)lysine
+A0A0P5W070	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A0P5TQE4	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0P5XKT8	Modified	328	N6-(pyridoxal	phosphate)lysine
+A0A0P5MFA1	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5F0G5	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5MNK6	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5MM81	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P6BYZ2	Modified	333	N6-(pyridoxal	phosphate)lysine
+A0A0P6EFT1	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZZG8	Modified	273	N6-(pyridoxal	phosphate)lysine
+A0A0P5SCI7	Modified	687	N6-(pyridoxal	phosphate)lysine
+A0A0P5SGF2	Modified	652	N6-(pyridoxal	phosphate)lysine
+A0A0P6G304	Modified	87	N6-(pyridoxal	phosphate)lysine
+A0A0P5JTU4	Modified	599	N6-(pyridoxal	phosphate)lysine
+A0A0N8AC68	Modified	285	N6-(pyridoxal	phosphate)lysine
+A0A0N8E121	Modified	112	N6-(pyridoxal	phosphate)lysine
+A0A0P5QGV0	Modified	341	N6-(pyridoxal	phosphate)lysine
+A0A0P4XQY7	Modified	160	N6-(pyridoxal	phosphate)lysine
+A0A0P6HUU8	Modified	227	N6-(pyridoxal	phosphate)lysine
+A0A0P5X0L4	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0P5WS56	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5XDW2	Modified	334	N6-(pyridoxal	phosphate)lysine
+A0A0P5DFT7	Modified	206	N6-(pyridoxal	phosphate)lysine
+A0A0N8C2C8	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5UT34	Modified	235	N6-(pyridoxal	phosphate)lysine
+A0A0P5EBI3	Modified	238	N6-(pyridoxal	phosphate)lysine
+A0A0P6E012	Modified	215	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZA89	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P5BRU4	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0P5ELJ4	Modified	287	N6-(pyridoxal	phosphate)lysine
+A0A0P5SDA2	Modified	243	N6-(pyridoxal	phosphate)lysine
+A0A0N8EHD9	Modified	786	N6-(pyridoxal	phosphate)lysine
+A0A0P5JCF1	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0N8EH89	Modified	392	N6-(pyridoxal	phosphate)lysine
+A0A0P6AF17	Modified	294	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZZD7	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A0P5JZS9	Modified	756	N6-(pyridoxal	phosphate)lysine
+A0A0P5EVM9	Modified	211	N6-(pyridoxal	phosphate)lysine
+A0A0P5MX22	Modified	300	N6-(pyridoxal	phosphate)lysine
+A0A0P6I7Q2	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0N8CKB6	Modified	76	N6-(pyridoxal	phosphate)lysine
+A0A0P6IB39	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P4Z880	Modified	231	N6-(pyridoxal	phosphate)lysine
+A0A0N8CIR3	Modified	274	N6-(pyridoxal	phosphate)lysine
+A0A0P6FC38	Modified	234	N6-(pyridoxal	phosphate)lysine
+A0A0P6IG54	Modified	309	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZQ52	Modified	245	N6-(pyridoxal	phosphate)lysine
+A0A0P5EDZ4	Modified	504	N6-(pyridoxal	phosphate)lysine
+A0A0P5RUL1	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5LRA0	Modified	324	N6-(pyridoxal	phosphate)lysine
+A0A0P5KQ27	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P6CPB7	Modified	154	N6-(pyridoxal	phosphate)lysine
+A0A0P6BLI7	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P5DHY3	Modified	230	N6-(pyridoxal	phosphate)lysine
+A0A0P5E8L5	Modified	165	N6-(pyridoxal	phosphate)lysine
+A0A0P6JYZ5	Modified	392	N6-(pyridoxal	phosphate)lysine
+A0A0P5YXQ0	Modified	296	N6-(pyridoxal	phosphate)lysine
+A0A0P5SSB9	Modified	273	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZGA4	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5P5D8	Modified	499	N6-(pyridoxal	phosphate)lysine
+A0A0P6F034	Modified	235	N6-(pyridoxal	phosphate)lysine
+A0A0P5GTH0	Modified	342	N6-(pyridoxal	phosphate)lysine
+A0A0P5SN71	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5KKJ2	Modified	85	N6-(pyridoxal	phosphate)lysine
+A0A0N8DY96	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5HXQ8	Modified	530	N6-(pyridoxal	phosphate)lysine
+A0A0P5FY59	Modified	469	N6-(pyridoxal	phosphate)lysine
+A0A0P5Y9X9	Modified	259	N6-(pyridoxal	phosphate)lysine
+A0A0P5HGC2	Modified	153	N6-(pyridoxal	phosphate)lysine
+A0A0P5TIK2	Modified	652	N6-(pyridoxal	phosphate)lysine
+A0A0P5WDM2	Modified	724	N6-(pyridoxal	phosphate)lysine
+A0A0P5D706	Modified	416	N6-(pyridoxal	phosphate)lysine
+A0A0N8E713	Modified	338	N6-(pyridoxal	phosphate)lysine
+A0A0P5G3Z2	Modified	185	N6-(pyridoxal	phosphate)lysine
+A0A0P5N9C8	Modified	270	N6-(pyridoxal	phosphate)lysine
+A0A0P6EUD0	Modified	220	N6-(pyridoxal	phosphate)lysine
+A0A0P6IIA7	Modified	165	N6-(pyridoxal	phosphate)lysine
+A0A0N8D562	Modified	343	N6-(pyridoxal	phosphate)lysine
+A0A0P5HLD4	Modified	562	N6-(pyridoxal	phosphate)lysine
+A0A0P6AAJ5	Modified	392	N6-(pyridoxal	phosphate)lysine
+A0A0N8C9C2	Modified	583	N6-(pyridoxal	phosphate)lysine
+A0A0P5EGS5	Modified	289	N6-(pyridoxal	phosphate)lysine
+A0A0P5BMS8	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5I330	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P6G5R1	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5JT18	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5LB49	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5BQ21	Modified	152	N6-(pyridoxal	phosphate)lysine
+A0A0P5N5C1	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P5L117	Modified	206	N6-(pyridoxal	phosphate)lysine
+A0A0P5EXT2	Modified	300	N6-(pyridoxal	phosphate)lysine
+A0A0P5TAM2	Modified	251	N6-(pyridoxal	phosphate)lysine
+A0A0P5BL58	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A0P6D640	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P6GS82	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0N8E3G3	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5C123	Modified	248	N6-(pyridoxal	phosphate)lysine
+A0A0P6BUR2	Modified	350	N6-(pyridoxal	phosphate)lysine
+A0A0P5PD71	Modified	264	N6-(pyridoxal	phosphate)lysine
+A0A0P6DEV6	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5IR74	Modified	542	N6-(pyridoxal	phosphate)lysine
+A0A0P6C2K5	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P6E8B4	Modified	76	N6-(pyridoxal	phosphate)lysine
+A0A0P5T2S9	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0N8CVG3	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6IT54	Modified	286	N6-(pyridoxal	phosphate)lysine
+A0A0P5N4V3	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5CVS4	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P6G1V4	Modified	327	N6-(pyridoxal	phosphate)lysine
+A0A0P5RWL2	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0N8D6H9	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZT64	Modified	231	N6-(pyridoxal	phosphate)lysine
+A0A0P5LQF3	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6G7Z6	Modified	174	N6-(pyridoxal	phosphate)lysine
+A0A0P5LZN7	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5M9Q9	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P5GIZ0	Modified	248	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZF07	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P5IXD8	Modified	281	N6-(pyridoxal	phosphate)lysine
+A0A0P5ATX0	Modified	655	N6-(pyridoxal	phosphate)lysine
+A0A0P5EL89	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5CKP8	Modified	324	N6-(pyridoxal	phosphate)lysine
+A0A0P4XUN8	Modified	228	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZWP4	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A0P6AJ02	Modified	340	N6-(pyridoxal	phosphate)lysine
+A0A0P5TVM3	Modified	168	N6-(pyridoxal	phosphate)lysine
+A0A0P4WVV8	Modified	655	N6-(pyridoxal	phosphate)lysine
+A0A0P5Z0H9	Modified	679	N6-(pyridoxal	phosphate)lysine
+A0A0P5ML46	Modified	209	N6-(pyridoxal	phosphate)lysine
+A0A0P5TTF2	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5B0Z6	Modified	736	N6-(pyridoxal	phosphate)lysine
+A0A0P5E8V0	Modified	343	N6-(pyridoxal	phosphate)lysine
+A0A0P5BRC9	Modified	224	N6-(pyridoxal	phosphate)lysine
+A0A0P6FPP2	Modified	140	N6-(pyridoxal	phosphate)lysine
+A0A0N8CEP6	Modified	646	N6-(pyridoxal	phosphate)lysine
+A0A0P5BNB4	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P6D8E1	Modified	268	N6-(pyridoxal	phosphate)lysine
+A0A0P6AG43	Modified	262	N6-(pyridoxal	phosphate)lysine
+A0A0P5G7G8	Modified	287	N6-(pyridoxal	phosphate)lysine
+A0A0P4YU63	Modified	366	N6-(pyridoxal	phosphate)lysine
+A0A0P5YVW6	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P4X1C3	Modified	655	N6-(pyridoxal	phosphate)lysine
+A0A0P6FEL7	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A0P5J5Q3	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5CG98	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5LTE0	Modified	279	N6-(pyridoxal	phosphate)lysine
+A0A0P5JUC6	Modified	503	N6-(pyridoxal	phosphate)lysine
+A0A0P5QKQ3	Modified	422	N6-(pyridoxal	phosphate)lysine
+A0A0N8BRY0	Modified	201	N6-(pyridoxal	phosphate)lysine
+A0A0P5P764	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5CL77	Modified	261	N6-(pyridoxal	phosphate)lysine
+A0A0P5YX00	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A0P5TZI6	Modified	263	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZPW9	Modified	208	N6-(pyridoxal	phosphate)lysine
+A0A0P6FX57	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0N8EJC2	Modified	327	N6-(pyridoxal	phosphate)lysine
+A0A0P5SAU2	Modified	280	N6-(pyridoxal	phosphate)lysine
+A0A0P5C9F6	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P6AJY0	Modified	807	N6-(pyridoxal	phosphate)lysine
+A0A0P6GD32	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZJQ4	Modified	756	N6-(pyridoxal	phosphate)lysine
+A0A0P6HL73	Modified	277	N6-(pyridoxal	phosphate)lysine
+A0A0N8DC82	Modified	235	N6-(pyridoxal	phosphate)lysine
+A0A0P5GC20	Modified	302	N6-(pyridoxal	phosphate)lysine
+A0A0P5D8B9	Modified	531	N6-(pyridoxal	phosphate)lysine
+A0A0P5XVT1	Modified	242	N6-(pyridoxal	phosphate)lysine
+A0A0P5SQT4	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5I1P6	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5HYY7	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZZ20	Modified	152	N6-(pyridoxal	phosphate)lysine
+A0A0P5PAQ0	Modified	341	N6-(pyridoxal	phosphate)lysine
+A0A0N8CMZ1	Modified	344	N6-(pyridoxal	phosphate)lysine
+A0A0P5UAG3	Modified	322	N6-(pyridoxal	phosphate)lysine
+A0A0P5PFR0	Modified	781	N6-(pyridoxal	phosphate)lysine
+A0A0P6FWZ0	Modified	231	N6-(pyridoxal	phosphate)lysine
+A0A0P5MG06	Modified	72	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZHT9	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A0P5RDR4	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5ZXT9	Modified	655	N6-(pyridoxal	phosphate)lysine
+A0A0P5LW71	Modified	369	N6-(pyridoxal	phosphate)lysine
+A0A0P4YTN9	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0N8DCQ1	Modified	681	N6-(pyridoxal	phosphate)lysine
+A0A0P5BBN7	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P5LG55	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5CSR1	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0N7ZL81	Modified	228	N6-(pyridoxal	phosphate)lysine
+A0A0P5WYH8	Modified	291	N6-(pyridoxal	phosphate)lysine
+A0A0P5WFR3	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P5SQM7	Modified	615	N6-(pyridoxal	phosphate)lysine
+A0A0P5M159	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5A7U0	Modified	233	N6-(pyridoxal	phosphate)lysine
+A0A0N8A027	Modified	655	N6-(pyridoxal	phosphate)lysine
+A0A0P6F959	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P6DV54	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5GCA5	Modified	717	N6-(pyridoxal	phosphate)lysine
+A0A0P5XJ93	Modified	246	N6-(pyridoxal	phosphate)lysine
+A0A0P6A106	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5LYC0	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P6FAV5	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5HPM8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0P5L0X3	Modified	218	N6-(pyridoxal	phosphate)lysine
+A0A0P6EFD1	Modified	171	N6-(pyridoxal	phosphate)lysine
+A0A0P6EQ06	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5PNJ0	Modified	570	N6-(pyridoxal	phosphate)lysine
+A0A0P5V3C7	Modified	326	N6-(pyridoxal	phosphate)lysine
+A0A0P6AHA9	Modified	184	N6-(pyridoxal	phosphate)lysine
+A0A0P6DHU0	Modified	567	N6-(pyridoxal	phosphate)lysine
+A0A0P6DUQ3	Modified	225	N6-(pyridoxal	phosphate)lysine
+A0A0P5HFA6	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6FBW3	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0P5HKG1	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5CW21	Modified	235	N6-(pyridoxal	phosphate)lysine
+A0A0P5TBG4	Modified	365	N6-(pyridoxal	phosphate)lysine
+A0A0N8BVW7	Modified	135	N6-(pyridoxal	phosphate)lysine
+A0A0N8B9U6	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P5CYB7	Modified	291	N6-(pyridoxal	phosphate)lysine
+A0A0N8A3D9	Modified	190	N6-(pyridoxal	phosphate)lysine
+A0A0P5UVD8	Modified	569	N6-(pyridoxal	phosphate)lysine
+A0A0P6H5E6	Modified	306	N6-(pyridoxal	phosphate)lysine
+A0A0P5E727	Modified	313	N6-(pyridoxal	phosphate)lysine
+A0A0P5PAM5	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A0P5MWT2	Modified	255	N6-(pyridoxal	phosphate)lysine
+A0A0P6CIC5	Modified	325	N6-(pyridoxal	phosphate)lysine
+A0A0P5HPZ3	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5ABH8	Modified	235	N6-(pyridoxal	phosphate)lysine
+A0A0N8ECQ0	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A0N8CIB4	Modified	296	N6-(pyridoxal	phosphate)lysine
+A0A0P5MQD6	Modified	242	N6-(pyridoxal	phosphate)lysine
+A0A0P5SPV1	Modified	339	N6-(pyridoxal	phosphate)lysine
+A0A0P5G954	Modified	278	N6-(pyridoxal	phosphate)lysine
+A0A0P6CTB9	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P6A5Q2	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P5L8P0	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5Q8N1	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5HE88	Modified	226	N6-(pyridoxal	phosphate)lysine
+A0A0N8CMR3	Modified	391	N6-(pyridoxal	phosphate)lysine
+A0A0P5RYP1	Modified	587	N6-(pyridoxal	phosphate)lysine
+A0A0N8BPB7	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5WG80	Modified	364	N6-(pyridoxal	phosphate)lysine
+A0A0P5NRA4	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P5HW20	Modified	92	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZJ91	Modified	291	N6-(pyridoxal	phosphate)lysine
+A0A0P6GGB5	Modified	241	N6-(pyridoxal	phosphate)lysine
+A0A0P6ING7	Modified	358	N6-(pyridoxal	phosphate)lysine
+A0A0P5P3Z5	Modified	341	N6-(pyridoxal	phosphate)lysine
+A0A0P6FGC9	Modified	691	N6-(pyridoxal	phosphate)lysine
+A0A0P5ER57	Modified	494	N6-(pyridoxal	phosphate)lysine
+A0A0P5I511	Modified	250	N6-(pyridoxal	phosphate)lysine
+A0A0P5QYC0	Modified	680	N6-(pyridoxal	phosphate)lysine
+A0A0P4YQU3	Modified	208	N6-(pyridoxal	phosphate)lysine
+A0A0P6EK21	Modified	180	N6-(pyridoxal	phosphate)lysine
+A0A0P5CXQ3	Modified	241	N6-(pyridoxal	phosphate)lysine
+A0A0P6IM21	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0P5INI8	Modified	542	N6-(pyridoxal	phosphate)lysine
+A0A0N8A4B4	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P6CTK3	Modified	264	N6-(pyridoxal	phosphate)lysine
+A0A0P5RLN0	Modified	305	N6-(pyridoxal	phosphate)lysine
+A0A0P5TFV1	Modified	755	N6-(pyridoxal	phosphate)lysine
+A0A0P5NEB9	Modified	292	N6-(pyridoxal	phosphate)lysine
+A0A0P4ZRS4	Modified	249	N6-(pyridoxal	phosphate)lysine
+A0A0P5LSI3	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P6IK79	Modified	303	N6-(pyridoxal	phosphate)lysine
+A0A0P5LAC2	Modified	736	N6-(pyridoxal	phosphate)lysine
+A0A0P5HRV6	Modified	786	N6-(pyridoxal	phosphate)lysine
+A0A0P5BX03	Modified	229	N6-(pyridoxal	phosphate)lysine
+A0A0P5UP68	Modified	284	N6-(pyridoxal	phosphate)lysine
+A0A0P5YJB1	Modified	207	N6-(pyridoxal	phosphate)lysine
+A0A0P5MZG5	Modified	239	N6-(pyridoxal	phosphate)lysine
+A0A0P4YZV9	Modified	212	N6-(pyridoxal	phosphate)lysine
+A0A0P5VP36	Modified	215	N6-(pyridoxal	phosphate)lysine
+A0A0P5RDU6	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A0P5NZU3	Modified	707	N6-(pyridoxal	phosphate)lysine
+A0A0P4Y5I1	Modified	152	N6-(pyridoxal	phosphate)lysine
+A0A0N8EQY7	Modified	247	N6-(pyridoxal	phosphate)lysine
+A0A0P4YSU2	Modified	208	N6-(pyridoxal	phosphate)lysine
+A0A0P6E6L5	Modified	304	N6-(pyridoxal	phosphate)lysine
+A0A084A289	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A083ZUJ6	Modified	244	N6-(pyridoxal	phosphate)lysine
+A0A083ZW15	Modified	398	O-AMP-tyrosine
+A0A083ZX85	Modified	103	N6-carboxylysine
+A0A083ZYK7	Modified	268	N6-(pyridoxal	phosphate)lysine
+A0A084A1U8	Modified	65	N6-lipoyllysine
+A0A083ZZS8	Modified	40	O-(pantetheine	4'-phosphoryl)serine
+A0A083ZWD2	Modified	197	N6-(pyridoxal	phosphate)lysine
+A0A083ZZP3	Modified	86	N6-(pyridoxal	phosphate)lysine
+A0A084A553	Modified	246	S-(dipyrrolylmethanemethyl)cysteine
+A0A083ZZG3	Modified	182	N6-(pyridoxal	phosphate)lysine
+A0A084A3Y4	Modified	34	N6-(pyridoxal	phosphate)lysine
+A0A083ZXL8	Modified	211	N6-(pyridoxal	phosphate)lysine
+A0A084A1U9	Modified	708	N6-(pyridoxal	phosphate)lysine
+A0A083ZVZ2	Modified	295	N6-(pyridoxal	phosphate)lysine
+A0A084A4N8	Modified	230	N6-(pyridoxal	phosphate)lysine
+A0A083ZZQ2	Modified	270	N6-(pyridoxal	phosphate)lysine
+A0A083ZWK7	Modified	236	N6-(pyridoxal	phosphate)lysine
+A0A084A3U4	Modified	576	4-aspartylphosphate
+A0A084A3U4	Modified	718	Phosphohistidine
+A0A083ZX75	Modified	37	O-(pantetheine	4'-phosphoryl)serine
+A0A083ZYM0	Modified	144	2%2C3-didehydroalanine	(Ser)
+A0A084A392	Modified	102	Phosphoserine
+A0A084A205	Modified	54	N6-(pyridoxal	phosphate)lysine
+A0A083ZXH6	Modified	405	Cysteine	persulfide
+A0A084A1Q9	Modified	101	N6-(pyridoxal	phosphate)lysine
+A0A083ZVG4	Modified	206	N6-(pyridoxal	phosphate)lysine
+A0A083ZYN2	Modified	128	Phosphoserine
+A0A084A074	Modified	150	N5-methylglutamine
+A0A083ZVH1	Modified	229	N6-(pyridoxal	phosphate)lysine
+A0A084A520	Modified	842	Phosphohistidine
+A0A084A044	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A083ZUY0	Modified	609	N6-acetyllysine
+A0A083ZVJ8	Modified	102	Glycine	radical
+A0A083ZWF3	Modified	735	Glycine	radical
+A0A083ZWW4	Modified	210	N6-(pyridoxal	phosphate)lysine
+A0A083ZWR2	Modified	355	N6-(pyridoxal	phosphate)lysine
+A0A084A519	Modified	56	4-aspartylphosphate
+A0A084A645	Modified	298	N6-(pyridoxal	phosphate)lysine
+A0A083ZWK9	Modified	300	N6-(pyridoxal	phosphate)lysine
+A0A084A667	Modified	58	4-aspartylphosphate
+A0A084A682	Modified	235	N5-methylglutamine
+A0A084A5G2	Modified	51	O-UMP-tyrosine
+A0A084A5X4	Modified	36	N6-(pyridoxal	phosphate)lysine
+A0A083ZVX2	Modified	198	N6-(pyridoxal	phosphate)lysine
+A0A083ZVH3	Modified	51	O-UMP-tyrosine
+A0A083ZVD4	Modified	665	N6-(pyridoxal	phosphate)lysine
+A0A084A4B6	Modified	367	N6-(pyridoxal	phosphate)lysine
+A0A084A320	Modified	332	N6-(pyridoxal	phosphate)lysine
+A0A084A010	Modified	651	N6-(pyridoxal	phosphate)lysine
+A0A083ZZZ5	Modified	662	N6-(pyridoxal	phosphate)lysine
+A0A084A637	Modified	786	Glycine	radical
+A0A084A563	Modified	181	N6-(pyridoxal	phosphate)lysine
+A0A083ZYF6	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0P5SRA1	Cross-link	162	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P5HXP3	Cross-link	107	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P4XPR7	Cross-link	172	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P5GLU3	Cross-link	163	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P4ZSI3	Cross-link	109	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0N8DDV9	Cross-link	93	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P6C6E5	Cross-link	213	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P6J7S8	Cross-link	198	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P5YQY6	Cross-link	163	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P5GY85	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0P5HD50	Cross-link	161	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A0N8CYE2	Cross-link	163	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+A0A083ZYM0	Cross-link	145	5-imidazolinone	(Ala-Gly)
+A0A0P5WH74	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5AZV6	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N7ZS19	246	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5YEV6	294	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P4Z487	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5X9T7	209	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5VY12	233	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5VBR6	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N8CSV0	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5B5P4	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6B4Q9	307	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N8A0S5	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P4Z5W4	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5WT82	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5B9T9	261	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5Y5T9	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5AZM8	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5DX18	246	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5L7M6	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6EP49	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6F831	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N8BWF4	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5PQE9	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N8AWI9	294	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5H0U2	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6F3X1	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6CVS4	246	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5P4A5	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6DWL3	189	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6GTC4	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5IMS3	294	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5Q7M5	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5Q5J9	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6HT61	290	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6HQA7	298	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6F290	246	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5GJ50	261	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5VEM7	775	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5C4D0	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P4YIM4	283	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6AJD1	220	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P4Y9T4	246	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0N8E565	695	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P4YNS8	220	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6G0F1	736	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5EP94	236	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5F0G5	246	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5DFT7	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5EBI3	238	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0N8EHD9	786	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5JZS9	756	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5EVM9	211	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5DHY3	230	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5TIK2	652	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5WDM2	724	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5L117	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6IT54	286	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0N8D6H9	246	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5Z0H9	679	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5TTF2	246	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5B0Z6	736	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P6AG43	262	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5CL77	261	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0N7ZPW9	208	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P6AJY0	807	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5XVT1	242	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5PFR0	781	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5XJ93	246	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P6AHA9	184	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P5TBG4	365	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P6CTB9	283	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0P6FGC9	691	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5ER57	494	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P4YQU3	208	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A0P5TFV1	755	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5LAC2	736	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5HRV6	786	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P5NZU3	707	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0P4YSU2	208	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A084A289	205	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A083ZUJ6	244	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A083ZX85	103	N6-carboxylysine	Amidohydro-rel	domain
+A0A083ZX85	103	N6-carboxylysine	Zinc 1%3B via carbamate group	metal-binding
+A0A083ZX85	103	N6-carboxylysine	Zinc 2%3B via carbamate group	metal-binding
+A0A084A1U8	65	N6-lipoyllysine	Lipoyl-binding	domain
+A0A083ZZS8	40	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A083ZWD2	197	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A083ZZP3	86	N6-(pyridoxal	phosphate)lysine	PALP	domain
+A0A084A553	246	S-(dipyrrolylmethanemethyl)cysteine	Porphobil_deamC	domain
+A0A083ZXL8	211	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A084A1U9	708	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A084A4N8	230	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A083ZZQ2	270	N6-(pyridoxal	phosphate)lysine	Beta_elim_lyase	domain
+A0A083ZWK7	236	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+A0A084A3U4	576	4-aspartylphosphate	Response	domain
+A0A084A3U4	718	Phosphohistidine	HPt	domain
+A0A083ZX75	37	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A084A392	102	Phosphoserine	PGM_PMM_I	domain
+A0A084A392	102	Phosphoserine	Magnesium%3B via phosphate group	metal-binding
+A0A084A205	54	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A083ZXH6	405	Cysteine	persulfide	Iron-oxo-sulfur (4Fe-2O-2S)%3B via persulfide group	metal-binding
+A0A084A1Q9	101	N6-(pyridoxal	phosphate)lysine	Orn_Arg_deC_N	domain
+A0A083ZVG4	206	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A083ZYN2	128	Phosphoserine	Sirohm_synth_M	domain
+A0A084A520	842	Phosphohistidine	HPt	domain
+A0A083ZUY0	609	N6-acetyllysine	AMP-binding_C	domain
+A0A083ZVJ8	102	Glycine	radical	Glycine	domain
+A0A083ZWF3	735	Glycine	radical	Glycine	domain
+A0A083ZWR2	355	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+A0A084A519	56	4-aspartylphosphate	Response	domain
+A0A083ZWK9	300	N6-(pyridoxal	phosphate)lysine	binding-site
+A0A084A667	58	4-aspartylphosphate	Response	domain
+A0A084A682	235	N5-methylglutamine	RF_PROK_I	domain
+A0A084A5X4	36	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A084A4B6	367	N6-(pyridoxal	phosphate)lysine	OKR_DC_1	domain
+A0A084A637	786	Glycine	radical	Glycine	domain

@@ -1,0 +1,5 @@
+B6RFK8	Modified	264	N6-(pyridoxal	phosphate)lysine
+Q9FN50	Modified	49	N-acetylthreonine
+J7ES67	Cross-link	195	2'-(S-cysteinyl)-histidine	(Cys-His)
+J7ES67	195	2'-(S-cysteinyl)-histidine	(Cys-His)	Tyrosinase_Cu-bd	domain
+J7ES67	195	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding

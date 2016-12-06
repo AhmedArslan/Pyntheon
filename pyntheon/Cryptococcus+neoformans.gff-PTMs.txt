@@ -1,0 +1,765 @@
+P0CP68	Modified	171	Phosphothreonine
+P0CP68	Modified	173	Phosphotyrosine
+Q56R42	Modified	171	Phosphothreonine
+Q56R42	Modified	173	Phosphotyrosine
+P0CP00	Modified	363	Phosphoserine
+P0CO52	Modified	258	N6-(pyridoxal	phosphate)lysine
+P0CO53	Modified	258	N6-(pyridoxal	phosphate)lysine
+P0CO02	Modified	9	N6-acetyllysine%3B	alternate
+P0CO02	Modified	13	Phosphoserine
+P0CO02	Modified	17	N6-acetyllysine
+P0CO03	Modified	9	N6-acetyllysine%3B	alternate
+P0CO03	Modified	13	Phosphoserine
+P0CO03	Modified	17	N6-acetyllysine
+P0CN98	Modified	6	N6-acetyllysine
+P0CN98	Modified	8	N6-acetyllysine
+P0CN98	Modified	105	N5-methylglutamine
+P0CN98	Modified	128	Phosphoserine
+P0CP69	Modified	171	Phosphothreonine
+P0CP69	Modified	173	Phosphotyrosine
+J9VHN5	Modified	258	N6-(pyridoxal	phosphate)lysine
+P0CN99	Modified	6	N6-acetyllysine
+P0CN99	Modified	8	N6-acetyllysine
+P0CN99	Modified	105	N5-methylglutamine
+P0CN99	Modified	128	Phosphoserine
+P0CP66	Modified	181	Phosphothreonine
+P0CP66	Modified	183	Phosphotyrosine
+P0CS22	Modified	483	N6-carboxylysine
+P0CP67	Modified	181	Phosphothreonine
+P0CP67	Modified	183	Phosphotyrosine
+P0CS23	Modified	483	N6-carboxylysine
+O13465	Modified	483	N6-carboxylysine
+Q5KMX3	Modified	58	N6-(pyridoxal	phosphate)lysine
+Q6P4T0	Modified	764	Phosphoserine
+Q6P4T0	Modified	869	Phosphoserine
+Q6P4T0	Modified	875	Phosphoserine
+Q6P4T0	Modified	877	Phosphoserine
+Q6P4T0	Modified	1246	Phosphoserine
+P0CO01	Modified	4	N6-acetyllysine
+P0CO01	Modified	9	N6-acetyllysine
+P0CO00	Modified	4	N6-acetyllysine
+P0CO00	Modified	9	N6-acetyllysine
+P0CO05	Modified	5	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO05	Modified	5	N6%2CN6-dimethyllysine%3B	alternate
+P0CO05	Modified	5	N6-methyllysine%3B	alternate
+P0CO05	Modified	10	N6-acetyllysine%3B	alternate
+P0CO05	Modified	10	N6-methyllysine%3B	alternate
+P0CO05	Modified	11	Phosphoserine
+P0CO05	Modified	15	N6%2CN6-dimethyllysine%3B	alternate
+P0CO05	Modified	15	N6-acetyllysine%3B	alternate
+P0CO05	Modified	15	N6-methyllysine%3B	alternate
+P0CO05	Modified	19	N6-acetyllysine%3B	alternate
+P0CO05	Modified	19	N6-methyllysine%3B	alternate
+P0CO05	Modified	24	N6-acetyllysine%3B	alternate
+P0CO05	Modified	24	N6-methyllysine%3B	alternate
+P0CO05	Modified	28	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO05	Modified	28	N6%2CN6-dimethyllysine%3B	alternate
+P0CO05	Modified	28	N6-acetyllysine%3B	alternate
+P0CO05	Modified	28	N6-methyllysine%3B	alternate
+P0CO05	Modified	39	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO05	Modified	39	N6%2CN6-dimethyllysine%3B	alternate
+P0CO05	Modified	39	N6-acetyllysine%3B	alternate
+P0CO05	Modified	39	N6-methyllysine%3B	alternate
+P0CO05	Modified	59	N6-acetyllysine
+P0CO05	Modified	67	N6-acetyllysine
+P0CO05	Modified	82	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO05	Modified	82	N6%2CN6-dimethyllysine%3B	alternate
+P0CO05	Modified	82	N6-methyllysine%3B	alternate
+P0CO04	Modified	5	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO04	Modified	5	N6%2CN6-dimethyllysine%3B	alternate
+P0CO04	Modified	5	N6-methyllysine%3B	alternate
+P0CO04	Modified	10	N6-acetyllysine%3B	alternate
+P0CO04	Modified	10	N6-methyllysine%3B	alternate
+P0CO04	Modified	11	Phosphoserine
+P0CO04	Modified	15	N6%2CN6-dimethyllysine%3B	alternate
+P0CO04	Modified	15	N6-acetyllysine%3B	alternate
+P0CO04	Modified	15	N6-methyllysine%3B	alternate
+P0CO04	Modified	19	N6-acetyllysine%3B	alternate
+P0CO04	Modified	19	N6-methyllysine%3B	alternate
+P0CO04	Modified	24	N6-acetyllysine%3B	alternate
+P0CO04	Modified	24	N6-methyllysine%3B	alternate
+P0CO04	Modified	28	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO04	Modified	28	N6%2CN6-dimethyllysine%3B	alternate
+P0CO04	Modified	28	N6-acetyllysine%3B	alternate
+P0CO04	Modified	28	N6-methyllysine%3B	alternate
+P0CO04	Modified	39	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO04	Modified	39	N6%2CN6-dimethyllysine%3B	alternate
+P0CO04	Modified	39	N6-acetyllysine%3B	alternate
+P0CO04	Modified	39	N6-methyllysine%3B	alternate
+P0CO04	Modified	59	N6-acetyllysine
+P0CO04	Modified	67	N6-acetyllysine
+P0CO04	Modified	82	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+P0CO04	Modified	82	N6%2CN6-dimethyllysine%3B	alternate
+P0CO04	Modified	82	N6-methyllysine%3B	alternate
+P0CP01	Modified	363	Phosphoserine
+P0CQ58	Modified	2	N-acetylalanine%3B	partial
+P0CQ59	Modified	2	N-acetylalanine%3B	partial
+Q5K920	Modified	297	N6-(pyridoxal	phosphate)lysine
+E6RA46	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+E6R5L2	Modified	145	1-thioglycine
+E6RG75	Modified	232	N6-(pyridoxal	phosphate)lysine
+E6QZ39	Modified	2	N-acetylalanine%3B	partial
+E6R2L9	Modified	73	3-oxoalanine	(Cys)
+E6R7V6	Modified	769	N6-(pyridoxal	phosphate)lysine
+E6REF6	Modified	205	N6-(pyridoxal	phosphate)lysine
+E6R5X7	Modified	318	N6-(pyridoxal	phosphate)lysine
+E6RCN4	Modified	297	N6-(pyridoxal	phosphate)lysine
+E6R529	Modified	272	N6-(pyridoxal	phosphate)lysine
+E6R2V8	Modified	796	N6-(pyridoxal	phosphate)lysine
+E6REI8	Modified	348	N6-(pyridoxal	phosphate)lysine
+E6R1N7	Modified	258	N6-(pyridoxal	phosphate)lysine
+E6R5J7	Modified	199	N6-(pyridoxal	phosphate)lysine
+E6REX3	Modified	483	N6-carboxylysine
+E6RAN2	Modified	45	N6-(pyridoxal	phosphate)lysine
+E6RFZ8	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0V9N2	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0T0L7	Modified	2	N-acetylalanine%3B	partial
+A0A0D0U0H7	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0T2K4	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D0SWW6	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0UXP7	Modified	144	1-thioglycine
+A0A0D0T056	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0V5G6	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0UTH7	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0V450	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0V7P8	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0V7V9	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0T245	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0T325	Modified	483	N6-carboxylysine
+A0A0D0TUX7	Modified	73	3-oxoalanine	(Cys)
+A0A0D0T0U6	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0U1N5	Modified	144	1-thioglycine
+A0A0D0U4H1	Modified	2	N-acetylalanine%3B	partial
+A0A0D0T0K0	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0SYZ2	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0TX98	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0TUZ9	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0SB48	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0SY76	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D0SWQ5	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0TUE7	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0TTW9	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0T6C1	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0TYD2	Modified	483	N6-carboxylysine
+A0A0D0S7Z8	Modified	73	3-oxoalanine	(Cys)
+A0A0D2I1Q7	Modified	2	N-acetylalanine%3B	partial
+A0A0D2KNS1	Modified	145	1-thioglycine
+A0A0D2KUE5	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0YDT5	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0W9Z1	Modified	2	N-acetylalanine%3B	partial
+A0A0D2KIH4	Modified	483	N6-carboxylysine
+A0A0D0YHW3	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D2LAP9	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D2KNY1	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0XZQ4	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D2KJZ4	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0WXY0	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D0W3B1	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0X5M0	Modified	145	1-thioglycine
+A0A0D2KLV1	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D2I3P3	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0YHP8	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0YFW2	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D2HZD4	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D2KLI8	Modified	73	3-oxoalanine	(Cys)
+A0A0D0Y1M1	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0XBD3	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D2KSS8	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D2KIQ2	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D0Y498	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D2I871	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0WTW7	Modified	483	N6-carboxylysine
+A0A0D2L951	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0X8N7	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0YHH4	Modified	73	3-oxoalanine	(Cys)
+A0A0D2L7G4	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0YAY2	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D2KNT6	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D0YGT6	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D0W557	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0VGB8	Modified	2	N-acetylalanine%3B	partial
+A0A0D0VFQ7	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0WK88	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0VFV7	Modified	145	1-thioglycine
+A0A0D0XH09	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0WKX5	Modified	483	N6-carboxylysine
+A0A0D0V9V8	Modified	73	3-oxoalanine	(Cys)
+A0A0D0VFV0	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D0VBZ3	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0WGW9	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D0WLD7	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D0UHJ0	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0W6G1	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D0W4R1	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0WEM3	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0YJX5	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D1A2L8	Modified	2	N-acetylalanine%3B	partial
+A0A0D0ZLP5	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D1A3H0	Modified	144	1-thioglycine
+A0A0D0Y2E3	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZM31	Modified	483	N6-carboxylysine
+A0A0D0ZT33	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D1A346	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0YFA6	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZNN3	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D1A533	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D1A0R1	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0XLE8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZQQ2	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0XPF5	Modified	73	3-oxoalanine	(Cys)
+A0A0D0XJ56	Modified	2	N-acetylalanine%3B	partial
+A0A0D0XK12	Modified	483	N6-carboxylysine
+A0A0D0XY34	Modified	144	1-thioglycine
+A0A0D0VS12	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0VYY1	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0XL23	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0XH41	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0XIA0	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0XVR7	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0XIH8	Modified	73	3-oxoalanine	(Cys)
+A0A0D0XJI9	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D0XZJ6	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0XW16	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0XL36	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0WC73	Modified	254	N6-(pyridoxal	phosphate)lysine
+F5HBW6	Modified	142	1-thioglycine
+F5HHR1	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+Q55M76	Modified	200	N6-(pyridoxal	phosphate)lysine
+Q55X12	Modified	58	N6-(pyridoxal	phosphate)lysine
+F5HDB8	Modified	73	3-oxoalanine	(Cys)
+Q55HM3	Modified	254	N6-(pyridoxal	phosphate)lysine
+Q55TB8	Modified	369	N6-(pyridoxal	phosphate)lysine
+F5HH45	Modified	770	N6-(pyridoxal	phosphate)lysine
+F5HAQ3	Modified	205	N6-(pyridoxal	phosphate)lysine
+F5HFE5	Modified	272	N6-(pyridoxal	phosphate)lysine
+F5H9F4	Modified	232	N6-(pyridoxal	phosphate)lysine
+F5HGI7	Modified	45	N6-(pyridoxal	phosphate)lysine
+Q55JD1	Modified	348	N6-(pyridoxal	phosphate)lysine
+F5HIM0	Modified	796	N6-(pyridoxal	phosphate)lysine
+F5H9T7	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0TII1	Modified	145	1-thioglycine
+A0A0D0VJL2	Modified	2	N-acetylalanine%3B	partial
+A0A0D0VSX5	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0VQS3	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0UKZ4	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0TGW9	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D0TU56	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D0VIC8	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D0VKS6	Modified	73	3-oxoalanine	(Cys)
+A0A0D0VH14	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0VGT2	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0VE37	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0TN19	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0TIJ8	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D0TDI4	Modified	483	N6-carboxylysine
+A0A0D0VC41	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0W9G6	Modified	2	N-acetylalanine%3B	partial
+A0A0D0W0C1	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0VZB7	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0VZ68	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D0V8B3	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0W5K4	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0W5J1	Modified	145	1-thioglycine
+Q6SV64	Modified	869	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0W5H5	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D0V4D9	Modified	73	3-oxoalanine	(Cys)
+A0A0D0W0X0	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D0U0G8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZHE3	Modified	2	N-acetylalanine%3B	partial
+A0A0D0V6V9	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0V4M1	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0X087	Modified	922	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0WF91	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D0W5X2	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0U045	Modified	483	N6-carboxylysine
+A0A0D0X8J9	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0YRZ1	Modified	2	N-acetylalanine%3B	partial
+A0A0D0XMK2	Modified	73	3-oxoalanine	(Cys)
+A0A0D0YPT1	Modified	348	N6-(pyridoxal	phosphate)lysine
+A0A0D0WPY9	Modified	145	1-thioglycine
+A0A0D0XEW9	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z2B0	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z4M8	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZKN5	Modified	144	1-thioglycine
+A0A0D0WPX8	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D0XK74	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0WIP0	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0X530	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0YNJ8	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0XIC9	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z9T9	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D0XF89	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z079	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z406	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0XMU8	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z6I4	Modified	483	N6-carboxylysine
+A0A0D0YLD4	Modified	483	N6-carboxylysine
+A0A0D0ZAL5	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZAX6	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0Z222	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D0WL57	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0XXT3	Modified	73	3-oxoalanine	(Cys)
+A0A0D0WXX0	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZKD9	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0ZAJ9	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0TF08	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D0U9Q2	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D0UD73	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D0UNC2	Modified	144	1-thioglycine
+A0A0D0UG03	Modified	2	N-acetylalanine%3B	partial
+A0A0D0UAX5	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D0UR68	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D0UN36	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D0UEY1	Modified	73	3-oxoalanine	(Cys)
+A0A0D0UED8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D0UW61	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D0TL23	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D0SIY2	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D0UDQ4	Modified	483	N6-carboxylysine
+A0A0D0UN09	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D0UJA0	Modified	706	N6-(pyridoxal	phosphate)lysine
+A0A095EHK8	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A095EP44	Modified	144	1-thioglycine
+A0A095CM03	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A095C687	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A095C168	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A095ETE5	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A095CE93	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A095EQU3	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A095EN78	Modified	483	N6-carboxylysine
+A0A095CDV1	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A095CB77	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A095EFP2	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A095CDJ6	Modified	73	3-oxoalanine	(Cys)
+A0A095ES69	Modified	2	N-acetylalanine%3B	partial
+A0A095CFQ9	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D2LFS8	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D2K101	Modified	144	1-thioglycine
+A0A0D2LEB8	Modified	2	N-acetylalanine%3B	partial
+A0A0D2KYX8	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D2ICU5	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D2M3E1	Modified	336	N6-(pyridoxal	phosphate)lysine
+A0A0D2KZJ6	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D2JSX0	Modified	283	N6-(pyridoxal	phosphate)lysine
+A0A0D2LFM3	Modified	73	3-oxoalanine	(Cys)
+A0A0D2L068	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D2L6S6	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D2LU06	Modified	483	N6-carboxylysine
+A0A0D2LHT1	Modified	200	N6-(pyridoxal	phosphate)lysine
+A0A0D2IGG3	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D2IKD2	Modified	796	N6-(pyridoxal	phosphate)lysine
+Q5KEK6	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+Q5K8K6	Modified	142	1-thioglycine
+J9VLP5	Modified	2	N-acetylalanine%3B	partial
+J9VLN1	Modified	142	1-thioglycine
+J9VYK4	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+J9VWH6	Modified	254	N6-(pyridoxal	phosphate)lysine
+Q5K6Y9	Modified	232	N6-(pyridoxal	phosphate)lysine
+T2BMV0	Modified	274	N6-(pyridoxal	phosphate)lysine
+Q5K8J3	Modified	200	N6-(pyridoxal	phosphate)lysine
+Q5KJE5	Modified	73	3-oxoalanine	(Cys)
+Q5KF07	Modified	770	N6-(pyridoxal	phosphate)lysine
+Q5K761	Modified	254	N6-(pyridoxal	phosphate)lysine
+J9VTS4	Modified	283	N6-(pyridoxal	phosphate)lysine
+J9VJW5	Modified	297	N6-(pyridoxal	phosphate)lysine
+Q5KCC8	Modified	348	N6-(pyridoxal	phosphate)lysine
+J9VRE2	Modified	769	N6-(pyridoxal	phosphate)lysine
+J9VY95	Modified	272	N6-(pyridoxal	phosphate)lysine
+Q5KJ20	Modified	318	N6-(pyridoxal	phosphate)lysine
+J9VU52	Modified	796	N6-(pyridoxal	phosphate)lysine
+Q5KL19	Modified	796	N6-(pyridoxal	phosphate)lysine
+J9W4B8	Modified	210	N6-(pyridoxal	phosphate)lysine
+J9VIR0	Modified	200	N6-(pyridoxal	phosphate)lysine
+Q5KAU8	Modified	272	N6-(pyridoxal	phosphate)lysine
+J9VZF5	Modified	45	N6-(pyridoxal	phosphate)lysine
+Q5KD20	Modified	205	N6-(pyridoxal	phosphate)lysine
+Q5KBT3	Modified	66	N6-(pyridoxal	phosphate)lysine
+J9VZD6	Modified	348	N6-(pyridoxal	phosphate)lysine
+J9VW29	Modified	232	N6-(pyridoxal	phosphate)lysine
+J9VP18	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D2WDC2	Modified	73	3-oxoalanine	(Cys)
+A0A0D2WF57	Modified	919	O-(pantetheine	4'-phosphoryl)serine
+A0A0D2WB53	Modified	145	1-thioglycine
+A0A0D2WZI6	Modified	2	N-acetylalanine%3B	partial
+A0A0D2TH39	Modified	254	N6-(pyridoxal	phosphate)lysine
+A0A0D2WD27	Modified	318	N6-(pyridoxal	phosphate)lysine
+A0A0D2TGS5	Modified	297	N6-(pyridoxal	phosphate)lysine
+A0A0D2V9F1	Modified	199	N6-(pyridoxal	phosphate)lysine
+A0A0D2WEB2	Modified	258	N6-(pyridoxal	phosphate)lysine
+A0A0D2VBT4	Modified	769	N6-(pyridoxal	phosphate)lysine
+A0A0D2WU56	Modified	483	N6-carboxylysine
+A0A0D2TEF8	Modified	205	N6-(pyridoxal	phosphate)lysine
+A0A0D2WC06	Modified	272	N6-(pyridoxal	phosphate)lysine
+A0A0D2WUP8	Modified	232	N6-(pyridoxal	phosphate)lysine
+A0A0D2UYA2	Modified	45	N6-(pyridoxal	phosphate)lysine
+A0A0D2WDI9	Modified	796	N6-(pyridoxal	phosphate)lysine
+A0A0D2TI03	Modified	348	N6-(pyridoxal	phosphate)lysine
+Q5K8R6	Glycosylation	141	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	50	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	56	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	122	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	231	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	246	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	272	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	314	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	343	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	387	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	433	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	481	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	501	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	528	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	553	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	572	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	594	N-linked	(GlcNAc...)
+Q9P8P2	Glycosylation	606	N-linked	(GlcNAc...)
+P0CM40	Glycosylation	163	N-linked	(GlcNAc...)
+P0CM40	Glycosylation	166	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	48	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	133	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	196	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	220	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	302	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	309	N-linked	(GlcNAc...)
+P0CO60	Glycosylation	361	N-linked	(GlcNAc...)
+P0CS02	Glycosylation	87	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	48	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	133	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	196	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	220	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	302	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	309	N-linked	(GlcNAc...)
+P0CO61	Glycosylation	361	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	50	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	56	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	122	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	231	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	246	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	272	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	314	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	343	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	387	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	433	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	481	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	501	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	528	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	553	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	572	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	594	N-linked	(GlcNAc...)
+P0CP75	Glycosylation	606	N-linked	(GlcNAc...)
+P0CM41	Glycosylation	163	N-linked	(GlcNAc...)
+P0CM41	Glycosylation	166	N-linked	(GlcNAc...)
+P0CS03	Glycosylation	87	N-linked	(GlcNAc...)
+P82476	Glycosylation	61	N-linked	(GlcNAc...)
+P82476	Glycosylation	149	N-linked	(GlcNAc...)
+P82476	Glycosylation	279	N-linked	(GlcNAc...)
+P82476	Glycosylation	293	N-linked	(GlcNAc...)
+P82476	Glycosylation	352	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	50	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	56	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	122	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	231	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	246	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	272	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	314	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	343	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	387	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	433	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	481	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	501	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	528	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	553	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	572	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	594	N-linked	(GlcNAc...)
+P0CP74	Glycosylation	606	N-linked	(GlcNAc...)
+P0CM50	Glycosylation	291	N-linked	(GlcNAc...)
+P0CM50	Glycosylation	336	N-linked	(GlcNAc...)
+P0CM50	Glycosylation	374	N-linked	(GlcNAc...)
+P0CM50	Glycosylation	448	N-linked	(GlcNAc...)
+P0CM51	Glycosylation	291	N-linked	(GlcNAc...)
+P0CM51	Glycosylation	336	N-linked	(GlcNAc...)
+P0CM51	Glycosylation	374	N-linked	(GlcNAc...)
+P0CM51	Glycosylation	448	N-linked	(GlcNAc...)
+Q8X226	Glycosylation	3	N-linked	(GlcNAc...)
+Q8X226	Glycosylation	168	N-linked	(GlcNAc...)
+P0CM56	Glycosylation	3	N-linked	(GlcNAc...)
+P0CM56	Glycosylation	169	N-linked	(GlcNAc...)
+P0CM56	Glycosylation	830	N-linked	(GlcNAc...)
+P0CP76	Glycosylation	61	N-linked	(GlcNAc...)
+P0CP76	Glycosylation	80	N-linked	(GlcNAc...)
+P0CP76	Glycosylation	149	N-linked	(GlcNAc...)
+P0CP76	Glycosylation	279	N-linked	(GlcNAc...)
+P0CP76	Glycosylation	293	N-linked	(GlcNAc...)
+P0CM57	Glycosylation	3	N-linked	(GlcNAc...)
+P0CM57	Glycosylation	169	N-linked	(GlcNAc...)
+P0CM57	Glycosylation	830	N-linked	(GlcNAc...)
+P0CP77	Glycosylation	61	N-linked	(GlcNAc...)
+P0CP77	Glycosylation	80	N-linked	(GlcNAc...)
+P0CP77	Glycosylation	149	N-linked	(GlcNAc...)
+P0CP77	Glycosylation	279	N-linked	(GlcNAc...)
+P0CP77	Glycosylation	293	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	9	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	312	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	372	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	378	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	397	N-linked	(GlcNAc...)
+J9VXM5	Glycosylation	455	N-linked	(GlcNAc...)
+P0CP18	Glycosylation	70	N-linked	(GlcNAc...)
+P0CP18	Glycosylation	296	N-linked	(GlcNAc...)
+P0CP19	Glycosylation	70	N-linked	(GlcNAc...)
+P0CP19	Glycosylation	296	N-linked	(GlcNAc...)
+P0CP64	Glycosylation	560	N-linked	(GlcNAc...)
+Q873N0	Glycosylation	560	N-linked	(GlcNAc...)
+P0CP65	Glycosylation	560	N-linked	(GlcNAc...)
+P0CP33	Glycosylation	244	N-linked	(GlcNAc...)
+P0CP32	Glycosylation	244	N-linked	(GlcNAc...)
+E6R6G5	Glycosylation	471	N-linked	(GlcNAc...)
+E6R6G5	Glycosylation	480	N-linked	(GlcNAc...)
+P0CP78	Glycosylation	155	N-linked	(GlcNAc...)
+Q5KH67	Glycosylation	138	N-linked	(GlcNAc...)
+Q5KH67	Glycosylation	369	N-linked	(GlcNAc...)
+Q5KH67	Glycosylation	447	N-linked	(GlcNAc...)
+Q5KH67	Glycosylation	591	N-linked	(GlcNAc...)
+Q5KH67	Glycosylation	616	N-linked	(GlcNAc...)
+P0CP79	Glycosylation	155	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	235	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	251	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	266	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	295	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	306	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	476	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	496	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	526	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	533	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	548	N-linked	(GlcNAc...)
+P0CQ04	Glycosylation	602	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	235	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	251	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	266	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	295	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	306	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	476	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	496	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	526	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	533	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	548	N-linked	(GlcNAc...)
+P0CQ05	Glycosylation	602	N-linked	(GlcNAc...)
+Q5KA65	Glycosylation	199	N-linked	(GlcNAc...)
+Q5KA65	Glycosylation	301	N-linked	(GlcNAc...)
+E6RCE9	Glycosylation	201	N-linked	(GlcNAc...)
+E6RCE9	Glycosylation	302	N-linked	(GlcNAc...)
+D0U690	Glycosylation	200	N-linked	(GlcNAc...)
+D0U690	Glycosylation	301	N-linked	(GlcNAc...)
+D0U690	Glycosylation	583	N-linked	(GlcNAc...)
+F5HID8	Glycosylation	199	N-linked	(GlcNAc...)
+F5HID8	Glycosylation	301	N-linked	(GlcNAc...)
+P0CP68	171	Phosphothreonine	Protein	domain
+P0CP68	173	Phosphotyrosine	Protein	domain
+Q56R42	171	Phosphothreonine	Protein	domain
+Q56R42	173	Phosphotyrosine	Protein	domain
+P0CP00	363	Phosphoserine	Myosin	domain
+P0CP69	171	Phosphothreonine	Protein	domain
+P0CP69	173	Phosphotyrosine	Protein	domain
+J9VHN5	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+P0CP66	181	Phosphothreonine	Protein	domain
+P0CP66	183	Phosphotyrosine	Protein	domain
+P0CS22	483	N6-carboxylysine	Urease	domain
+P0CS22	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+P0CS22	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+P0CP67	181	Phosphothreonine	Protein	domain
+P0CP67	183	Phosphotyrosine	Protein	domain
+P0CS23	483	N6-carboxylysine	Urease	domain
+P0CS23	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+P0CS23	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+O13465	483	N6-carboxylysine	Urease	domain
+O13465	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+O13465	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+P0CP01	363	Phosphoserine	Myosin	domain
+E6RA46	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+E6R2L9	73	3-oxoalanine	(Cys)	Sulfatase	domain
+E6R2V8	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+E6R1N7	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+E6R5J7	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+E6REX3	483	N6-carboxylysine	Urease	domain
+E6REX3	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+E6REX3	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+E6RAN2	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0U0H7	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0T056	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0V450	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0V7P8	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0T245	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0T325	483	N6-carboxylysine	Urease	domain
+A0A0D0T325	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0T325	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0TUX7	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0T0U6	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0T0K0	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0TUZ9	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0TUE7	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0T6C1	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0TYD2	483	N6-carboxylysine	Urease	domain
+A0A0D0TYD2	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0TYD2	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0S7Z8	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D2KUE5	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0YDT5	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D2KIH4	483	N6-carboxylysine	Urease	domain
+A0A0D2KIH4	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D2KIH4	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0YHW3	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0W3B1	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D2KLV1	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D2I3P3	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0YHP8	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D2KLI8	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D2I871	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0WTW7	483	N6-carboxylysine	Urease	domain
+A0A0D0WTW7	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0WTW7	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0X8N7	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0YHH4	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D2KNT6	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0W557	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0VFQ7	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0WKX5	483	N6-carboxylysine	Urease	domain
+A0A0D0WKX5	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0WKX5	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0V9V8	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0VFV0	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0W4R1	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0YJX5	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0Y2E3	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0ZM31	483	N6-carboxylysine	Urease	domain
+A0A0D0ZM31	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0ZM31	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0ZT33	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0YFA6	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D1A0R1	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XPF5	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0XK12	483	N6-carboxylysine	Urease	domain
+A0A0D0XK12	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0XK12	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0VS12	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0XIA0	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0XVR7	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XIH8	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0XZJ6	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XL36	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+F5HHR1	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q55M76	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+Q55X12	58	N6-(pyridoxal	phosphate)lysine	PALP	domain
+F5HDB8	73	3-oxoalanine	(Cys)	Sulfatase	domain
+F5HGI7	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+F5HIM0	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0VQS3	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0UKZ4	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0VKS6	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0TN19	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0TIJ8	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0TDI4	483	N6-carboxylysine	Urease	domain
+A0A0D0TDI4	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0TDI4	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0W5K4	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+Q6SV64	869	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0W5H5	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0V4D9	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0V6V9	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0V4M1	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0X087	922	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0U045	483	N6-carboxylysine	Urease	domain
+A0A0D0U045	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0U045	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0X8J9	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0XMK2	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0WPX8	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XK74	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0X530	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0Z079	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XMU8	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0Z6I4	483	N6-carboxylysine	Urease	domain
+A0A0D0Z6I4	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0Z6I4	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0YLD4	483	N6-carboxylysine	Urease	domain
+A0A0D0YLD4	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0YLD4	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0ZAL5	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0ZAX6	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0XXT3	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0WXX0	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D0TF08	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D0UR68	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0UEY1	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D0UW61	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D0SIY2	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D0UDQ4	483	N6-carboxylysine	Urease	domain
+A0A0D0UDQ4	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D0UDQ4	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D0UN09	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A095EHK8	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A095CE93	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A095EN78	483	N6-carboxylysine	Urease	domain
+A0A095EN78	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A095EN78	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A095CB77	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A095EFP2	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A095CDJ6	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A095CFQ9	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+A0A0D2LFS8	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D2KYX8	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D2LFM3	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D2L6S6	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D2LU06	483	N6-carboxylysine	Urease	domain
+A0A0D2LU06	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D2LU06	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D2LHT1	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D2IKD2	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+Q5KEK6	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+J9VYK4	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+T2BMV0	274	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+Q5K8J3	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+Q5KJE5	73	3-oxoalanine	(Cys)	Sulfatase	domain
+J9VTS4	283	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+J9VU52	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+Q5KL19	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+J9VIR0	200	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+J9VZF5	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+Q5KBT3	66	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D2WDC2	73	3-oxoalanine	(Cys)	Sulfatase	domain
+A0A0D2WF57	919	O-(pantetheine	4'-phosphoryl)serine	Acyl	domain
+A0A0D2V9F1	199	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D2WEB2	258	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+A0A0D2WU56	483	N6-carboxylysine	Urease	domain
+A0A0D2WU56	483	N6-carboxylysine	Nickel 1%3B via carbamate group	metal-binding
+A0A0D2WU56	483	N6-carboxylysine	Nickel 2%3B via carbamate group	metal-binding
+A0A0D2UYA2	45	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+A0A0D2WDI9	796	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+Q9C168	379	3-(S-cysteinyl)-tyrosine	(Cys-Tyr)	Iron (heme axial ligand)	
+	metal-binding
+Q9C168	379	3-(S-cysteinyl)-tyrosine	(Cys-Tyr)	PDB:1SY7	Helix-region
+P00440	97	2'-(S-cysteinyl)-histidine	(Cys-His)	Copper A	metal-binding
+P03945	250	1'-histidyl-3'-tyrosine	(His-Tyr)	Copper B	metal-binding
+P06811	139	N-linked	(GlcNAc...)	Plastocyanin-like	domain
+P06811	282	N-linked	(GlcNAc...)	Plastocyanin-like	domain
+P06811	295	N-linked	(GlcNAc...)	Plastocyanin-like	domain
+P06811	340	N-linked	(GlcNAc...)	Plastocyanin-like	domain
+P06811	444	N-linked	(GlcNAc...)	Plastocyanin-like	domain
+P23622	581	N-linked	(GlcNAc...)	STAS	domain
+Q7S7Z6	139	N-linked	(GlcNAc...)	PPIase	domain
+Q01294	138	N-linked	(GlcNAc...)	Peptidase	domain
+Q01294	335	N-linked	(GlcNAc...)	Peptidase	domain
+O42790	98	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	114	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	149	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	183	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	298	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	328	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	365	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	407	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	459	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	476	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	507	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	533	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	561	N-linked	(GlcNAc...)	PLA2c	domain
+O42790	602	N-linked	(GlcNAc...)	PLA2c	domain
+Q96UB6	200	N-linked	(GlcNAc...)	B30.2/SPRY	domain
+Q96UB6	210	N-linked	(GlcNAc...)	B30.2/SPRY	domain

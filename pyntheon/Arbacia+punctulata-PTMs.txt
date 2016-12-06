@@ -1,0 +1,7 @@
+P62146	Modified	2	N-acetylalanine
+P62146	Modified	116	N6%2CN6%2CN6-trimethyllysine
+P11760	Modified	14	Leucine	amide
+P11528	Glycosylation	185	N-linked	(GlcNAc...)
+P11528	Glycosylation	361	N-linked	(GlcNAc...)
+P11528	Glycosylation	410	N-linked	(GlcNAc...)
+P62146	116	N6%2CN6%2CN6-trimethyllysine	EF-hand	domain

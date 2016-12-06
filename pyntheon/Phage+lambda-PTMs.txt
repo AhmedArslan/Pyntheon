@@ -1,0 +1,66 @@
+P0CE48	Modified	2	N-acetylserine
+P0CE48	Modified	38	N6-succinyllysine
+P0CE48	Modified	57	N6%2CN6-dimethyllysine%3B	alternate
+P0CE48	Modified	57	N6-methyllysine%3B	alternate
+P0CE48	Modified	177	N6-succinyllysine
+P0CE48	Modified	249	N6-succinyllysine
+P0CE48	Modified	253	N6-succinyllysine
+P0CE48	Modified	295	N6-succinyllysine
+P0CE48	Modified	314	N6-acetyllysine%3B	alternate
+P0CE48	Modified	314	N6-succinyllysine%3B	alternate
+P0CE48	Modified	383	Phosphothreonine
+P07071	Modified	580	Glycine	radical
+P0A6Y8	Modified	70	N6-succinyllysine
+P0A6Y8	Modified	109	N6-acetyllysine
+P0A6Y8	Modified	245	N6-acetyllysine%3B	alternate
+P0A6Y8	Modified	245	N6-succinyllysine%3B	alternate
+P0A6Y8	Modified	246	N6-succinyllysine
+P0A6Y8	Modified	304	N6-acetyllysine%3B	alternate
+P0A6Y8	Modified	304	N6-succinyllysine%3B	alternate
+P0A6Y8	Modified	359	N6-succinyllysine
+P0A6Y8	Modified	421	N6-acetyllysine
+P0A6Y8	Modified	502	N6-succinyllysine
+P0A6Y8	Modified	528	N6-succinyllysine
+P0A6Y8	Modified	556	N6-acetyllysine
+P0A6Y8	Modified	587	N6-succinyllysine
+P02576	Modified	74	Tele-methylhistidine
+P69801	Modified	1	N-formylmethionine
+P69797	Modified	55	N6-acetyllysine
+P69797	Modified	234	N6-acetyllysine
+P28799	Glycosylation	118	N-linked	(GlcNAc...)
+P28799	Glycosylation	236	N-linked	(GlcNAc...)
+P28799	Glycosylation	265	N-linked	(GlcNAc...)
+P28799	Glycosylation	368	N-linked	(GlcNAc...)
+P28799	Glycosylation	530	N-linked	(GlcNAc...)
+Q8IZY2	Glycosylation	312	N-linked	(GlcNAc...)
+P0CE48	38	N6-succinyllysine	tr-type	domain
+P0CE48	38	N6-succinyllysine	PDB:2BVN	Helix-region
+P0CE48	57	N6%2CN6-dimethyllysine%3B	alternate	tr-type	domain
+P0CE48	57	N6%2CN6-dimethyllysine%3B	alternate	PDB:1DG1	Helix-region
+P0CE48	57	N6-methyllysine%3B	alternate	tr-type	domain
+P0CE48	57	N6-methyllysine%3B	alternate	PDB:1DG1	Helix-region
+P0CE48	177	N6-succinyllysine	tr-type	domain
+P0CE48	177	N6-succinyllysine	PDB:2BVN	Helix-region
+P0CE48	249	N6-succinyllysine	PDB:2BVN	Helix-region
+P0CE48	253	N6-succinyllysine	PDB:2BVN	Helix-region
+P0CE48	295	N6-succinyllysine	PDB:2BVN	Helix-region
+P0CE48	314	N6-acetyllysine%3B	alternate	PDB:2BVN	Helix-region
+P0CE48	314	N6-succinyllysine%3B	alternate	PDB:2BVN	Helix-region
+P0CE48	383	Phosphothreonine	PDB:2BVN	Helix-region
+P07071	580	Glycine	radical	Glycine	domain
+P07071	580	Glycine	radical	PDB:1H7B	Helix-region
+P0A6Y8	70	N6-succinyllysine	PDB:4JNE	Helix-region
+P0A6Y8	109	N6-acetyllysine	PDB:4JNE	Helix-region
+P0A6Y8	245	N6-acetyllysine%3B	alternate	PDB:4JNE	Helix-region
+P0A6Y8	245	N6-succinyllysine%3B	alternate	PDB:4JNE	Helix-region
+P0A6Y8	246	N6-succinyllysine	PDB:4JNE	Helix-region
+P0A6Y8	304	N6-acetyllysine%3B	alternate	PDB:4JNE	Helix-region
+P0A6Y8	304	N6-succinyllysine%3B	alternate	PDB:4JNE	Helix-region
+P0A6Y8	421	N6-acetyllysine	PDB:4F01	Helix-region
+P0A6Y8	528	N6-succinyllysine	PDB:4F01	Helix-region
+P0A6Y8	556	N6-acetyllysine	PDB:4F01	Helix-region
+P0A6Y8	587	N6-succinyllysine	PDB:4F01	Helix-region
+P69801	1	N-formylmethionine	PTS	domain
+P69797	55	N6-acetyllysine	PTS	domain
+P69797	234	N6-acetyllysine	PTS	domain
+P69797	234	N6-acetyllysine	PDB:1VSQ	Helix-region

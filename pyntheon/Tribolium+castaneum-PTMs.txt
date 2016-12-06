@@ -1,0 +1,57 @@
+D6W994	Modified	223	N6-(pyridoxal	phosphate)lysine
+D6WYC6	Modified	269	N6-(pyridoxal	phosphate)lysine
+D6WAG1	Modified	253	N6-(pyridoxal	phosphate)lysine
+D6WZD5	Modified	204	N6-(pyridoxal	phosphate)lysine
+D2A0P2	Modified	681	N6-(pyridoxal	phosphate)lysine
+D6WS35	Modified	303	N6-(pyridoxal	phosphate)lysine
+D6X389	Modified	305	N6-(pyridoxal	phosphate)lysine
+D6WN14	Modified	262	N6-(pyridoxal	phosphate)lysine
+D6WLR4	Modified	294	N6-(pyridoxal	phosphate)lysine
+D6W6V9	Modified	293	N6-(pyridoxal	phosphate)lysine
+D6WLA0	Modified	303	N6-(pyridoxal	phosphate)lysine
+D6WUC7	Modified	246	N6-(pyridoxal	phosphate)lysine
+D6W8W6	Modified	340	N6-(pyridoxal	phosphate)lysine
+D6WZU8	Modified	40	N6-(pyridoxal	phosphate)lysine
+D6WLR5	Modified	303	N6-(pyridoxal	phosphate)lysine
+D6WE64	Modified	730	N6-(pyridoxal	phosphate)lysine
+D6X391	Modified	305	N6-(pyridoxal	phosphate)lysine
+D6WRJ1	Modified	323	N6-(pyridoxal	phosphate)lysine
+D6X383	Modified	204	N6-(pyridoxal	phosphate)lysine
+A7U8C8	Modified	303	N6-(pyridoxal	phosphate)lysine
+D2A3Q4	Modified	61	3-oxoalanine	(Cys)
+A9YVA8	Modified	352	N6-(pyridoxal	phosphate)lysine
+A7U8C7	Modified	352	N6-(pyridoxal	phosphate)lysine
+D2A0H5	Glycosylation	65	N-linked	(GlcNAc...)
+D2A0H5	Glycosylation	434	N-linked	(GlcNAc...)
+Q26974	Glycosylation	110	N-linked	(GlcNAc...)
+Q26974	Glycosylation	134	N-linked	(GlcNAc...)
+Q26974	Glycosylation	173	N-linked	(GlcNAc...)
+Q26974	Glycosylation	313	N-linked	(GlcNAc...)
+Q23997	Glycosylation	233	N-linked	(GlcNAc...)
+P82963	Glycosylation	196	N-linked	(GlcNAc...)
+P82963	Glycosylation	234	N-linked	(GlcNAc...)
+P82963	Glycosylation	262	N-linked	(GlcNAc...)
+P82963	Glycosylation	454	N-linked	(GlcNAc...)
+P82963	Glycosylation	488	N-linked	(GlcNAc...)
+P82963	Glycosylation	530	N-linked	(GlcNAc...)
+P82963	Glycosylation	618	N-linked	(GlcNAc...)
+P82963	Glycosylation	648	N-linked	(GlcNAc...)
+P82963	Glycosylation	667	N-linked	(GlcNAc...)
+Q7Q6R1	Glycosylation	66	N-linked	(GlcNAc...)
+Q7Q6R1	Glycosylation	161	N-linked	(GlcNAc...)
+Q7Q6R1	Glycosylation	271	N-linked	(GlcNAc...)
+Q7Q6R1	Glycosylation	307	N-linked	(GlcNAc...)
+Q7QC49	Glycosylation	69	N-linked	(GlcNAc...)
+Q7QC49	Glycosylation	214	N-linked	(GlcNAc...)
+Q7QC49	Glycosylation	227	N-linked	(GlcNAc...)
+Q7QC49	Glycosylation	444	N-linked	(GlcNAc...)
+Q7QC49	Glycosylation	462	N-linked	(GlcNAc...)
+P86905	Glycosylation	64	N-linked	(GlcNAc...)
+P86905	Glycosylation	224	N-linked	(GlcNAc...)
+P86905	Glycosylation	268	N-linked	(GlcNAc...)
+D6WQG6	Cross-link	201	3'-(S-cysteinyl)-tyrosine	(Cys-Tyr)
+D6WZD5	204	N6-(pyridoxal	phosphate)lysine	Aminotran_5	domain
+D6WN14	262	N6-(pyridoxal	phosphate)lysine	Aminotran_1_2	domain
+D6WZU8	40	N6-(pyridoxal	phosphate)lysine	Ala_racemase_N	domain
+D6WE64	730	N6-(pyridoxal	phosphate)lysine	GDC-P	domain
+D2A3Q4	61	3-oxoalanine	(Cys)	Sulfatase	domain

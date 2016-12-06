@@ -1,0 +1,53 @@
+P01116	Modified	104	N6-acetyllysine
+P01116	Modified	118	S-nitrosocysteine
+Q76N23	Modified	4	Phosphothreonine
+Q76N23	Modified	5	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+Q76N23	Modified	5	N6%2CN6-dimethyllysine%3B	alternate
+Q76N23	Modified	5	N6-methyllysine%3B	alternate
+Q76N23	Modified	10	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+Q76N23	Modified	10	N6%2CN6-dimethyllysine%3B	alternate
+Q76N23	Modified	10	N6-acetyllysine%3B	alternate
+Q76N23	Modified	10	N6-methyllysine%3B	alternate
+Q76N23	Modified	11	Phosphoserine
+Q76N23	Modified	12	Phosphothreonine
+Q76N23	Modified	15	N6-acetyllysine
+Q76N23	Modified	19	N6-acetyllysine%3B	alternate
+Q76N23	Modified	24	N6-acetyllysine%3B	alternate
+Q76N23	Modified	28	N6-methylated	lysine
+Q76N23	Modified	29	Phosphoserine
+Q76N23	Modified	37	N6-methylated	lysine
+F4K5J1	Modified	1517	Phosphoserine
+Q76MV0	Modified	4	Phosphothreonine
+Q76MV0	Modified	5	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+Q76MV0	Modified	5	N6%2CN6-dimethyllysine%3B	alternate
+Q76MV0	Modified	5	N6-methyllysine%3B	alternate
+Q76MV0	Modified	10	N6%2CN6%2CN6-trimethyllysine%3B	alternate
+Q76MV0	Modified	10	N6%2CN6-dimethyllysine%3B	alternate
+Q76MV0	Modified	10	N6-acetyllysine%3B	alternate
+Q76MV0	Modified	10	N6-methyllysine%3B	alternate
+Q76MV0	Modified	11	Phosphoserine
+Q76MV0	Modified	12	Phosphothreonine
+Q76MV0	Modified	15	N6-acetyllysine
+Q76MV0	Modified	19	N6-acetyllysine%3B	alternate
+Q76MV0	Modified	24	N6-acetyllysine%3B	alternate
+Q76MV0	Modified	28	N6-methylated	lysine
+Q76MV0	Modified	29	Phosphoserine
+Q76MV0	Modified	37	N6-methylated	lysine
+O64629	Modified	167	Phosphoserine
+O64629	Modified	176	Phosphothreonine
+Q9M7Z1	Modified	116	N6-lipoyllysine
+Q0J4I1	Modified	38	Phosphothreonine
+Q0J4I1	Modified	39	Phosphotyrosine
+Q0J4I1	Modified	193	Phosphothreonine
+Q75VR0	Glycosylation	460	N-linked	(GlcNAc...)
+Q75VR1	Glycosylation	460	N-linked	(GlcNAc...)
+P01116	104	N6-acetyllysine	PDB:4QL3	Helix-region
+P01116	118	S-nitrosocysteine	GTP	nucleotide-binding
+O64629	167	Phosphoserine	Protein	domain
+O64629	176	Phosphothreonine	Protein	domain
+Q9M7Z1	116	N6-lipoyllysine	Lipoyl-binding	domain
+Q0J4I1	38	Phosphothreonine	Protein	domain
+Q0J4I1	38	Phosphothreonine	ATP	nucleotide-binding
+Q0J4I1	39	Phosphotyrosine	Protein	domain
+Q0J4I1	39	Phosphotyrosine	ATP	nucleotide-binding
+Q0J4I1	193	Phosphothreonine	Protein	domain

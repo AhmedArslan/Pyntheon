@@ -1,0 +1,6 @@
+S5VQ16	Modified	326	N6-(pyridoxal	phosphate)lysine
+F8U830	Glycosylation	64	N-linked	(GlcNAc...)
+F8U830	Glycosylation	86	N-linked	(GlcNAc...)
+F8U830	Glycosylation	104	N-linked	(GlcNAc...)
+F8U830	Glycosylation	249	N-linked	(GlcNAc...)
+F8U830	Glycosylation	451	N-linked	(GlcNAc...)
