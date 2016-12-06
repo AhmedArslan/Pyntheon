@@ -1,7 +1,6 @@
 # Pyntheon
 
-The post-translational modifications are the centre of functional gravity when it comes to protein structure and functional outcomes. With the exponential advancement of high through put data generating machine, Terabytes of data being generated on daily bases. Where data generation is getting easy and precise day by day where data analysis and interpretation reached new levels of complexity. In addition, functional annotation of PTMs is not a separate topic. around 400 PTMs have been discovered and very few have been analysed for their functional importance in the cell. The online tools like PTMCode and PTMfunc are contributing their share for reducing the work labor as these resources have complied PTMs data into functional and structural regions. But the need if to have recourse that can facilitates the bigger community of researchers. The researchers from all life sciences research fields wants to take advantage of PTMs can take advantage of the resource/tool. 
-we are presenting here a tool, Universal Functional PTMs Mapping Tool (Pyntheon) which maps PTMs present in the functional regions of proteins of almost lab specimens that are very popular among research community conducting research in lab. From viruses to human, this tool includes 85 species (see below) can help mapping the mutations to PTMS sites or just to give information about the PTMs present in the genelist. 
+we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps post translational modifications (PTMs) present in the functional regions of proteins of almost all lab specimens that are popular among research community. From viruses to human, this tool includes 87 species (see below) can help mapping the mutations to PTMS sites or just to give information about the PTMs present for a list of proteins of interest. 
 
 # Usage
 
@@ -46,21 +45,21 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 
 # Species ID
 
-Species name 						           -species
+# Species name 						           # -species
 
-Amphimedon queenslandica 				   aq
+Amphimedon queenslandica 				   # aq
 
-Anolis carolinensis 					       ac
+Anolis carolinensis 					       # ac
  
-Aplysia californica					        acc
+Aplysia californica					        # acc
 
-Arabidopsis thaliana 					at
+Arabidopsis thaliana 					# at
 
-Arbacia punctulata					ap
+Arbacia punctulata					# ap
 
-Ashbya gossypii						ag
+Ashbya gossypii						# ag
 
-Aspergillus nidulans					an
+Aspergillus nidulans					# an
 
 Bombina maxima						bm 
 
