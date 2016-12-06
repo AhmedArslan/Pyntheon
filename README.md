@@ -36,7 +36,7 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 
 -f 				A user input text file, with proteins list (parameter = ptm)or tab separated proteins lists with mutation sites (parameter = mutation)
 
--s			specify the species of interest for which a user has a proteins lists (see below)
+-s			specify the species of interest for which a user has a proteins lists (see species_id.txt)
 
 -p 				This parameter take in the proteins lists file and gives all the PTMs present in different functional regions for a particular protein present in the list.
 
