@@ -1,0 +1,5 @@
+Q9XF23	Modified	2	N-acetylalanine
+Q9SU72	Modified	2	N-acetylalanine
+P93002	Modified	11	Phosphoserine
+P93002	Modified	15	Phosphoserine
+P93002	Modified	156	S-nitrosocysteine
