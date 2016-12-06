@@ -44,4 +44,4 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 
 # output
 
-pyntheon-data.txt/pyntheon-mutation.txt (depending on the commend)
+pyntheon-data.txt/pyntheon-mutation-data.txt (depending on the commend)
