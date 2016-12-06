@@ -43,8 +43,5 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 -m			This parameter take in the proteins lists file with mutations in a tab separated format and  gives all the PTMs positions which overlaps with mutations along side with information about the functional regions where these mapped PTMs are present.
 
 # output
-(depending on the commend)
 
-pyntheon-data.txt
-# or
-pyntheon-mutation.txt
+pyntheon-data.txt/pyntheon-mutation.txt (depending on the commend)
