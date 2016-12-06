@@ -1,0 +1,22 @@
+
+include setup.py
+
+include ez_setup.py
+
+include README.md
+
+global-include pyntheon *.py
+
+global-include examples *.txt
+
+global-include tests
+
+include setup.cfg.cfg
+
+include PKG-INFO
+
+include MANIFEST.in
+
+include examples *.txt
+
+include tests *.py
