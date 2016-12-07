@@ -6,15 +6,15 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 # install via pip
 
-sudo install pyntheon -d /dir/where/to/install
+$ sudo install pyntheon -d /dir/where/to/install
 
-cd /dir/pyntheon
+$ cd /dir/pyntheon
 
-sudo python setup.py install
+$ sudo python setup.py install
 
-cd /dir/pyntheon/pyntheon
+$ cd /dir/pyntheon/pyntheon
 
-$pyntheon
+$ pyntheon
 
 fname “/gives/name/of/file/“
 
