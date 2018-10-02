@@ -17,7 +17,7 @@ setup(
 
 		description = "An automated tool to map mutations to Post Translational Modifitcaions (PTMs)",
 
-		url = "https://github.com/AhmedArslan/ptmAction",
+		url = "https://github.com/AhmedArslan/Pyntheon",
 
 		author = "Ahmed Arslan",
 
