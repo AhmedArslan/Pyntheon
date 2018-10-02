@@ -21,7 +21,7 @@ setup(
 
 		author = "Ahmed Arslan",
 
-		author_email = "ahmed.arslan@kuleuven.be",
+		author_email = "arslan@stanford.edu",
 
 		maintainder = "Ahmed Arslan",
 
