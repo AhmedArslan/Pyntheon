@@ -4,9 +4,9 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 # Usage
 
-# install via pip
+# install via pip3 
 
-$ sudo install pyntheon -d /dir/where/to/install
+$ pip3 install pyntheon -d /dir/where/to/install
 
 $ cd /dir/pyntheon
 
