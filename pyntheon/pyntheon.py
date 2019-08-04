@@ -13,8 +13,9 @@ def unimap(fname, species, ptm=None, mutation=None):
 	
 	""" The UniMap is a first attempt to make a universal PTMS reprository to help users to 
 	map PTMs to protein list and/or mutations to PTMs sites."""
-
-# 	with open ('pyntheon-data.txt', 'a') as ac:
+	global n1[0]
+	
+	with open ('pyntheon-data.txt', 'a') as ac:
 		if species in ('arbacia', 'ap'):
 			fname2 = 'Arbacia+punctulata-PTMs.txt'
 		elif species in ('branchiostoma', 'bf'):
@@ -200,15 +201,15 @@ def unimap(fname, species, ptm=None, mutation=None):
 						e = e.split()
 						if ptm:
 							if e[0] == line[0]:
-								with open (n1[0]+'pyntheon-data.txt', 'a') as ac:
+								with open (n1[0]+'-pyntheon-data.txt', 'a') as ac:
 									ac.write("\t".join(line)+'\n')
 						elif mutation:
 							if e[0] == line[0] and e[1] == line[1]:
-								with open (n1[0]+'pyntheon-mutation-data.txt', 'a') as ac:
+								with open (n1[0]+'-pyntheon-mutation-data.txt', 'a') as ac:
 									ac.write("\t".join(line)+'\n')
 									pass
 							elif e[0] == line[0] and e[1] == line[2]:
-								with open (n1[0]+'pyntheon-mutation-data.txt', 'a') as ac:
+								with open (n1[0]+'-pyntheon-mutation-data.txt', 'a') as ac:
 									ac.write("\t".join(line)+'\n')
 						else:
 							return "data not found"
