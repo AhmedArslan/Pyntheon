@@ -18,7 +18,7 @@ $ pyntheon
 
 fname “/gives/name/of/file/“
 
-species “species-id”
+species “species-id” (see file: species_id.txt)
 
 ptm True/False
 
