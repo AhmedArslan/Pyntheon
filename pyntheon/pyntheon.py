@@ -13,7 +13,6 @@ def unimap(fname, species, ptm=None, mutation=None):
 	
 	""" The UniMap is a first attempt to make a universal PTMS reprository to help users to 
 	map PTMs to protein list and/or mutations to PTMs sites."""
-	global n1[0]
 	
 	with open ('pyntheon-data.txt', 'a') as ac:
 		if species in ('arbacia', 'ap'):
