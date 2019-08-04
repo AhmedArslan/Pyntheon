@@ -8,6 +8,8 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 $ pip3 install pyntheon
 
+# OR clone git 
+
 $ cd /dir/pyntheon
 
 $ sudo python setup.py install
