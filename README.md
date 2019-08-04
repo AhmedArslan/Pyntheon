@@ -6,13 +6,9 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 # install via pip3 
 
-$ pip3 install pyntheon -d /dir/where/to/install
+$ pip3 install pyntheon
 
-$ cd /dir/pyntheon
-
-$ sudo python setup.py install
-
-$ cd /dir/pyntheon/pyntheon
+# run via commendline
 
 $ pyntheon
 
@@ -24,13 +20,11 @@ ptm True/False
 
 mutation False/True
 
-# source-code
+# run via source-code
 
-cd /dir/pyntheon
+$python /path/to/pyntheon.py -f test1.txt -s hs -p TRUE
 
-$python pyntheon.py -f test1.txt -s hs -p TRUE
-
-$python pyntheon.py -f test1.txt -s hs -m TRUE
+$python /path/to/pyntheon.py -f test1.txt -s hs -m TRUE
 
 # Parameter description
 
@@ -45,3 +39,6 @@ $python pyntheon.py -f test1.txt -s hs -m TRUE
 # output
 
 pyntheon-data.txt / pyntheon-mutation-data.txt (depending on the commend)
+
+# Cite
+if you like this tool please cite:
