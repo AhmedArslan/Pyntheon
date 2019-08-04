@@ -211,7 +211,7 @@ def unimap(fname, species, ptm=None, mutation=None):
 							return "data not found"
 
 def pyn():
-	unimap(input("fname"), input("species"), input("ptm"), input ("mutaton"))
+	unimap(input("fname"), input("species"), input("ptm"), input ("mutation"))
 		
 if __name__ == "__main__":
 
