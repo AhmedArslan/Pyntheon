@@ -4,11 +4,13 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 # Usage
 
-# install via pip3 
+# install
+
+via pip3 
 
 $ pip3 install pyntheon
 
-# OR clone git 
+OR clone git 
 
 $ cd /dir/pyntheon
 
