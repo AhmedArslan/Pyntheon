@@ -195,7 +195,7 @@ def unimap(fname, species, ptm=None, mutation=None):
 				with open(fname, 'rU') as user:
 					nam = user.name
 					n = nam.split('/')
-					n1 = na[-1].split('.')
+					n1 = n[-1].split('.')
 					for e in user:
 						e = e.split()
 						if ptm:
