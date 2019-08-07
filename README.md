@@ -8,9 +8,9 @@ we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps 
 
 via pip3 
 
-$ pip3 install pyntheon
+$ pip3 install -t /path/to/dir/ pyntheon
 
-OR clone git 
+OR $ git clone https://github.com/AhmedArslan/Pyntheon 
 
 $ cd /dir/pyntheon
 
