@@ -1,6 +1,6 @@
 # Pyntheon
 
-we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps post translational modifications (PTMs) present in the functional regions of proteins of almost all lab specimens that are popular among research community. From viruses to human, this tool includes 87 species (see species_id.txt) can help mapping the mutations to PTMS sites or just to give information about the PTMs present for a list of proteins of interest. 
+we are presenting, Universal Functional PTMs Mapping Tool (Pyntheon) which maps post translational modifications (PTMs) present in the functional regions of proteins of almost all lab specimens that are popular among research community. From viruses to human, this tool includes 87 species (see species_id.txt) can help mapping the mutations to PTMs sites or give information about the PTMs present for a list of proteins (UniProt ID) of interest. 
 
 # Usage
 
