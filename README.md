@@ -34,13 +34,13 @@ mutation False/True
 
 # run via source-code
 
-$python /path/to/pyntheon.py -f test1.txt -s hs -p TRUE
+$python /path/to/pyntheon.py -f uniprot-ids.txt -s hs -p TRUE
 
-$python /path/to/pyntheon.py -f test1.txt -s hs -m TRUE
+$python /path/to/pyntheon.py -f uniprot-id&mutation-aa-positions.txt -s hs -m TRUE
 
 # Parameter description
 
--f 				A user input text file, with proteins list (parameter = ptm)or tab separated proteins lists with mutation sites (parameter = mutation)
+-f 				A user input tab-separated-text file, with proteins list (parameter = ptm)or tab separated proteins lists with mutation sites (parameter = mutation)
 
 -s			specify the species of interest for which a user has a proteins lists (see species_id.txt)
 
