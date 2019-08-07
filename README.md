@@ -10,13 +10,13 @@ via pip3
 
 $ pip3 install -t /path/to/dir/ pyntheon
 
-via git
-
-$ git clone https://github.com/AhmedArslan/Pyntheon 
-
 $ cd /dir/pyntheon
 
 $ sudo python setup.py install
+
+OR via git
+
+$ git clone https://github.com/AhmedArslan/Pyntheon 
 
 $ cd /dir/pyntheon/pyntheon
 
