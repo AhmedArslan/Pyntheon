@@ -10,7 +10,9 @@ via pip3
 
 $ pip3 install -t /path/to/dir/ pyntheon
 
-OR $ git clone https://github.com/AhmedArslan/Pyntheon 
+via git
+
+$ git clone https://github.com/AhmedArslan/Pyntheon 
 
 $ cd /dir/pyntheon
 
