@@ -54,3 +54,5 @@ pyntheon-data.txt / pyntheon-mutation-data.txt (depending on the commend)
 
 # Cite
 if you like this tool please cite:
+
+Pyntheon: A Functional Analysis Framework for Protein Modifications and Mutations of 83 Model Organisms Ahmed Arslan bioRxiv 725846; doi: https://doi.org/10.1101/725846
