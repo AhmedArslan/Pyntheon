@@ -37,12 +37,19 @@ In future development, I am aiming to implement Pyntheon in R and in an HTML-bas
 
 #References 
 Arslan A, van Noort V. yMap: an automated method to map yeast variants to protein modifications and functional regions. Bioinformatics. 2017;33(4):571–573. 
+
 Beltrao P. et al (2012) Systematic Functional Prioritization og Protein Posttranslational Modifications. Cell. 2, 413-425 
+
 Forbes et al (2014) COSMIC: exploring the world's knowledge of somatic mutations in human cancer. Nucl. Acids Res. 43, 805-811. 
+
 Haung et al (2010). A Gain-of-Function Mutation in the Arabidopsis Disease Resistance Gene RPP4 Confers Sensitivity to Low Temperature. Plant Physiology. 154, 796-809. 
+
 Hornbeck P. V. et al. (2015) PhosphoSitePlus, 2014: mutations, PTMs and recali brations. Nucleic Acids Research. 43, 512–520. 
+
 Lee TY, Huang HD, Hung JH, Huang HY, Yang YS, Wang TH. dbPTM: an information repository of protein post-translational modification. Nucleic Acids Res. 2006;34(Database issue):D622–D627. doi:10.1093/nar/gkj083 
+
 Minguez P. et al. (2012) Deciphering a global network of functionally associated post- translational modifications. Mol. Syst. Biol. 8,599 
+
 Sever R, Brugge JS. Signal transduction in cancer. Cold Spring Harb Perspect Med. 2015;5(4):a006098. Published 2015 Apr 1. doi:10.1101/cshperspect.a006098 
 The UniProt Consortium, UniProt: a worldwide hub of protein knowledge, Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D506–D515 
 
