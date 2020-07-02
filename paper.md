@@ -1,4 +1,5 @@
 #Pyntheon: A Functional Analysis Framework for Protein Modifications and Mutations of 83 Model Organisms 
+
 #Ahmed Arslan
 
 #Abstract
@@ -12,6 +13,7 @@ Conclusion: Pyntheon has multifold functions that can help analyzing the protein
 #Contact: aarslan@stanford.edu 
 
 #1 Introduction 
+
 The Post-translational Modifications (PTMs) help proteins to achieve functional trade off with the environment by either activating or inactivating their functions. These modifications are extremely important for the proper protein functions under an ever-fluctuating cellular environment. Any perturbation that leads to either quantitative or qualitative differences in a modification, can result in a phenotypic abnormality (Reimand J. et al. 2105). Several seminal studies have shown that various human diseases have mutated modified residue(s). Besides human, other popular model organisms have greatly instrumented our understanding of protein modifications, both in normal and disease state. Commonly, such studies are conducted either at an individual cell level, like in the case of yeast, or at a whole organism level, such as mice, and have shown the importance of different PTM-types in signaling, transportation, protein attachments. Overall, biological systems studies are a significant step forward in understanding protein-protein interaction and the role of PTMs in these interactions. 
 The boom in the generation of protein modification data led to the development of several computational tools and curated databases. These tools have been very useful in facilitating in further understanding of the role of PTMs. These resources contain data of limited PTM types (and number of organisms), such as Phosphosite1 Plus (Hornbeck P. V. et al 2015), PTMcode (Minguez P. et al. 2012) and PTMfunc (Beltrao P. 2012). Despite these resources, there is a lack of tools that contain information for a large number of model organisms (being studied in the lab) that can facilitate scientists in accessing and analyzing the PTMs. Additionally, except for few options (Arslan A and van Noort 2017), most of the available resources do not provide functional assessment of protein mutations impacting the PTMs. Likewise, an automated evaluation tool of mutated PTM residues present in different protein functional regions, like domain or structural features, is lacking. 
 To fill this gap, I developed Pyntheon, a python package that can help users from across the scientific spectrum in analyzing the PTMs data from 83 popular model organisms (see “species_id.txt” for list of all the available organisms). The command-line tool allows users to (i) retrieve the PTMs data locally for the proteins of 83 different organisms; (ii) analyze if protein residues of interest (mutations) overlap with the PTMs sites; and (iii) if the PTMs of interest are present in a protein functional region like domain or helix. 
@@ -19,6 +21,7 @@ To develop the database, I retrieved protein modification data from UniProt (The
 To develop the tool, I implemented this method in python (version 2.x and 3.x) as it makes the tool easy to use: a simple one-line command allows accessing and analyzing the compiled PTMs data (see supplementary information). This type of methods has many benefits over conventional html-based tools. It allows users to retrieve big data as flat-text files and is a much faster way to analyze the user-provided data than the conventional tools. 
 
 #2 Examples 
+
 The two following examples show the utility and robustness of Pyntheon. In the first case, I retrieved protein mutation data on human cancers from COSMIC database (Forbes et al 2014). I selected 262,013 non-redundant pathogenic amino-acid alterations present in 7,574 proteins from different tumors (see supplementary information). With a simple one-line command (A) I mapped all the tumor-associated mutational data to human PTMs data and conveniently observed (i) how many proteins that are known in human tumors are modified and (ii) how many of these protein mutation positions overlap with the modified residues. 
 
 $ python3 pyntheon.py -f file.txt -s hs -m TRUE ...... (A) 
@@ -36,6 +39,7 @@ The development of such a comprehensive tool will generate interest in analysis 
 In future development, I am aiming to implement Pyntheon in R and in an HTML-based user interface, to further facilitate users. 
 
 #References 
+
 Arslan A, van Noort V. yMap: an automated method to map yeast variants to protein modifications and functional regions. Bioinformatics. 2017;33(4):571–573. 
 
 Beltrao P. et al (2012) Systematic Functional Prioritization og Protein Posttranslational Modifications. Cell. 2, 413-425 
