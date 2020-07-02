@@ -1,13 +1,21 @@
-Pyntheon: A Functional Analysis Framework for Protein Modifications and Mutations of 83 Model Organisms 
+---
+title: 'Pyntheon: A Functional Analysis Framework for Protein Modifications and Mutations of 83 Model Organisms'
+tags:
+- python
+- Posttranslational modifications (PTMs)
+- cell
+- computational biology
+authors: 
+- name: Ahmed Arslan
+orcid: https://orcid.org/0000-0002-5325-6558
+date: 01 July 2020
+bibliography: paper.bib
 
-Ahmed Arslan
-
+---
 Summary
 
 Posttranslational modifications (PTMs) modulate proteins activity depending on the dynamics of cellular conditions, in the highly regulated processes that control the reversible nature of these modifications and a cellular state. Due to the unique importance of PTMs, a number of resources are available to analyze the protein modification data for different organisms. These databases are quite informative on a limited number of popular organisms, mostly human and yeast. However there has not been a single database to date that makes it possible to analyze the modified protein residue data for up to 83 model organisms. Moreover, there are limited resources that rely on both protein mutations and modifications in evaluating a phenotype.
 I am presenting a comprehensive python tool Pyntheon that enables users to analyze protein modifications and mutations data. This resource can be used in different ways to know: (i) if the proteins of interest have modifications and (ii) if the modified residues overlap with mutated sites. Additional functions include, analyzing if a PTM-site is present in a functional protein region, like domain and structural regions. In summary, Pyntheon makes it possible for a larger community of researchers to evaluate their curated proteomics data and interpret the impact of mutations on phenotypes. Pyntheon has multifold functions that can help analyzing the protein mutations impact on the modified residues for a large number of popular model organisms.
-
-Contact: ahmedakhokhar@gmail.com 
 
 2 Examples 
 
@@ -26,24 +34,3 @@ These examples show the potential of Pyntheon in evaluating the involvement of p
 
 The development of such a comprehensive tool will generate interest in analysis of mutational overload impacting the PTMs present in a large number of species. The ease of use for the analyses of large experimental datasets will accelerate the understanding and interpretation of PTM functions-dependent biological systems. I believe, Pyntheon will help the larger scientific community study PTMs in different species. 
 In future development, I am aiming to implement Pyntheon in R and in an HTML-based user interface, to further facilitate users. 
-
-References 
-
-Arslan A, van Noort V. yMap: an automated method to map yeast variants to protein modifications and functional regions. Bioinformatics. 2017;33(4):571–573. 
-
-Beltrao P. et al (2012) Systematic Functional Prioritization og Protein Posttranslational Modifications. Cell. 2, 413-425 
-
-Forbes et al (2014) COSMIC: exploring the world's knowledge of somatic mutations in human cancer. Nucl. Acids Res. 43, 805-811. 
-
-Haung et al (2010). A Gain-of-Function Mutation in the Arabidopsis Disease Resistance Gene RPP4 Confers Sensitivity to Low Temperature. Plant Physiology. 154, 796-809. 
-
-Hornbeck P. V. et al. (2015) PhosphoSitePlus, 2014: mutations, PTMs and recali brations. Nucleic Acids Research. 43, 512–520. 
-
-Lee TY, Huang HD, Hung JH, Huang HY, Yang YS, Wang TH. dbPTM: an information repository of protein post-translational modification. Nucleic Acids Res. 2006;34(Database 
-issue):D622–D627. doi:10.1093/nar/gkj083 
-
-Minguez P. et al. (2012) Deciphering a global network of functionally associated post- translational modifications. Mol. Syst. Biol. 8,599 
-
-Sever R, Brugge JS. Signal transduction in cancer. Cold Spring Harb Perspect Med. 2015;5(4):a006098. Published 2015 Apr 1. doi:10.1101/cshperspect.a006098 
-The UniProt Consortium, UniProt: a worldwide hub of protein knowledge, Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D506–D515 
-
